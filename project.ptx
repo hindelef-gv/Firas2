@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
+
+<project ptx-version="2">
+  <targets>
+    <!-- Main course for html or pdf -->
+    <target name="course" source="main.ptx" format="html"
+            publication="publication.ptx" deploy-dir="course" />
+    <target name="print" source="main.ptx" format="pdf"
+            output-filename="course.pdf" publication="publication.ptx" />
+
+    <!--
+    <target name="slides" source="slides/slides.ptx" format="revealjs"
+            publication="publication-slides.ptx" deploy-dir="slides"
+            output-filename="index.html"/>
+    -->
+    <!-- 
+    <target name="slides-annotated" source="slides/slides.ptx" format="revealjs"
+            publication="publication-slides-annotated.ptx" deploy-dir="slides-annotated"
+            output-filename="index.html"/>
+    -->
+
+
+
+  <!-- The following targets are used to create stand-alone documents, which could be additional slide decks, pdfs, or SCORM archives. Run with `pretext build slides -i source/slides/[filename.ptx]`, for example. -->
+  <target name="pdf" standalone="yes" format="pdf"
+          output-dir="pdfs" publication="publication_standalone.ptx"/>
+  <target name="slides" standalone="yes" format="revealjs"
+          output-dir="slides" publication="publication-slides.ptx"/>
+  <target name="slides-annotated" standalone="yes" format="revealjs"
+          output-dir="slides" publication="publication-slides-annotated.ptx"/>
+  <target name="scorm" standalone="yes" format="html" compression="scorm"
+          output-dir="scorms" publication="publication_standalone.ptx"/>
+  </targets>
+</project>
+
+
+<!-- SAMPLE MANIFEST illustrating all options. Defaults are given (mostly).              -->
+
+<!-- <project
+        ptx-version="2"
+        source="source"
+        publication="publication"
+        output-dir="output"
+        site="site"
+        stage="output/stage"
+        xsl="xsl"
+        asy-method="local"
+    >
+      <targets>
+          <target
+            name="web"
+            format="html"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="web"
+            deploy-dir="interactive"
+            xsl="custom-html.xsl"
+            asy-method="local"
+          />
+          <target
+            name="web-zipped"
+            format="html"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="web"
+            compression="zip"
+            asy-method="local"
+          />
+          <target
+            name="runestone"
+            format="html"
+            platform="runestone"
+          />
+          <target
+            name="print"
+            format="pdf"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="print"
+            output-filename="mybook.pdf"
+            latex-engine="pdflatex"
+            deploy-dir="pdf"
+          />
+          <target
+            name="latex"
+            format="latex"
+          />
+          <target
+            name="braille"
+            format="braille"
+            braille-mode="emboss"
+          />
+        </targets>
+</project>
+-->

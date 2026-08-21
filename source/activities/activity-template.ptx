@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet>
+  <title>Activity Title</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      This is the introduction to the activity.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        This is the first exercise.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

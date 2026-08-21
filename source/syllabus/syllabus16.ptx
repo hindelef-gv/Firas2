@@ -1,0 +1,641 @@
+<section xml:id="syllabus16" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MTH 110-16 Syllabus</title>
+<!--
+  <introduction>
+    <p>
+    </p>
+  </introduction> -->
+  <!-- Include chapters -->
+  
+  
+  <!-- Include chapters -->
+  <subsection xml:id="sec16-course-info">
+    <title>Course Information</title>
+
+    <p>
+      This is the syllabus for <term> (MTH 110-16)</term> 
+      for Fall 2026. It is a 4-credit course.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Instructor</title>
+
+          <p>
+            Prof. Firas Hindeleh, MAK A-2-116, <phone>(616) 331-3739</phone>, 
+            <url href="mailto:hindelef@gvsu.edu">hindelef@gvsu.edu</url>.
+                      </p>
+        </li>
+
+        <li>
+          <title>Student Hours\ availability </title>
+
+          <p>
+            I will be holding my office hours on TR 10-10:50AM at my office and on Mondays 10-10:50 at the Peer Collaboration Space PCS (MAK A-2-610). Outside office hours, feel free to stop by my office. Please note that I typically only check email and other messages between 8am and 5pm on weekdays. If you send a message that needs a response during those times, you can expect to get a response within 6 hours. 
+          </p>
+        </li>
+
+        <li>
+          <title>Class meets</title>
+
+          <p>
+            TR 8:00-9:50PM MAK BLL118 .
+          </p>
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            A symbolic, numeric, and graphic approach to intermediate algebra with an emphasis on applications. Topics include operations, equations, and inequalities of linear, exponential, logarithmic, quadratic, rational, and radical functions. Please see the mathematics program for placement test details.
+          </p>
+        </li>
+
+        <li>
+          <title>Prerequisite</title>
+
+          <p>
+            MTH 097 or assignment through GVSU Math Placement. If you think you have been placed in the wrong course, please see me after class today to discuss your placement. You can take a practice proficiency exam: <url href="gvsu.edu/s/Ik">gvsu.edu/s/Ik</url> .To learn about how to take the exam watch: <url href="gvsu.edu/s/jq">gvsu.edu/s/jq</url>. To take the actual proficiency exam: <url href="gvsu.edu/s/jk"> gvsu.edu/s/jk</url>. It is free and I will not know that you took it.
+          </p>
+        </li>
+
+        <li>
+          <title>Textbook (Optional for reference) </title>
+
+          <p>
+            <pubtitle>Intermediate Algebra, Functions and Authentic Applications</pubtitle> by Lehmann published by Pearson, 5th edition.
+          </p>
+        </li>
+      </dl>
+    </p>
+    <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>Topics</title>
+
+      <p>
+        
+        <ul>
+          <li>
+            <p>Reframing Mathematical Mindset (1-2 week) </p>
+          </li>
+
+          <li>
+            <p>Exponential Functions (3 - 5 weeks) </p>
+          </li>
+
+           <li>
+            <p>Inverse Functions and Logarithmic Functions (2 - 4 weeks) </p>
+          </li>
+
+           <li>
+            <p>Quadratic Functions (3 - 5 weeks) </p>
+          </li>
+
+           <li>
+            <p>Rational and Radical Functions (1 - 2 weeks)</p>
+          </li>
+
+        </ul>
+      </p>
+    </paragraphs>
+     <paragraphs>
+      <title>Course Objectives</title>
+      <p>After successful completion of the course, students will be able to… 
+        <ol marker="1.">
+          <li>
+            Analyze realistic or real-world situations in a mathematical way, using exponential and quadratic models. 
+          </li>
+        
+
+        
+          <li>
+            Select appropriate variables to represent the functional inputs and outputs for a mathematical model of a situation using exponential and quadratic models. 
+          </li>
+        
+
+        
+          <li>
+            Create an appropriate mathematical model from a description or data, using, if necessary, appropriate technological tools for exponential and quadratic models. 
+          </li>
+        
+
+        
+          <li>
+            Solve problems involving exponential, logarithmic, and quadratic equations. 
+          </li>
+        
+
+        
+          <li>
+           Translate between different representations of functions (algebraic, graphical, and tabular) 
+          </li>
+        
+
+       
+          <li>
+            Explain the mathematical reasoning involved in solving a problem both orally and in writing. 
+          </li>
+        </ol>
+        </p>
+         </paragraphs>
+</subsection>
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec16-coursetech">
+    <title>Course Technologies</title>
+<dl>
+        <li>
+          <title>BlackBoard</title>
+
+          <p>
+            All announcements, assignments, and other course details will be communicated through the course home page, which you access by going to the Blackboard server <url href="http://lms.gvsu.edu">http://lms.gvsu.edu</url> You will be expected to access the course home page frequently and respond accordingly to announcements and assignments posted there. In addition, it will be essential to be a regular user of email in this course. Be sure your preferred email address has been appropriately updated in your Banner. 
+          </p>
+        </li>
+<li>
+  <title>Laptop/Tablet:</title>
+  <p>
+    Preferably one with a touchscreen that allows writing on the screen with a stylus. If you do not have a laptop\tablet that you can bring to class, please let me know so I can bring a device you can use. 
+  </p>
+</li>
+
+<li><title>Web Browser</title>
+  <p>
+    Chrome is the preferred browser. Make sure that you are using your GV Google profile when using school related items. Browsers such as Firefox and Edge are also fine. Safari has many issues with Bb. 
+  </p>
+</li>
+<li><title>Scanning</title>
+  <p>
+    To scan your paper work into a pdf, you can either use: </p>
+    <ul>
+      <li>
+        <p>The Xerox machines around campus. </p>
+      </li>
+      <li>
+        <p>
+          Your iPhone, see instructions at <url href="https://apple.co/2DELGuj"> https://apple.co/2DELGuj</url>  
+        </p>
+      </li>
+      <li>
+        <p>
+          Your Android phone, see instructions at, see instructions at <url href="https://bit.ly/2XAY6dQ"> https://bit.ly/2XAY6dQ</url>  
+        </p>
+      </li>
+    </ul> 
+
+    
+ 
+</li>
+<li><title>Desmos</title>
+<p>
+  The primary calculator tool that we will use is Desmos <url href="https://www.desmos.com/ "> https://www.desmos.com/ </url> This is a free web-based tool that can run in any browser, or on your smartphone\tablet as an app. Once you are in Desmos, you can login with your Google account in order to save and share your work. 
+</p>
+      </li>
+
+      <li><title>Amplify Classroom: </title>
+<p>
+  Many of our in-class activities will be done on our Amplify Classroom platform. Join our classroom at <url href="https://learning.amplify.com/join/#/Y9MWQY"> https://learning.amplify.com/join/#/Y9MWQY </url> after clicking on the link, click on Sign in with Google button at the bottom of the window, choose your GV Google email from the list of google accounts that you have.
+</p>
+      </li>
+        </dl>
+  </subsection>
+
+<!-- Other subsections for larger dividers -->
+  <subsection xml:id="flow16">
+    <title>Structure and Flow of the Course</title>
+
+    <p>
+      Your MTH 110 course is being offered in a face-to-face (F2F) mode. The content of MTH 110 is divided into 15 modules (one module per week). Each of which is divided into two parts (one for each class meeting). Your engagement and work on each module follow a standard pattern: 
+      <ul>
+        <li>
+          <p>Before each class meeting, you need to go to the corresponding day and complete the Prep Work for that day. Prep work involves watching screencasts that leads you through independent learning of the basic ideas of new material, then complete their exit preview quiz. </p>
+        </li>
+
+        <li>
+          <p>During our class meeting, you will participate in active work on applications and analysis of the basic information you learned in the Preview assignment.  Your attendance is important for the group and for your learning.  </p>
+        </li>
+
+        <li>
+          <p>There is a weekly online homework on WebWork (see below). This is typically due at 11PM on Saturdays. You need to pace yourself during the week and finish a few problems each day. Office hours is a great place to work on that with the rest of the group.  </p>
+        </li>
+      </ul>
+
+    </p>
+    
+  </subsection>
+
+  
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-assessments16">
+    <title>Assessments and Grades</title>
+
+    v
+
+    <dl>
+        <li>
+          <title>WebWork 15%</title>
+
+          <p>
+            Online homework is assigned regularly using WeBWorK. To access this log in to: <url href="https://webwork-math.gvsu.edu/webwork2/MTH110-16/ "> https://webwork-math.gvsu.edu/webwork2/MTH110-16/ </url>. You will get instant feedback on your answers, and you will have the opportunity to attempt any homework question an unlimited number of times before its deadline. Every assignment opens on Friday and is due on Saturday at 11:00PM of every week. You also may seek help from me, the Math Center tutors or each other. Once the assignment is closed answers will come available for download. To learn about WeBWorK check out GVSU YouTube Channel <url href="http://gvsu.edu/s/0vD"> http://gvsu.edu/s/0vD</url> and search for the “WeBWorK for students” playlist or go directly there with<url href="http://gvsu.edu/s/0vE"> http://gvsu.edu/s/0vE</url>. 
+          </p>
+        </li>
+<li>
+  <title>In-Class Activities 30%</title>
+  <p>
+    Every meeting, we will have an in-class group activity. Such activities will be completed in groups, where each student will receive the same grade.  The goal of those activities is to get a hands-on experience with topics being discussed. Missing a class means that you forfeit the points of those activities. I will drop the lowest two activities in case you had to miss class that day. No excuses
+  </p>
+</li>
+
+<li><title>Preview Activities 5%</title>
+  <p>
+    Before class, there are some screencasts that I ask you to watch and then take simple 2-3 question activity on Bb. 
+  </p>
+</li>
+<li><title>Learning Targets 50%</title>
+  <p>
+    This class will use a mastery-based testing policy. The mastery-based testing works like this: The course material is broken into 19 main Learning Targets (LTs), See the Learning Targets section below. This is a rather rigid scoring system, where partial credit is not awarded. The benefit is that students will have multiple attempts to demonstrate their mastery of the material at no cost for failing to do so on their first attempt. 
+</p><p>
+    Every other Thursday you will have a checkpoint to attempt 1-2 LTs, with the opportunity to re-attempt the LTs from the previous checkpoint. If you still did not reach mastery, you can re-attempt the LTs you need during my office hours. Your last chance to attempt all LTs will be on your final exam which scheduled for Thursday, December 17, 8:00 am - 9:50 am.
+</p><p>
+    After all four exams are completed, each student will have a number of mastered topics out of the 19 main topics. The percentage of mastered topics is the exam score for that student and will account for 50% of the course grade as per the grade distribution above. There is no penalty for mastering a LT on the second, third, or fourth exam after failing to do so on a previous exam. If students demonstrate that they've mastered a topic at any point during the semester, they receive full credit for doing so. 
+    </p><p>
+      The grading of the LTs will be tough (no partial credit will be given) since it is an indication if the student has mastered the target or not. The benefit of this system is that students are not punished if they fail to master a topic but over the course of the semester demonstrate that they have mastered the topic. 
+    </p>
+
+    
+ 
+</li>
+        </dl>
+        <p>
+      Final grades will be no lower than as determined by the following scale:   
+    </p>
+    <table xml:id="tab-name16">
+      <title>Grading Schema</title>
+      <tabular>
+        <row header="No">
+          <cell>A: 93-100%</cell>
+          <cell>A-: 90-92.99% </cell>
+          
+        </row>
+        <row>
+          <cell>B+" 87-89.99%</cell>
+          <cell>B: 83-86.99%</cell>
+          <cell>B-: 80-82.99%</cell>
+        </row>
+
+        <row>
+          <cell>C+" 77-79.99%</cell>
+          <cell>C: 73-76.99%</cell>
+          <cell>C-: 70-72.99%</cell>
+        </row>
+
+        <row>
+          <cell>D+" 67-69.99%</cell>
+          <cell>D: 63-66.99%</cell>
+          <cell>F: 0-62.99%</cell>
+        </row>
+      </tabular>
+    </table>
+  </subsection>
+
+
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="LTs16">
+    <title>Learning Targets</title>
+
+  </subsection>
+
+    <p>
+      <ol marker="1.">
+        <li>
+          <p>[Functions] I can sketch qualitative graphs with appropriate variable definitions.
+</p>
+        </li>
+
+        <li>
+          <p>[Functions] I can describe a situation given a qualitative graph with defined inputs and outputs.  </p>
+        </li>
+
+        <li>
+          <p>[Linear] Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+</p>
+        </li>
+
+        <li>
+          <p>[Linear] Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate <m>f(a)</m>, find <m>x</m> given <m>f(a)</m> and make the equation of the line.
+</p>
+        </li>
+
+        <li>
+          <p>[Linear] Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning, and determine what inputs make sense.
+</p>
+        </li>
+
+        <li>
+          <p>[Linear] Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.
+</p>
+        </li>
+
+        <li>
+          <p>[Linear] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.
+</p>
+        </li>
+
+        <li>
+          <p>[Linear] I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application.  I can translate between different representations.
+</p>
+        </li>
+
+        <li>
+          <p>[Exponential] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+</p>
+        </li>
+
+        <li>
+          <p>[Exponential] Given an exponential graph, identify the growth/decay rate, the vertical intercept, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m> and make an equation for the curve.
+</p>
+        </li>
+
+        <li>
+          <p>[Exponential] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth/decay, make an equation, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning, and determine what inputs make sense.
+</p>
+        </li>
+
+         <li>
+          <p>[Exponential] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
+        </li>
+
+        <li>
+          <p>[Exponential] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.
+</p>
+        </li>
+
+        <li>
+          <p>[Quadratic] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context,find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+</p>
+        </li>
+
+        <li>
+          <p>[Quadratic] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m>.
+</p>
+        </li>
+
+        <li>
+          <p>[Quadratic] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.
+</p>
+        </li>
+
+        <li>
+          <p>[Quadratic] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
+        </li>
+
+        <li>
+          <p>[Radical] Given a radical application, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.
+</p>
+        </li>
+
+        
+
+        <li>
+          <p>[Rational] Given a rational application, find an equation, and find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.</p>
+        </li>
+      </ol>
+    </p>
+
+
+<subsection xml:id="help16">
+  <title>Where to go and what to do for help</title>
+  <p>
+    <ul>
+      <li>
+        <p>Come see me: One of the best ways to improve your chances of success is to come and talk to me about how you are doing in the course.  We can review material and I can give you extra direction.  I know what is important in this course, so I can help you understand those important ideas.  Don’t struggle alone! </p>
+      </li>
+
+      <li>
+        <p>Math Center: GVSU's Math Tutoring Center offers both in-person and online drop-in tutoring this semester, starting Wednesday, August 31. You can access the most up-to-date information on our website at <url href="http://gvsu.edu/tutoring/math/">http://gvsu.edu/tutoring/math/ </url>.  There you will find our current hours, information on how to access online tutoring with Discord Voice and a schedule of when you can find tutors to help with your specific course. Bring questions to any center about using technology (calculator or Desmos), on methods and concepts, or on specific problems. All Math Center tutoring is FREE, so stop by early and often. </p>
+
+        <p>
+          The Math Tutoring Center offers:
+          <ul>
+            <li>
+              <p>in-person tutoring on the Allendale campus (MAK A-2-601): Monday – Thursday 10am – 5pm and Friday 10am – 2pm  </p>
+            </li>
+
+            <li>
+              <p> in-person tutoring on the Pew campus (Steelcase Library Collaboration Zone DeVos A): Tuesday – Thursday 12pm – 4pm (<url href="http://gvsu.edu/tutoring/math/">check website </url>, hours can change)</p>
+            </li>
+
+            <li>
+              <p>online tutoring via Discord Voice: Sunday – Thursday 5pm – 8pm</p>
+            </li>
+          </ul>
+<p>
+To access virtual drop-in tutoring, you can use the link in your Blackboard course called Math Tutoring Center or visit our website.  Then you will need to click on the “Online Math Tutoring Center” button, which will require a GVSU login.  We ask that when you enter our Discord server, please change your username to your first and last name so we can get you signed in and connected with a tutor.</p>
+        </p>
+      </li>
+<li>
+  <p>
+    Tutoring and Reading Center Appointments:  GVSU’s Tutoring and Reading Center offers appointment tutoring both in-person and virtually.  You can sign up for 50-minute tutoring appointments for many Math courses.  Request a tutor at <url href="https://www.gvsu.edu/trc/">https://www.gvsu.edu/trc/ </url>  or schedule directly on <url href="https://www.gvsu.edu/navigate">Navigate </url>.
+
+  </p>
+</li>
+      <li>
+        <p>Form a study group: Another good strategy is to form a study group of your peers, from this class or others. By explaining (or trying to explain) the material to others you will quickly learn what you do and don’t understand.  Then as a team you can learn the material. Again, don’t struggle alone! </p>
+      </li>
+    </ul>
+  </p>
+</subsection>
+
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="Policies16">
+    <title>University and Class Policies </title>
+
+    <p>
+     This course is subject to the GVSU policies listed at <url href="http://www.gvsu.edu/coursepolicies/"> http://www.gvsu.edu/coursepolicies/ </url>   
+    </p>
+
+    <dl>
+        <li>
+          <title>Attendance</title>
+
+          <p>
+            At Grand Valley, regular attendance in class and other course activities is considered an essential part of the students' educational experience and a requirement for an adequate evaluation of student academic progress. </p><p>
+
+ 
+
+Coursework missed because of excused absences should be made up to the satisfaction of the instructor. Although makeup work will not remove the full adverse effect of the absence in all cases, faculty members will make reasonable accommodations for students when an absence is excused. The accommodations available will vary with course and program. The degree of the effect upon grades will vary with the nature and amount of work missed and must be measured according to the instructor's best judgment. In case of excessive absences, the instructor may refuse to grant credit for the course. Under some circumstances, an incomplete grade followed by a resolution according to university policy, or withdrawal from the course, is appropriate. </p><p>
+
+ 
+
+Absences due to the following reasons should be treated as excused: 1) absences of students who miss class due to active participation in an intercollegiate event; 2) absences due to the observance of religious holidays, see PC 9.6,  <url href="https://bit.ly/4hLHzhc">Religious Inclusion Policy </url> ; 3) absences due to military duty; 4) absences due to jury duty, or appearance in court or other government hearings; 5) student medical conditions that preclude class attendance; 6) birth or adoption of child; 7) absences due to attendance at an academic and/or professional conference; and 8) bereavement for an individual of significant relationship. Instructors have discretion to determine whether absences for other reasons should be treated as excused (e.g. study abroad program). </p><p>
+
+ 
+
+Regardless of the reason, I am required to report a full week of absence on Navigate. 
+          </p>
+        </li>
+<li><title>Academic Honesty  </title>
+  <p>
+    Some of the work in this course will be done collaboratively.  It may be particularly helpful to meet once a week with other students to summarize and review key ideas in the course; indeed, this is essential to the semester project.  Even on homework, some collaboration is permitted.  However, please understand that there is a difference between collaboration and plagiarism.  Collaboration requires you to contribute to solutions and think when you write.  Copying any portion of someone else's work, no matter how small, is plagiarism!  Evidence of plagiarism in an assignment will result in a minimum penalty of zero on the paper and possible action under the guidelines of the GVSU catalog.  You are expected to show integrity in all your work, and to encourage your peers to do likewise.  I reserve the right to discuss the nature of your work with you prior to deciding a grade on an assignment.  
+  </p>
+</li>
+
+<li><title>AI Policy  </title>
+  <p>
+    <url href="https://www.gvsu.edu/policies/policy.htm?policyId=3EDA3028-A1EF-7514-962877B732FDA124#statement">SLT 11.16 </url> outlines permitted and non-permitted uses of AI at GVSU for students, faculty and staff. In MTH 110, students are not allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course. Each student is expected to complete each assignment without substantive assistance from others, including automated tools. You are not alone; you have the support of your dedicated faculty whose ultimate goal is make sure you are successful. 
+  </p>
+</li>
+<li><title>Graded Work  </title>
+  <p>
+    On all graded assignments, I expect your very best.  Classroom activities to be completed during class. Please use pencil on loose-leaf paper, scan pages into one pdf file if there is more than one page.  Problems should be written in complete mathematical style and in your best handwriting. 
+  </p>
+</li>
+
+<li><title>Workload and Study Habits </title>
+  <p>
+    For this 4-credit course, you are expected to spend at least 2-3 hours outside of class for each hour in class that we meet - average (and successful) students in previous semesters have reported an average of 9 hours of studying. 
+  </p>
+</li>
+
+<li><title>Participation </title>
+  <p>
+    In every class meeting, there will be significant opportunities for you to actively participate aloud.  Through questions asked in lecture and brief exercises for teams of 2-3, you will be able to check and demonstrate your understanding in class.  You must come prepared to class to effectively participate.  I expect that everyone will share in this important aspect of our learning process. 
+  </p>
+</li>
+
+<li><title>Drop Date </title>
+  <p>
+    The drop deadline for this course is Friday, November <m>13^{th}</m>, at 5 pm. 
+  </p>
+</li>
+
+<li><title>Holidays </title>
+  <p>
+    There will be no classes on 9/7 in observation of Labor Day, October 26, 27 for Fall break, and 11/25-11/29 for Thanksgiving break.  
+  </p>
+</li>
+
+<li><title>Feedback </title>
+  <p>
+    I am always willing to discuss with you any thoughts you have about the course, including both your performance and mine.  Please let me know if you think something could be better or if you like something that we are doing.   
+  </p>
+</li>
+
+</dl>
+
+ </subsection>
+  
+
+
+  <subsection xml:id="Contingency16">
+    <title>Contingency plans for the semester </title>
+
+    <p>
+      In a time of public health emergencies, it is important that all students continue to monitor their health, as well as <url href="https://www.gvsu.edu/campushealth/"> current campus health communications </url>. 
+    </p>
+    <p>
+      We will begin the semester in "face-to-face" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things. 
+
+ <ul>
+  <li>
+    <p>If the entire university goes fully online: In this case, all F2F meetings will be replaced by synchronous online meetings. No other changes will be made. </p>
+  </li>
+
+  <li>
+    <p>If the professor/cannot be on campus due to illness: (For example, if the instructor contracted COVID). In this case, we will follow the plan above for if the university goes fully online (above). </p>
+  </li>
+
+  <li>
+    <p>If the professor cannot hold the class due to severe illness symptoms: In this case, the entire course will be moved to an asynchronous online format until I am well enough to resume teaching. A proxy/substitute may be appointed to grade and give feedback on Daily Prep and Class Activities; all other graded work will be suspended until I am well enough to grade. </p>
+  </li>
+
+  <li>
+    <p>In the latter two eventualities, you can expect a slowdown in the grading process and significant changes to the course calendar or syllabus. Plea</p>
+  </li>
+
+ </ul>
+    </p>
+  </subsection>
+
+
+  <subsection xml:id="Equitable16">
+    <title>Creating an Equitable and Inclusive Learning Environment </title>
+<p>
+  As an instructor, I will strive to create an equitable and inclusive learning environment in our class. It is my and the university’s goal that you feel able to share information about your experiences as a student. University faculty and staff will seek to keep information you share private to the greatest extent possible. There is some information that may need to be shared with the university, especially regarding sexual misconduct or information about a crime that may have occurred on GVSU’s campus. Below are additional resources available for support: 
+</p>
+    <dl>
+ <li>
+          <title>Title IX, Sexual Misconduct Policy, and Gender- and Sexual-Based Harassment Policy</title>
+
+          <p>
+            Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc.Title IX's sex discrimination prohibition also protects students from discrimination based on gender identity or failure to conform to stereotypical notions of masculinity or femininity. If you or someone you know has been harassed, assaulted, or denied services on the basis of sex or gender, you can find the appropriate resources at <url href="www.gvsu.edu/titleix">www.gvsu.edu/titleIX</url> or contact the University's Title IX Coordinator, Theresa Rowland at 616-331-9530 or <url href="mailto:rowlanth@gvsu.edu">rowlanth@gvsu.edu</url>.
+          </p>
+        </li>
+
+         <li>
+          <title>Student Accessibility Resources</title>
+
+          <p>
+           If you need accommodations due to a learning, physical, or other disability you must present a memo to me from Student Accessibility Resources (SAR), indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 CON) by calling 331-2490 or email to <url href="mailto:acess@gvsu.edu">access@gvsu.edu</url>. Please note that I cannot provide accommodations based upon disability until I have received a copy of the SAR issued memo. All discussions will remain confidential.
+          </p>
+          <p>
+            Furthermore, if you have a physical disability and think you will need assistance evacuating this classroom and/or building in an emergency situation, please make me aware so I can develop a plan to assist you. 
+          </p>
+        </li>
+
+         <li>
+          <title>Gender Expression and Identity</title>
+
+          <p>
+            At Grand Valley State University, we recognize that an individual may wish to be identified by a professional, personal, preferred, display or use name without making an official legal name change. Students may use the myName process to update Banner, and faculty and staff may use this process to update Workday (called "Preferred Name" in Workday) and some related systems. The myName process allows students, faculty, and staff to have the chosen name appear anywhere a legal name is not required. See <url href="https://www.gvsu.edu/myname/">https://www.gvsu.edu/myname/</url> for details.
+          </p>
+        </li>
+
+         <li>
+          <title>Bias Incidents or Harassment:  </title>
+
+          <p>
+            Anytime you or anyone in the GVSU community feels belittled, disrespected, threatened, or unsafe because of who you are, the entire university community is diminished. That's why it’s important to report all bias incidents--even those intended as jokes. While Grand Valley safeguards individuals’ constitutional rights and protected speech, the university is also committed to inclusion and equity. Grand Valley exercises the right to engage in educational dialogue and seeks constructive responses to address bias incidents. Go to <url href="https://bit.ly/4xYeXGl">https://bit.ly/4xYeXGl</url> to report bias incidents or for more information. In addition, for faculty/staff related complaints, you can file an informal complaint with the Division of Inclusion and Equity at <url href="mailto:inclusion@gvsu.edu">inclusion@gvsu.edu</url>  or 616-331-3296. For student related complaints, you can also contact the Dean of Students office at 616-331-3585. 
+          </p>
+        </li>
+
+         <li>
+          <title>Student Well-Being</title>
+
+          <p>
+          Mental health concerns, including overwhelming stress, excessive worry, difficulty participating in daily activities, and changes in mood, appetite, or sleep patterns can interfere with your academic performance.  College student surveys report that roughly 1 out of 3 students screen positive for a current mental health concern. GVSU values your health and wellness and provides services to support your mental health. If you would like mental health support or are concerned for another member of our campus community, reach out to the University Counceling Center <url href="https://www.gvsu.edu/counsel">https://www.gvsu.edu/counsel</url> for free resources, self-help options, and services. Also, visit the Center for Health and Well-being <url href="https://www.gvsu.edu/studentwellness/">https://www.gvsu.edu/studentwellness/</url> for additional health and wellness programming. 
+          </p>
+        </li>
+
+
+<li>
+          <title>Classroom and Campus Safety</title>
+
+          <p>
+            I consider classroom and campus safety our shared responsibility. Please familiarize yourself with the classroom emergency placard, which contains important information that could prove useful should an emergency arise. Emergency situations could include a fire alarm, tornado warning, medical emergency, or hostile intruder, and our response might consist of evacuating MAK Hall in an orderly manner, moving as a group to a different location in the building, rendering assistance a class member, or staying put and locking the classroom door. In all cases, I will provide clear instructions as to what you should do. Please make sure to have your primary mobile number listed in Banner so that you will automatically receive any campus alerts. Should you receive an emergency notification in class, notify me immediately. 
+          </p>
+          <p>
+            Additional information about campus safety can be found at the following sites: 
+            <ul>
+              <li>
+                <p>Directions for enabling additional contact means to the campus alert system: <url href="https://www.gvsu.edu/gvsualert/">https://www.gvsu.edu/gvsualert/</url></p>
+              </li>
+
+               <li>
+                <p>List of campus tornado safety locations: <url href="https://bit.ly/4cPnB1s">https://bit.ly/4cPnB1s</url> </p>
+              </li>
+
+               <li>
+                <p>Medical emergencies and campus AED locations: <url href="https://bit.ly/4xHk11q">https://bit.ly/4xHk11q</url> </p>
+              </li>
+               <li>
+                <p>Active shooter response <url href="https://bit.ly/4xdB1N8">https://bit.ly/4xdB1N8</url> </p>
+              </li> 
+            </ul>
+          </p>
+        </li>
+
+        
+
+      </dl>
+  </subsection>
+</section>
