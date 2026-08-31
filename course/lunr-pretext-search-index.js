@@ -73,22 +73,76 @@ var ptx_lunr_docs = [
   "body": " Week 2   Monday      Wednesday      Friday     "
 },
 {
-  "id": "activity-01-intro-activity",
+  "id": "Turtle_WS",
   "level": "1",
-  "url": "activity-01-intro-activity.html",
+  "url": "Turtle_WS.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
+  "title": "The Turtle and the Rabbit Activity",
+  "body": " The Turtle and the Rabbit Activity    A turtle runs at a speed of 3mph, and the rabbit runs at 25 mph. The rabbit challenged the turtle in a 5 miles race. The rabbit sprints for 11 minutes and 24 seconds (0.19 hour) then took an 88 minutes and 12 seconds nap (1.47) hour. When the rabbit woke up, he sprinted with his 25mph.      How long does it take the turtle to finish the race?      If is the time measured in hours from the moment the turtle starts running, and (the dependent variable) of the turtle's distance from the start line. Write an equation for .      How long does it take the rabbit to finish the race (include the nap time)?      Graph the distance of the rabbit and the turtle from the start point vs time in hours. You may use Desmos.      Who won the race?      It is not fair to have a turtle race a rabbit. It is also not fair for the rabbit to lose for the turtle. The wise (and equity champion) owl suggests that the turtle gets a heads up start and have the rabbit start the race later (we do not know how much hours later) so that both arrive at the 5-mile finish line together.     If t is the time measured in hours from the moment the turtle starts running, and (the dependent variable) the rabbit's distance from the start line. Write an equation for . [Hint: We have the slope and the finish point (which is the same as the rabbit's), so the point-slope form can be the easiest way].      Now that you have from the previous part, how many hours does the rabbit need to wait before he can start running?     "
 },
 {
-  "id": "activity-01-intro-activity-3",
+  "id": "Turtle_WS-3",
   "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
+  "url": "Turtle_WS.html#Turtle_WS-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  This is the first exercise.   "
+  "body": "  How long does it take the turtle to finish the race?   "
+},
+{
+  "id": "Turtle_WS-4",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  If is the time measured in hours from the moment the turtle starts running, and (the dependent variable) of the turtle's distance from the start line. Write an equation for .   "
+},
+{
+  "id": "Turtle_WS-5",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  How long does it take the rabbit to finish the race (include the nap time)?   "
+},
+{
+  "id": "Turtle_WS-6",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Graph the distance of the rabbit and the turtle from the start point vs time in hours. You may use Desmos.   "
+},
+{
+  "id": "Turtle_WS-7",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Who won the race?   "
+},
+{
+  "id": "Turtle_WS-8-2",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-8-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  If t is the time measured in hours from the moment the turtle starts running, and (the dependent variable) the rabbit's distance from the start line. Write an equation for . [Hint: We have the slope and the finish point (which is the same as the rabbit's), so the point-slope form can be the easiest way].   "
+},
+{
+  "id": "Turtle_WS-8-3",
+  "level": "2",
+  "url": "Turtle_WS.html#Turtle_WS-8-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Now that you have from the previous part, how many hours does the rabbit need to wait before he can start running?   "
 },
 {
   "id": "handouts",
