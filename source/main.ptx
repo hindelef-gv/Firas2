@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Course Name (change me)</title>
+    <title>Algebra</title>
 
     <subtitle>MTH 110 Fall 2026</subtitle>
 
@@ -49,7 +49,7 @@
       </introduction>
 
       <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
+      <xi:include href="./activities/Turtle_activity.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

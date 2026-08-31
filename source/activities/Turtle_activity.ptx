@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="Turtle_WS">
+  <title>The Turtle and the Rabbit Activity</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      A turtle runs at a speed of 3mph, and the rabbit runs at 25 mph. The rabbit challenged the turtle in a 5 miles race. The rabbit sprints for 11 minutes and 24 seconds (0.19 hour) then took an 88 minutes and 12 seconds nap (1.47) hour. When the rabbit woke up, he sprinted with his 25mph.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+       How long does it take the turtle to finish the race?
+      </p>
+    </statement>
+  </exercise>
+
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+       If <m>t</m> is the time measured in hours from the moment the turtle starts running, and <m>T</m>  (the dependent variable) of the turtle's distance from the start line. Write an equation for <m>T(t)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+<exercise workspace="2in">
+    <statement>
+      <p>
+How long does it take the rabbit to finish the race (include the nap time)?
+      </p>
+    </statement>
+  </exercise>
+
+
+<exercise workspace="2in">
+    <statement>
+      <p>
+Graph the distance of the rabbit and the turtle from the start point vs time in hours. You may use Desmos.      </p>
+    </statement>
+  </exercise>
+
+<exercise workspace="2in">
+    <statement>
+      <p>
+Who won the race? </p>  </statement>
+  </exercise>
+  <page>
+    <introduction>
+    <p>
+     It is not fair to have a turtle race a rabbit. It is also not fair for the rabbit to lose for the turtle. The wise (and equity champion) owl suggests that the turtle gets a heads up start and have the rabbit start the race later (we do not know how much hours later) so that both arrive at the 5-mile finish line together.</p>
+  </introduction>
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+If t is the time measured in hours from the moment the turtle starts running, and <m>R</m> (the dependent variable) the rabbit's distance from the start line. Write an equation for <m>R(t)</m>. </p><p>[Hint: We have the slope and the finish point (which is the same as the rabbit's), so the point-slope form can be the easiest way]. </p>  </statement>
+  </exercise>
+
+
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+Now that you have <m>R(t)</m> from the previous part, how many hours does the rabbit need to wait before he can start running? </p>  </statement>
+  </exercise>
+  </page>
+
+
+</worksheet>
