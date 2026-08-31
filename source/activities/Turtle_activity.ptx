@@ -12,7 +12,7 @@
   </introduction>
 
   <!-- Exercises start here. -->
-  <exercise workspace="2in">
+  <exercise workspace="3in">
     <statement>
       <p>
        How long does it take the turtle to finish the race?
@@ -21,7 +21,7 @@
   </exercise>
 
 
-  <exercise workspace="2in">
+  <exercise workspace="3in">
     <statement>
       <p>
        If <m>t</m> is the time measured in hours from the moment the turtle starts running, and <m>T</m>  (the dependent variable) of the turtle's distance from the start line. Write an equation for <m>T(t)</m>.
@@ -29,7 +29,7 @@
     </statement>
   </exercise>
 
-<exercise workspace="2in">
+<exercise workspace="3in">
     <statement>
       <p>
 How long does it take the rabbit to finish the race (include the nap time)?
@@ -38,14 +38,14 @@ How long does it take the rabbit to finish the race (include the nap time)?
   </exercise>
 
 
-<exercise workspace="2in">
+<exercise workspace="3in">
     <statement>
       <p>
 Graph the distance of the rabbit and the turtle from the start point vs time in hours. You may use Desmos.      </p>
     </statement>
   </exercise>
 
-<exercise workspace="2in">
+<exercise workspace="3in">
     <statement>
       <p>
 Who won the race? </p>  </statement>
@@ -56,7 +56,7 @@ Who won the race? </p>  </statement>
      It is not fair to have a turtle race a rabbit. It is also not fair for the rabbit to lose for the turtle. The wise (and equity champion) owl suggests that the turtle gets a heads up start and have the rabbit start the race later (we do not know how much hours later) so that both arrive at the 5-mile finish line together.</p>
   </introduction>
 
-  <exercise workspace="2in">
+  <exercise workspace="3in">
     <statement>
       <p>
 If t is the time measured in hours from the moment the turtle starts running, and <m>R</m> (the dependent variable) the rabbit's distance from the start line. Write an equation for <m>R(t)</m>. </p><p>[Hint: We have the slope and the finish point (which is the same as the rabbit's), so the point-slope form can be the easiest way]. </p>  </statement>
@@ -64,7 +64,7 @@ If t is the time measured in hours from the moment the turtle starts running, an
 
 
 
-  <exercise workspace="2in">
+  <exercise workspace="3in">
     <statement>
       <p>
 Now that you have <m>R(t)</m> from the previous part, how many hours does the rabbit need to wait before he can start running? </p>  </statement>
