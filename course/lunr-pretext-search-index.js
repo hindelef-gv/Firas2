@@ -154,13 +154,220 @@ var ptx_lunr_docs = [
   "body": " Handouts    "
 },
 {
-  "id": "homework",
+  "id": "LTss-2",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "LTss-2.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "LT 1 and 2:  Qualitative Graphs-A",
+  "body": " LT 1 and 2: Qualitative Graphs-A     I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.       A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      Aiden and Elijah are canoing across a lake. At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.     What two things are being related in this story?    time or minutes and distance away from the dock.      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance away from the dock.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.     "
+},
+{
+  "id": "LTss-2-2",
+  "level": "2",
+  "url": "LTss-2.html#LTss-2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.    "
+},
+{
+  "id": "LTss-2-3",
+  "level": "2",
+  "url": "LTss-2.html#LTss-2-3",
+  "type": "Definition",
+  "number": "3",
+  "title": "",
+  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
+},
+{
+  "id": "LTss-2-4",
+  "level": "2",
+  "url": "LTss-2.html#LTss-2-4",
+  "type": "Definition",
+  "number": "4",
+  "title": "",
+  "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
+},
+{
+  "id": "LTss-2-5",
+  "level": "2",
+  "url": "LTss-2.html#LTss-2-5",
+  "type": "Definition",
+  "number": "5",
+  "title": "",
+  "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
+},
+{
+  "id": "LTss-2-6",
+  "level": "2",
+  "url": "LTss-2.html#LTss-2-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Aiden and Elijah are canoing across a lake. At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.     What two things are being related in this story?    time or minutes and distance away from the dock.      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance away from the dock.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
+},
+{
+  "id": "LTss-3",
+  "level": "1",
+  "url": "LTss-3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 1 and 2:  Qualitative Graphs-B",
+  "body": " LT 1 and 2: Qualitative Graphs-B     I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.       A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.     "
+},
+{
+  "id": "LTss-3-2",
+  "level": "2",
+  "url": "LTss-3.html#LTss-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.    "
+},
+{
+  "id": "LTss-3-3",
+  "level": "2",
+  "url": "LTss-3.html#LTss-3-3",
+  "type": "Definition",
+  "number": "6",
+  "title": "",
+  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
+},
+{
+  "id": "LTss-3-4",
+  "level": "2",
+  "url": "LTss-3.html#LTss-3-4",
+  "type": "Definition",
+  "number": "7",
+  "title": "",
+  "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
+},
+{
+  "id": "LTss-3-5",
+  "level": "2",
+  "url": "LTss-3.html#LTss-3-5",
+  "type": "Definition",
+  "number": "8",
+  "title": "",
+  "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
+},
+{
+  "id": "LTss-3-6",
+  "level": "2",
+  "url": "LTss-3.html#LTss-3-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
+},
+{
+  "id": "LTss-4",
+  "level": "1",
+  "url": "LTss-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 1 and 2:  Qualitative Graphs-C",
+  "body": " LT 1 and 2: Qualitative Graphs-C     I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.       A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tired and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.     "
+},
+{
+  "id": "LTss-4-2",
+  "level": "2",
+  "url": "LTss-4.html#LTss-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.    "
+},
+{
+  "id": "LTss-4-3",
+  "level": "2",
+  "url": "LTss-4.html#LTss-4-3",
+  "type": "Definition",
+  "number": "9",
+  "title": "",
+  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
+},
+{
+  "id": "LTss-4-4",
+  "level": "2",
+  "url": "LTss-4.html#LTss-4-4",
+  "type": "Definition",
+  "number": "10",
+  "title": "",
+  "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
+},
+{
+  "id": "LTss-4-5",
+  "level": "2",
+  "url": "LTss-4.html#LTss-4-5",
+  "type": "Definition",
+  "number": "11",
+  "title": "",
+  "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
+},
+{
+  "id": "LTss-4-6",
+  "level": "2",
+  "url": "LTss-4.html#LTss-4-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tired and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
+},
+{
+  "id": "LTss-5",
+  "level": "1",
+  "url": "LTss-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 1 and 2:  Qualitative Graphs-D",
+  "body": " LT 1 and 2: Qualitative Graphs-D     I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.       A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      Johnny went on a bike ride. He started off going at a constant speed uphill. He stopped for a bit to rest, then continued with a faster (yet constant) speed speed downhill.     What two things are being related in this story?    time and speed      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the speed.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.     "
+},
+{
+  "id": "LTss-5-2",
+  "level": "2",
+  "url": "LTss-5.html#LTss-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   I can sketch qualitative graphs with appropriate variable definitions.    I can describe a situation given a qualitative graph with defined inputs and outputs.    "
+},
+{
+  "id": "LTss-5-3",
+  "level": "2",
+  "url": "LTss-5.html#LTss-5-3",
+  "type": "Definition",
+  "number": "12",
+  "title": "",
+  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
+},
+{
+  "id": "LTss-5-4",
+  "level": "2",
+  "url": "LTss-5.html#LTss-5-4",
+  "type": "Definition",
+  "number": "13",
+  "title": "",
+  "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
+},
+{
+  "id": "LTss-5-5",
+  "level": "2",
+  "url": "LTss-5.html#LTss-5-5",
+  "type": "Definition",
+  "number": "14",
+  "title": "",
+  "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
+},
+{
+  "id": "LTss-5-6",
+  "level": "2",
+  "url": "LTss-5.html#LTss-5-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Johnny went on a bike ride. He started off going at a constant speed uphill. He stopped for a bit to rest, then continued with a faster (yet constant) speed speed downhill.     What two things are being related in this story?    time and speed      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the speed.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
 }
 ]
 
