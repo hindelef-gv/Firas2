@@ -60,12 +60,14 @@
       <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
     </chapter>
 
-    <chapter xml:id="homework">
-      <title>Homework</title>
+    <chapter xml:id="LTss">
+      <title>Learning Targets</title>
 
       <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
-
+      <xi:include href="./LTs/LT1.ptx"/>
+<xi:include href="./LTs/LT1n2_b.ptx"/>
+<xi:include href="./LTs/LT1n2_c.ptx"/>
+<xi:include href="./LTs/LT1n2_d.ptx"/>
     </chapter>
 
     <!-- Include additional chapters for other categories -->

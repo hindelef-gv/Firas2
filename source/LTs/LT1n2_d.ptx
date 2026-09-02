@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worksheet>
+    <title>LT 1 and 2:  Qualitative Graphs-D</title>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    I can sketch qualitative graphs with appropriate variable definitions.
+                </p>
+            </li>
+            <li>
+                <p>
+                   I can describe a situation given a qualitative graph with defined inputs and outputs. 
+                </p>
+            </li>
+        </ul>
+    </objectives>
+  
+   <definition>
+    <statement>
+         <p>
+     A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements">    
+        </p>
+    </statement>
+   </definition>
+   <definition>
+    <statement>
+        <p>
+            An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function.
+            It is the variable that you change or manipulate to see how it affects another variable.
+        </p>
+    </statement>
+   </definition>
+   <definition>
+    <statement>
+        <p>
+            A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable.
+It represents the outcome or the result that you are measuring or calculating in a function or problem.
+        </p>
+    </statement>
+   </definition>
+
+
+
+
+  
+
+   
+    <exercise workspace="0.01 in"> 
+        <introduction> 
+        <p>
+            Johnny went on a bike ride.    He started off going at a constant speed uphill. He stopped for a bit to rest, then continued with a faster (yet constant) speed speed downhill.
+        </p>
+    </introduction> 
+         <task>
+         <statement>
+            <p>
+                What two things are being related in this story?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                time and speed
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Which variable is the dependent variable?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The dependent variable is the one that can be measured.  We are measuring the speed.
+            </p>
+        </answer>
+    </task>
+    
+    <task>
+        <statement>
+            <p>
+                Sketch the graph of the story.  Be sure to label your axes with the appropriate definitions.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+</worksheet>
