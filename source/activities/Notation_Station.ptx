@@ -1,0 +1,469 @@
+<worksheet xml:id="NS-">
+    <objectives>
+    <ul>
+      <li>Multiplication of Exponents Rules</li>
+      <li>Division of Exponents Rules</li>
+      <li>Negative Exponents</li>
+      <li>Fractional Exponents</li>
+      <li>Exponents of Exponents</li>
+
+    </ul>
+  </objectives>
+  <section><title>Station 1</title>
+<p>
+
+	</p>
+  <table xml:id="tab1">
+    
+    <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row header="yes">
+        <cell>Expression</cell>
+        <cell>
+
+  
+  <tabular >
+    <row >
+      <cell>Base 10</cell>
+      
+    </row>
+    <row>
+      <cell>Expand</cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> Simplified Expression</cell>
+      </row>
+      
+
+      <row >
+        <cell><m>2^3\cdot 2^4</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> 8\cdot 16</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> (2\cdot 2\cdot 2)\cdot (2\cdot 2\cdot 2\cdot 2)</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> 128</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> 2^7</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+      
+
+
+
+ <row >
+        <cell><m>2^3\cdot 2^5</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+
+ <row >
+        <cell><m>2^2\cdot 2^4</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+ <row >
+        <cell><m>2\cdot 2^4</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+    </tabular>
+  </table>
+
+<definition xml:id="defm">
+  <statement>
+    <p>
+     When we multiply exponents with the same base, we add the powers keeping the same base.
+     <md>
+      2^a\cdot 2^b=2^{a+b}
+     </md>
+      
+    </p>
+  </statement>
+</definition>
+
+<exercise>
+    <introduction>
+    <p>
+      Use the result in Station 1 to evaluate the expressions below
+    </p>
+    </introduction>
+    
+  <task>
+    
+      <p>
+        <m>2^0\cdot2^3=</m>
+      </p>
+  
+  </task>
+
+  <task>
+    
+      <p>
+        <m>2^0\cdot 2^4=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>2^0\cdot 2^x=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>2^{\frac{1}{2}}\cdot 2^{\frac{1}{2}}=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+       <m>3^{\frac{1}{2}}\cdot 3^{\frac{1}{2}}=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>x^{\frac{1}{2}}\cdot x^{\frac{1}{2}}=</m>
+      </p>
+  
+  </task>
+</exercise>
+    </section>
+
+
+
+
+
+  <section><title>Station 2</title>
+<p>
+
+	</p>
+  <table xml:id="tab2">
+    
+    <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row header="yes">
+        <cell>Expression</cell>
+        <cell>
+
+  
+  <tabular >
+    <row >
+      <cell>Base 10</cell>
+      
+    </row>
+    <row>
+      <cell>Expand</cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> Simplified Expression</cell>
+      </row>
+      
+
+      <row >
+        <cell><m>2^4/ 2^3</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> 16/ 8</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> (2\cdot 2\cdot 2 \cdot 2)/ (2\cdot 2\cdot 2)</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> 2</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> 2^1</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+      
+
+
+
+ <row >
+        <cell><m>2^5\cdot 2^2</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+
+ <row >
+        <cell><m>2^6\cdot 2^3</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+ <row >
+        <cell><m>2^5\cdot 2^4</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+    </tabular>
+  </table>
+
+<definition xml:id="defd">
+  <statement>
+    <p>
+     When we divide  exponents with the same base, we subtract the powers keeping the same base.
+     <md>
+      2^a/ 2^b=2^{a-b}
+     </md>
+      
+    </p>
+  </statement>
+</definition>
+
+<exercise>
+    <introduction>
+    <p>
+      Use the result in Station 2 to evaluate the expressions below
+    </p>
+    </introduction>
+    
+  <task>
+    
+      <p>
+        <m>2^3/ 2^3=</m>
+      </p>
+  
+  </task>
+
+  <task>
+    
+      <p>
+        <m>2^5/ 2^4=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>2^3/ 2^4=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>2/ 2^{\frac{1}{2}}=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+       <m>3^{\frac{9}{2}}/ 3^{\frac{7}{2}}=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>x^{\frac{3}{2}}/ x^{\frac{1}{8}}=</m>
+      </p>
+  
+  </task>
+</exercise>
+    </section>
+	<p>
+
+	</p>
+
+</worksheet>
