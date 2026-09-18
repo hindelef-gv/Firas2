@@ -462,8 +462,382 @@
   </task>
 </exercise>
     </section>
-	<p>
+	
 
-	</p>
+<section><title>Station 3</title>
+
+<definition xml:id="defneg">
+  <statement>
+    <p>
+     A negative in the exponent means a reciprocal.
+     <md>
+       2^{-a}=\frac{1}{2^{a}} \mbox{ and }\frac{1}{2^{-a}}=2^a
+     </md>
+      
+    </p>
+  </statement>
+</definition>
+
+
+<exercise>
+    <introduction>
+    <p>
+      Use the result in Station 3 to evaluate the expressions below
+    </p>
+    </introduction>
+    
+  <task>
+    
+      <p>
+        <m>\displaystyle\frac{2^6\cdot 3^2}{2^2\cdot 3^6}=</m>
+      </p>
+  
+  </task>
+
+  <task>
+    
+      <p>
+        <m>\displaystyle\frac{x^{10}\cdot y^{33}}{y^{35}\cdot x^{15}}=</m>
+      </p>
+  
+  </task>
+  
+</exercise>
+
+
+
+
+
+    </section>
+
+<section xml:id="Sec4">
+    <title>Station 4</title>
+    
+    <definition xml:id="def_frac">
+  <statement>
+    <p>
+     A fraction (numerator over denominator) in the exponent means that the denominator is the index of a root.
+     <md>
+       2^{\frac{a}{b}}=\sqrt[b]{2^a} \mbox{ or }  2^{\frac{a}{b}}=\left(\sqrt[b]{2}\right)^a
+     </md>
+      
+    </p>
+  </statement>
+</definition>
+
+<exercise>
+    <introduction>
+    <p>
+      Use the result in Station 4 to evaluate the expressions below
+    </p>
+    </introduction>
+    <task>
+        
+    
+      <p>
+        <m>\displaystyle\left(\frac{2^6\cdot 3^2}{2^2\cdot 3^6}\right)^{\frac{1}{2}}=</m>
+      </p>
+  
+  
+
+    </task>
+     <task>
+        
+    
+      <p>
+        <m>\displaystyle\left(\frac{y^{18}\cdot x^3}{x^9\cdot x^6}\right)^{\frac{2}{3}}=</m>
+      </p>
+  
+  
+
+    </task>
+</exercise>
+</section>
+    
+    
+    
+    
+    
+    
+    
+    
+    <section><title>Station 5</title>
+
+  <table xml:id="tab5">
+    
+    <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row header="yes">
+        <cell>Expression</cell>
+        <cell>
+
+  
+  <tabular >
+    <row >
+      <cell>Base 10</cell>
+      
+    </row>
+    <row>
+      <cell>Expand</cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> Simplified Expression</cell>
+      </row>
+      
+
+      <row >
+        <cell><m>\left(2^2\right)^3</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \left(4\right)^3</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \left(2^2\right)\cdot \left(2^2\right)\cdot \left(2^2\right)</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> 64</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> 2^6</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+      
+
+
+
+ <row >
+        <cell><m>\left(2^3\right)^2</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+
+ <row >
+        <cell><m>\left(2^4\right)^3</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+
+
+ <row >
+        <cell><m>\left(2^5\right)^2</m></cell>
+        <cell>
+
+  
+  <tabular>
+    <row >
+      <cell><m> \quad </m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular>
+
+
+        </cell>
+        <cell> <tabular>
+    <row >
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+    <row>
+      <cell><m> \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+      
+    </row>
+  </tabular></cell>
+      </row>
+
+    </tabular>
+  </table>
+
+<definition xml:id="defe">
+  <statement>
+    <p>
+     When we raise and exponential to an exponents, we ,multiply the exponents keeping the same base.
+     <md>
+      \left(2^a\right)^a=2^{a\cdot b}
+     </md>
+      
+    </p>
+  </statement>
+</definition>
+
+<exercise>
+    <introduction>
+    <p>
+      Use the result in Station 5 to evaluate the expressions below
+    </p>
+    </introduction>
+    
+  <task>
+    
+      <p>
+        <m>\left(2^{\frac{1}{2}}\right)^2=</m>
+      </p>
+  
+  </task>
+
+  <task>
+    
+      <p>
+        <m>\left(2^{\frac{1}{3}}\right)^3=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>\left(2^{-2}\right)^4</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>\left(2^{-2}\right)^{-3}</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+       <m>\left(3^{-4}\right)^{\frac{1}{2}}=</m>
+      </p>
+  
+  </task>
+  <task>
+    
+      <p>
+        <m>\left(x^{4}\right)^3=</m>
+      </p>
+  
+  </task>
+</exercise>
+    </section>
+<section xml:id="elab">
+    <title>Notation Elaboration</title>
+    <exercise workspace="1.0in">
+        <p>
+                   Use Station 1 to write a problem with <m>a^0</m> as the answer.
+
+        </p> 
+    </exercise>
+
+    <exercise workspace="1.0in">
+       <p> Use 
+        Station 1 to write a problem with <m>a^{-2}</m> as the answer.</p>
+    </exercise>
+    <exercise workspace="1.0in">
+        <p>Use 
+        Station 2 to write a problem with <m>a^0</m> as the answer.</p>
+    </exercise>
+
+    <exercise workspace="1.0in">
+       <p> Use 
+        Station 2 to write a problem with <m>a^{-2}</m> as the answer.</p>
+    </exercise>
+    <exercise workspace="1.0in">
+     
+       <p> What familiar operation is  <m>a^{\frac{1}{2}}</m>? similarly for <m>a^{\frac{1}{3}}</m>?</p>
+    </exercise>
+
+    <exercise>
+         <introduction><p>
+            Evaluate the following:
+        </p> </introduction>
+        <task>
+            <statement>
+                <p>
+                    <m>2^x\cdot 2^2=</m>
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    <m>2^{2x}/ 2^3=</m>
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    <m>\left(2^{5x+15}\right)^{\frac{2}{5}}=</m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</section>
 
 </worksheet>
