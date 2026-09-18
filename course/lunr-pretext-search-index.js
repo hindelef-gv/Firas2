@@ -145,6 +145,78 @@ var ptx_lunr_docs = [
   "body": "  Now that you have from the previous part, how many hours does the rabbit need to wait before he can start running?   "
 },
 {
+  "id": "NS-",
+  "level": "1",
+  "url": "NS-.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Worksheet",
+  "body": "   Multiplication of Exponents Rules  Division of Exponents Rules  Negative Exponents  Fractional Exponents  Exponents of Exponents    Station 1       Expression     Base 10    Expand     Simplified Expression                                                                                               When we multiply exponents with the same base, we add the powers keeping the same base.       Use the result in Station 1 to evaluate the expressions below                                   Station 2       Expression     Base 10    Expand     Simplified Expression                                                                                               When we divide exponents with the same base, we subtract the powers keeping the same base.       Use the result in Station 2 to evaluate the expressions below                                     "
+},
+{
+  "id": "NS--1",
+  "level": "2",
+  "url": "NS-.html#NS--1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Multiplication of Exponents Rules  Division of Exponents Rules  Negative Exponents  Fractional Exponents  Exponents of Exponents   "
+},
+{
+  "id": "tab1",
+  "level": "2",
+  "url": "NS-.html#tab1",
+  "type": "Table",
+  "number": "3",
+  "title": "",
+  "body": "   Expression     Base 10    Expand     Simplified Expression                                                                                            "
+},
+{
+  "id": "defm",
+  "level": "2",
+  "url": "NS-.html#defm",
+  "type": "Definition",
+  "number": "4",
+  "title": "",
+  "body": "  When we multiply exponents with the same base, we add the powers keeping the same base.    "
+},
+{
+  "id": "NS--2-5",
+  "level": "2",
+  "url": "NS-.html#NS--2-5",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Use the result in Station 1 to evaluate the expressions below                                 "
+},
+{
+  "id": "tab2",
+  "level": "2",
+  "url": "NS-.html#tab2",
+  "type": "Table",
+  "number": "6",
+  "title": "",
+  "body": "   Expression     Base 10    Expand     Simplified Expression                                                                                            "
+},
+{
+  "id": "defd",
+  "level": "2",
+  "url": "NS-.html#defd",
+  "type": "Definition",
+  "number": "7",
+  "title": "",
+  "body": "  When we divide exponents with the same base, we subtract the powers keeping the same base.    "
+},
+{
+  "id": "NS--3-5",
+  "level": "2",
+  "url": "NS-.html#NS--3-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Use the result in Station 2 to evaluate the expressions below                                 "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -176,7 +248,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "3",
+  "number": "9",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -185,7 +257,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "4",
+  "number": "10",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -194,7 +266,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "5",
+  "number": "11",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -230,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "6",
+  "number": "12",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -239,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "7",
+  "number": "13",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -248,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "8",
+  "number": "14",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -284,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "9",
+  "number": "15",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -293,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "10",
+  "number": "16",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -302,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "11",
+  "number": "17",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -338,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "12",
+  "number": "18",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -347,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "13",
+  "number": "19",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -356,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "14",
+  "number": "20",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
