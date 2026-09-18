@@ -150,13 +150,13 @@ var ptx_lunr_docs = [
   "url": "NS-.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Worksheet",
-  "body": "   Multiplication of Exponents Rules  Division of Exponents Rules  Negative Exponents  Fractional Exponents  Exponents of Exponents    Station 1       Expression     Base 10    Expand     Simplified Expression                                                                                               When we multiply exponents with the same base, we add the powers keeping the same base.       Use the result in Station 1 to evaluate the expressions below                                   Station 2       Expression     Base 10    Expand     Simplified Expression                                                                                               When we divide exponents with the same base, we subtract the powers keeping the same base.       Use the result in Station 2 to evaluate the expressions below                                     "
+  "title": "Notation Station",
+  "body": "Notation Station    Multiplication of Exponents Rules  Division of Exponents Rules  Negative Exponents  Fractional Exponents  Exponents of Exponents    Station 1       Expression     Base 10    Expand     Simplified Expression                                                                                               When we multiply exponents with the same base, we add the powers keeping the same base.       Use the result in Station 1 to evaluate the expressions below                                   Station 2       Expression     Base 10    Expand     Simplified Expression                                                                                               When we divide exponents with the same base, we subtract the powers keeping the same base.       Use the result in Station 2 to evaluate the expressions below                                   Station 3    A negative in the exponent means a reciprocal.       Use the result in Station 3 to evaluate the expressions below                Station 4    A fraction (numerator over denominator) in the exponent means that the denominator is the index of a root.       Use the result in Station 4 to evaluate the expressions below               Station 5     Expression     Base 10    Expand     Simplified Expression                                                                                               When we raise and exponential to an exponents, we ,multiply the exponents keeping the same base.       Use the result in Station 5 to evaluate the expressions below                                    Notation Elaboration   Use Station 1 to write a problem with as the answer.    Use Station 1 to write a problem with as the answer.    Use Station 2 to write a problem with as the answer.    Use Station 2 to write a problem with as the answer.    What familiar operation is ? similarly for ?    Evaluate the following:                          "
 },
 {
-  "id": "NS--1",
+  "id": "NS--2",
   "level": "2",
-  "url": "NS-.html#NS--1",
+  "url": "NS-.html#NS--2",
   "type": "Objectives",
   "number": "",
   "title": "",
@@ -181,9 +181,9 @@ var ptx_lunr_docs = [
   "body": "  When we multiply exponents with the same base, we add the powers keeping the same base.    "
 },
 {
-  "id": "NS--2-5",
+  "id": "NS--3-5",
   "level": "2",
-  "url": "NS-.html#NS--2-5",
+  "url": "NS-.html#NS--3-5",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
@@ -208,13 +208,130 @@ var ptx_lunr_docs = [
   "body": "  When we divide exponents with the same base, we subtract the powers keeping the same base.    "
 },
 {
-  "id": "NS--3-5",
+  "id": "NS--4-5",
   "level": "2",
-  "url": "NS-.html#NS--3-5",
+  "url": "NS-.html#NS--4-5",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Use the result in Station 2 to evaluate the expressions below                                 "
+},
+{
+  "id": "defneg",
+  "level": "2",
+  "url": "NS-.html#defneg",
+  "type": "Definition",
+  "number": "9",
+  "title": "",
+  "body": "  A negative in the exponent means a reciprocal.    "
+},
+{
+  "id": "NS--5-3",
+  "level": "2",
+  "url": "NS-.html#NS--5-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the result in Station 3 to evaluate the expressions below             "
+},
+{
+  "id": "def_frac",
+  "level": "2",
+  "url": "NS-.html#def_frac",
+  "type": "Definition",
+  "number": "11",
+  "title": "",
+  "body": "  A fraction (numerator over denominator) in the exponent means that the denominator is the index of a root.    "
+},
+{
+  "id": "Sec4-3",
+  "level": "2",
+  "url": "NS-.html#Sec4-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use the result in Station 4 to evaluate the expressions below             "
+},
+{
+  "id": "tab5",
+  "level": "2",
+  "url": "NS-.html#tab5",
+  "type": "Table",
+  "number": "13",
+  "title": "",
+  "body": "   Expression     Base 10    Expand     Simplified Expression                                                                                            "
+},
+{
+  "id": "defe",
+  "level": "2",
+  "url": "NS-.html#defe",
+  "type": "Definition",
+  "number": "14",
+  "title": "",
+  "body": "  When we raise and exponential to an exponents, we ,multiply the exponents keeping the same base.    "
+},
+{
+  "id": "NS--7-4",
+  "level": "2",
+  "url": "NS-.html#NS--7-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Use the result in Station 5 to evaluate the expressions below                                 "
+},
+{
+  "id": "elab-2",
+  "level": "2",
+  "url": "NS-.html#elab-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Use Station 1 to write a problem with as the answer.  "
+},
+{
+  "id": "elab-3",
+  "level": "2",
+  "url": "NS-.html#elab-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Use Station 1 to write a problem with as the answer.  "
+},
+{
+  "id": "elab-4",
+  "level": "2",
+  "url": "NS-.html#elab-4",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Use Station 2 to write a problem with as the answer.  "
+},
+{
+  "id": "elab-5",
+  "level": "2",
+  "url": "NS-.html#elab-5",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Use Station 2 to write a problem with as the answer.  "
+},
+{
+  "id": "elab-6",
+  "level": "2",
+  "url": "NS-.html#elab-6",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " What familiar operation is ? similarly for ?  "
+},
+{
+  "id": "elab-7",
+  "level": "2",
+  "url": "NS-.html#elab-7",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": " Evaluate the following:                        "
 },
 {
   "id": "handouts",
@@ -248,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "9",
+  "number": "22",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -257,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "10",
+  "number": "23",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -266,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "11",
+  "number": "24",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -302,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "12",
+  "number": "25",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -311,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "13",
+  "number": "26",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -320,7 +437,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "14",
+  "number": "27",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -356,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "15",
+  "number": "28",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -365,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "16",
+  "number": "29",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -374,7 +491,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "17",
+  "number": "30",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -410,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "18",
+  "number": "31",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -419,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "19",
+  "number": "32",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -428,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "20",
+  "number": "33",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
