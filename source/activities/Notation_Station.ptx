@@ -785,27 +785,27 @@
     </section>
 <section xml:id="elab">
     <title>Notation Elaboration</title>
-    <exercise workspace="1.0in">
+    <exercise workspace="0.2in">
         <p>
                    Use Station 1 to write a problem with <m>a^0</m> as the answer.
 
         </p> 
     </exercise>
 
-    <exercise workspace="1.0in">
+    <exercise workspace="0.2">
        <p> Use 
         Station 1 to write a problem with <m>a^{-2}</m> as the answer.</p>
     </exercise>
-    <exercise workspace="1.0in">
+    <exercise workspace="0.2in">
         <p>Use 
         Station 2 to write a problem with <m>a^0</m> as the answer.</p>
     </exercise>
 
-    <exercise workspace="1.0in">
+    <exercise workspace="0.2in">
        <p> Use 
         Station 2 to write a problem with <m>a^{-2}</m> as the answer.</p>
     </exercise>
-    <exercise workspace="1.0in">
+    <exercise workspace="0.2in">
      
        <p> What familiar operation is  <m>a^{\frac{1}{2}}</m>? similarly for <m>a^{\frac{1}{3}}</m>?</p>
     </exercise>
