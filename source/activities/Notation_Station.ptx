@@ -301,7 +301,7 @@
 
 
  <row >
-        <cell><m>2^5\cdot 2^2</m></cell>
+        <cell><m>2^5/2^2</m></cell>
         <cell>
 
   
@@ -334,7 +334,7 @@
 
 
  <row >
-        <cell><m>2^6\cdot 2^3</m></cell>
+        <cell><m>2^6/ 2^3</m></cell>
         <cell>
 
   
@@ -366,7 +366,7 @@
 
 
  <row >
-        <cell><m>2^5\cdot 2^4</m></cell>
+        <cell><m>2^5/ 2^4</m></cell>
         <cell>
 
   
@@ -545,7 +545,7 @@
         
     
       <p>
-        <m>\displaystyle\left(\frac{y^{18}\cdot x^3}{x^9\cdot x^6}\right)^{\frac{2}{3}}=</m>
+        <m>\displaystyle\left(\frac{y^{18}\cdot x^3}{x^9\cdot y^6}\right)^{\frac{2}{3}}=</m>
       </p>
   
   
@@ -724,7 +724,7 @@
     <p>
      When we raise and exponential to an exponents, we ,multiply the exponents keeping the same base.
      <md>
-      \left(2^a\right)^a=2^{a\cdot b}
+      \left(2^a\right)^b=2^{a\cdot b}
      </md>
       
     </p>
