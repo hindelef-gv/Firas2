@@ -1,0 +1,123 @@
+
+<worksheet>
+    <title>Week 4 LTs</title>
+<objectives>
+
+  <ul>
+    <li>
+     
+        Given a data set, make a linear regression model on Desmos, identify and
+        explain the meaning of slope in the context, identify and explain the
+        <m>y-</m> intercept in the context, find <m>f(a)</m> and explain its
+        meaning, find <m>a</m> given <m>f(a)</m> and explain its meaning.
+      
+    </li>
+
+    <li>
+      <p>
+        Given a linear graph, identify the slope in the context, the vertical
+        intercept, horizontal intercept, evaluate <m>f(a)</m>, find <m>x</m>
+        given <m>f(a)</m> and make the equation of the line.
+      </p>
+    </li>
+
+    <li>
+      <p>
+        Given a linear word situation, make an equation, identify and explain
+        the meaning of slope in the context, identify and explain the
+        y-intercept in the context, find <m>f(a)</m> and explain its meaning,
+        find <m>x</m> given <m>f(a)</m> and explain its meaning, and determine
+        what inputs make sense.
+      </p>
+    </li>
+
+    <li>
+      <p>
+        Given a system of linear equations, or a word situation, or data sets
+        create a system of equations as applicable and solve the system.
+      </p>
+    </li>
+
+    <li>
+      <p>
+        I can recognize and identify key characteristics of a linear pattern
+        represented in a table, graph, equation or application. I can translate
+        between different representations.
+      </p>
+    </li>
+  </ul>
+
+</objectives>
+
+<exercise>
+  
+<introduction>
+  <p>
+    Given the line in the graph below, answer the following questions.
+  </p>
+</introduction>
+<task>
+  <statement>
+    <p>
+      Pick any two points on the line and use them to find the slope of the
+      line.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Explain in one sentence why it makes sense that the slope is negative.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the line's equation in the slope-intercept form. <m>[y=mx+b]</m>.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the line's equation in the point-slope form.[
+      <m>y=m(x-x_{1})+y_{1}]</m>.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the line's equation in the intercepts form.
+      <m>\displaystyle{\left[\frac{x}{\dots}+\frac{y}{\dots}=1\right]}</m>.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the point on the line with <m>y-</m> coordinate equal to <m>-10</m>.
+    </p>
+  </statement>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the point on the line with <m>x-</m> coordinate equal to <m>40</m>.
+    </p>
+    <p>
+      
+   
+<image source="assets/e3.jpg" width="90%"/>
+     </p>
+  </statement>
+</task>
+</exercise>
+</worksheet>
