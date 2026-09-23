@@ -557,6 +557,60 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  Johnny went on a bike ride. He started off going at a constant speed uphill. He stopped for a bit to rest, then continued with a faster (yet constant) speed speed downhill.     What two things are being related in this story?    time and speed      Which variable is the dependent variable?    The dependent variable is the one that can be measured. We are measuring the speed.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
+},
+{
+  "id": "LTss-6",
+  "level": "1",
+  "url": "LTss-6.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 4 LTs",
+  "body": " Week 4 LTs    Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the intercept in the context, find and explain its meaning, find given and explain its meaning.   Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.       Given the line in the graph below, answer the following questions.     Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .       Examine the patterns for each of the tables below.     Write a sentence that describes what is happening in each pattern.      Make a table of data for each pattern.     Find the equation that models each pattern.     For the pattern in Table 1, what does the slope and y-intercept mean?      At which step will both pattern use the same number of squares?          Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility              Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility         "
+},
+{
+  "id": "LTss-6-2",
+  "level": "2",
+  "url": "LTss-6.html#LTss-6-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the intercept in the context, find and explain its meaning, find given and explain its meaning.   Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+},
+{
+  "id": "LTss-6-3",
+  "level": "2",
+  "url": "LTss-6.html#LTss-6-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Given the line in the graph below, answer the following questions.     Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .    "
+},
+{
+  "id": "LTss-6-4",
+  "level": "2",
+  "url": "LTss-6.html#LTss-6-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Examine the patterns for each of the tables below.     Write a sentence that describes what is happening in each pattern.      Make a table of data for each pattern.     Find the equation that models each pattern.     For the pattern in Table 1, what does the slope and y-intercept mean?      At which step will both pattern use the same number of squares?    "
+},
+{
+  "id": "LTss-6-5",
+  "level": "2",
+  "url": "LTss-6.html#LTss-6-5",
+  "type": "Table",
+  "number": "34",
+  "title": "",
+  "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
+},
+{
+  "id": "LTss-6-6",
+  "level": "2",
+  "url": "LTss-6.html#LTss-6-6",
+  "type": "Table",
+  "number": "38",
+  "title": "",
+  "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 }
 ]
 
