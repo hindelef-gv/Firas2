@@ -120,4 +120,201 @@
 
 </exercise>
 
+
+
+
+<exercise>
+  <introduction>
+    <p>
+      Examine the patterns for each of the tables below.
+    </p>
+  </introduction>
+  
+    
+ 
+  
+  <task>
+    <statement>
+      <p>
+        Write a sentence that describes what is happening in each  pattern.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Make a table of data for each pattern.
+      </p>
+    </statement>
+  </task><task>
+    <statement>
+      <p>
+        Find the equation that models each pattern.
+      </p>
+    </statement>
+  </task><task>
+    <statement>
+      <p>
+        For the pattern in Table 1, what does the slope and y-intercept mean?
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        At which step will both pattern use the same number of squares?
+      </p>
+    </statement>
+  </task>
+</exercise>
+
+<table >
+    <title></title>
+    <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row>
+        <cell>
+        <figure><caption>Step 1</caption>
+  
+  <image xml:id="tikz-my-diagram1" size=".05%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+        \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure></cell>
+
+        <cell><figure><caption>Step 2</caption>
+  
+  <image xml:id="tikz-my-diagram2" size="60%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+        \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+
+
+\draw (.4,0) rectangle (.7,.3);
+\draw (.4,.4) rectangle (.7,.7);
+\draw (.4,.8) rectangle (.7,1.1);
+
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure></cell>
+
+        <cell>
+        <figure><caption>Step 3</caption>
+  
+  <image xml:id="tikz-my-diagram3" size=".05%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+       \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+
+
+\draw (.4,0) rectangle (.7,.3);
+\draw (.4,.4) rectangle (.7,.7);
+\draw (.4,.8) rectangle (.7,1.1);
+
+\draw (.8,0) rectangle (1.1,.3);
+\draw (.8,.4) rectangle (1.1,.7);
+\draw (.8,.8) rectangle (1.1,1.1);
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure>
+        </cell>
+
+      </row>
+     
+    </tabular>
+  </table>
+  
+  
+
+
+<table >
+    <title></title>
+    <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row>
+        <cell>
+        <figure><caption>Step 1</caption>
+  
+  <image xml:id="tikz-my-diagram4" size=".05%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+        \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+\draw (.0,.8) rectangle (.3,1.1);
+\draw (.0,1.2) rectangle (.3,1.5);
+\draw (.0,1.6) rectangle (.3,1.9);
+\draw (.0,2.0) rectangle (.3,2.3);
+\draw (.0,2.4) rectangle (.3,2.7);
+
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure></cell>
+
+        <cell><figure><caption>Step 2</caption>
+  
+  <image xml:id="tikz-my-diagram5" size="60%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+        \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+\draw (.0,.8) rectangle (.3,1.1);
+\draw (.0,1.2) rectangle (.3,1.5);
+\draw (.0,1.6) rectangle (.3,1.9);
+\draw (.0,2.0) rectangle (.3,2.3);
+\draw (.0,2.4) rectangle (.3,2.7);
+
+\draw (.4,0) rectangle (.7,.3);
+\draw (.4,.4) rectangle (.7,.7);
+
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure></cell>
+
+        <cell>
+        <figure><caption>Step 3</caption>
+  
+  <image xml:id="tikz-my-diagram6" size=".05%">
+    <shortdescription>A description of the graphic for accessibility</shortdescription>
+    <latex-image>
+      \begin{tikzpicture}
+       \draw (0,0) rectangle (.3,.3);
+\draw (.0,.4) rectangle (.3,.7);
+\draw (.0,.8) rectangle (.3,1.1);
+\draw (.0,1.2) rectangle (.3,1.5);
+\draw (.0,1.6) rectangle (.3,1.9);
+\draw (.0,2.0) rectangle (.3,2.3);
+\draw (.0,2.4) rectangle (.3,2.7);
+
+\draw (.4,0) rectangle (.7,.3);
+\draw (.4,.4) rectangle (.7,.7);
+
+\draw (.8,0) rectangle (1.1,.3);
+\draw (.8,.4) rectangle (1.1,.7);
+
+      \end{tikzpicture}
+    </latex-image>
+  </image>
+</figure>
+        </cell>
+
+      </row>
+     
+    </tabular>
+  </table>
+
+
+
 </worksheet>
