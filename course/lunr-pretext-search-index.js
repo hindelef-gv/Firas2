@@ -334,6 +334,51 @@ var ptx_lunr_docs = [
   "body": " Evaluate the following:                        "
 },
 {
+  "id": "activities-5",
+  "level": "1",
+  "url": "activities-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Exploring graphs of Exponential functions",
+  "body": " Exploring graphs of Exponential functions      Explore the effect of four shapes of exponential function graphs       Go to the following Desmos sheet , use the sliders to fill the table below.      a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2            Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative             For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.     "
+},
+{
+  "id": "activities-5-2",
+  "level": "2",
+  "url": "activities-5.html#activities-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Explore the effect of four shapes of exponential function graphs    "
+},
+{
+  "id": "activities-5-3",
+  "level": "2",
+  "url": "activities-5.html#activities-5-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Go to the following Desmos sheet , use the sliders to fill the table below.      a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2          "
+},
+{
+  "id": "activities-5-4",
+  "level": "2",
+  "url": "activities-5.html#activities-5-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative          "
+},
+{
+  "id": "activities-5-5",
+  "level": "2",
+  "url": "activities-5.html#activities-5-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.    "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -365,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "22",
+  "number": "24",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -374,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "23",
+  "number": "25",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -383,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "24",
+  "number": "26",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -419,7 +464,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "25",
+  "number": "27",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -428,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "26",
+  "number": "28",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -437,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "27",
+  "number": "29",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -473,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "28",
+  "number": "30",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -482,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "29",
+  "number": "31",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -491,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "30",
+  "number": "32",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -527,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "31",
+  "number": "33",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -536,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "32",
+  "number": "34",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -545,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "33",
+  "number": "35",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -599,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "34",
+  "number": "36",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -608,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "38",
+  "number": "40",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 }
