@@ -1,0 +1,234 @@
+<worksheet>
+  <title>Exploring graphs of Exponential functions</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Explore the effect of four shapes of exponential function graphs
+            </p>
+        </li>
+    </ul>
+  </objectives>
+  
+  
+
+  <!-- Exercises start here. -->
+  <exercise><introduction>
+    <p>
+      Go to the following <url href="https://www.desmos.com/calculator/u7frwtz89j">Desmos sheet</url> , use the sliders to fill the table below.
+    </p>
+  </introduction>
+   
+      <table>
+        
+        <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row header="yes">
+                <cell>a</cell><cell>b</cell><cell>Sketch the graph (label the y-intercept)</cell><cell>increasing/decreasing</cell><cell>y-intercept</cell><cell>Domain</cell><cell>Range</cell>
+            </row>
+
+
+             <row>
+                <cell>1</cell><cell>2</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+
+
+             <row>
+                <cell>1</cell><cell>3</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>1</cell><cell>10</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>1</cell><cell><m>\frac{1}{2}</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>1</cell><cell><m>\frac{1}{5}</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>1</cell><cell><m>\frac{1}{10}</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>-1</cell><cell>2</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>-1</cell><cell><m>\frac{1}{2}</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>5</cell><cell>2</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>8</cell><cell>2</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+             <row>
+                <cell>-5</cell><cell>2</cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+            
+
+            
+        </tabular>
+      </table>
+  </exercise>
+<exercise><introduction>
+    <p>
+      Generalize your results in the table below
+    </p>
+  </introduction>
+   
+      <table>
+        
+        <tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+      <row header="yes">
+                <cell>a</cell><cell>b</cell><cell>Sketch the graph (label the y-intercept)</cell><cell>Inc/Dec</cell><cell>y-intercept</cell><cell>Domain</cell><cell>Range</cell>
+            </row>
+
+
+             <row>
+                <cell>Positive</cell><cell><m>b>1</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+<row>
+                <cell>Positive</cell><cell><m>0\lt b\lt 1 </m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell></row>
+
+             <row>
+                <cell>Negative</cell><cell><m>b>1</m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+<row>
+                <cell>Negative</cell><cell><m>0\lt b\lt 1 </m></cell><cell>
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell><cell> 
+            </cell>
+            </row>
+
+
+           
+        </tabular>
+      </table>
+  </exercise>
+<exercise>
+    <introduction>
+        <p>
+           For exponential functions of the form <m>f(x)=a \cdot b^x</m> 
+        </p>
+    </introduction>
+
+    <task>
+        <statement>
+            <p>
+                Describe the connection between the value of <m>a</m> and the graph.
+            </p>
+        </statement>
+    </task>
+
+    <task>
+        <statement>
+            <p>
+              Bescribe the connection between the value of <m>b</m> and the graph.
+            </p>
+        </statement>
+    </task>
+</exercise>
+</worksheet>

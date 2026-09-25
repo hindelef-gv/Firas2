@@ -56,12 +56,14 @@
     Given the line in the graph below, answer the following questions.
   </p>
 </introduction>
+
 <task>
   <statement>
     <p>
       Pick any two points on the line and use them to find the slope of the
       line.
     </p>
+    
   </statement>
 </task>
 
