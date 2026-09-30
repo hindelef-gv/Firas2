@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Exploring graphs of Exponential functions",
-  "body": " Exploring graphs of Exponential functions      Explore the effect of four shapes of exponential function graphs       Go to the following Desmos sheet , use the sliders to fill the table below.   Graph of your function        a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2            Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative             For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.     "
+  "body": " Exploring graphs of Exponential functions      Explore the effect of four shapes of exponential function graphs       Go to the following Desmos sheet , use the sliders to fill the table below.         a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2            Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative             For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.     "
 },
 {
   "id": "activities-5-2",
@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Go to the following Desmos sheet , use the sliders to fill the table below.   Graph of your function        a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2          "
+  "body": " Go to the following Desmos sheet , use the sliders to fill the table below.         a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2          "
 },
 {
   "id": "activities-5-4",
@@ -656,6 +656,60 @@ var ptx_lunr_docs = [
   "number": "41",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
+},
+{
+  "id": "LTss-7",
+  "level": "1",
+  "url": "LTss-7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 6 LTs",
+  "body": " Week 6 LTs     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.       A fish farm starts with 100 fish. The farmer found that the number of fish triples every 7 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
+},
+{
+  "id": "LTss-7-2",
+  "level": "2",
+  "url": "LTss-7.html#LTss-7-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+},
+{
+  "id": "LTss-7-3",
+  "level": "2",
+  "url": "LTss-7.html#LTss-7-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A fish farm starts with 100 fish. The farmer found that the number of fish triples every 7 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?    "
+},
+{
+  "id": "LTss-7-5",
+  "level": "2",
+  "url": "LTss-7.html#LTss-7-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.    "
+},
+{
+  "id": "LTss-8",
+  "level": "1",
+  "url": "LTss-8.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 8 LTs",
+  "body": " Week 8 LTs     [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.     "
+},
+{
+  "id": "LTss-8-2",
+  "level": "2",
+  "url": "LTss-8.html#LTss-8-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.    "
 }
 ]
 
