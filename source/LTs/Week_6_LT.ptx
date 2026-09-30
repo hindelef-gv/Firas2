@@ -1,0 +1,113 @@
+<worksheet>
+    <title>Week 6 LTs</title>
+<objectives>
+
+  <ul>
+    <li>
+          <p>[LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+</p>
+        </li>
+
+        <li>
+          <p>[LT10] Given an exponential graph, identify the growth/decay rate, the vertical intercept, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m> and make an equation for the curve.
+</p>
+        </li>
+
+        <li>
+          <p>[LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth/decay, make an equation, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning, and determine what inputs make sense.
+</p>
+        </li>
+
+         <li>
+          <p>[LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
+        </li>
+
+        
+
+  </ul>
+
+</objectives>
+
+<exercise> <introduction>
+    <p>
+       A fish farm starts with 100 fish. The farmer found that the number of fish triples  every 7 months. 
+    </p>
+</introduction>
+    
+        
+    
+         <task>
+       
+            <p>
+                What type of function would best model the number of fish in the farm over time?
+            </p>
+        
+    </task>
+    <task>
+        <statement>
+            <p>
+                Make a table showing the number of fish in the farm over time. Use integer values of time <m>t</m> and population <m>P(t)</m>. Include four time points (rows).
+            </p>
+        </statement>
+    </task>
+<task>
+    <statement>
+        <p>
+            Write an exponential function that models the number of fish in the farm over time. Use the form <m>P(t) = a \cdot b^{t/c}</m>.
+        </p>
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            Explain the meaning of the parameters <m>a,b,c</m> in your exponential function in the context of the fish farm.
+        </p>
+    </statement>
+</task>
+       <task>
+        <statement>
+            <p>
+                Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.
+            </p>
+        </statement>
+       </task> 
+       <task>
+        <statement>
+            <p>
+                What is the growth rate of the fish population in the farm?
+            </p>
+        </statement>
+       </task>
+</exercise>
+<page-break/>
+
+<exercise>
+    <introduction>
+    <p>
+       The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.
+    </p>
+</introduction>
+<task>
+    <statement>
+        <p>
+            Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time <m>t</m> and population <m>Q(t)</m>. Include four time points (rows).
+        </p>
+    </statement>
+</task>
+
+<task>
+    <statement>
+        <p>
+           Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.
+        </p>
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.
+        </p>
+    </statement>
+</task>
+</exercise>
+</worksheet>

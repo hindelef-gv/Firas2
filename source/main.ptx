@@ -70,6 +70,7 @@
 <xi:include href="./LTs/LT1n2_c.ptx"/>
 <xi:include href="./LTs/LT1n2_d.ptx"/>
 <xi:include href="./LTs/Week_4_LTs.ptx"/>
+<xi:include href="./LTs/Week_6_Lt.ptx" />
     </chapter>
 
     <!-- Include additional chapters for other categories -->
