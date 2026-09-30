@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Exploring graphs of Exponential functions",
-  "body": " Exploring graphs of Exponential functions      Explore the effect of four shapes of exponential function graphs       Go to the following Desmos sheet , use the sliders to fill the table below.      a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2            Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative             For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.     "
+  "body": " Exploring graphs of Exponential functions      Explore the effect of four shapes of exponential function graphs       Go to the following Desmos sheet , use the sliders to fill the table below.   Graph of your function        a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2            Generalize your results in the table below      a b Sketch the graph (label the y-intercept) Inc\/Dec y-intercept Domain Range    Positive         Positive        Negative         Negative             For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.     "
 },
 {
   "id": "activities-5-2",
@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Go to the following Desmos sheet , use the sliders to fill the table below.      a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2          "
+  "body": " Go to the following Desmos sheet , use the sliders to fill the table below.   Graph of your function        a b Sketch the graph (label the y-intercept) increasing\/decreasing y-intercept Domain Range    1 2         1 3         1 10         1         1         1         -1 2         -1         5 2         8 2         -5 2          "
 },
 {
   "id": "activities-5-4",
@@ -410,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "24",
+  "number": "25",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -419,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "25",
+  "number": "26",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -428,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "26",
+  "number": "27",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -464,7 +464,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "27",
+  "number": "28",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -473,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "28",
+  "number": "29",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -482,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "29",
+  "number": "30",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -518,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "30",
+  "number": "31",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -527,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "31",
+  "number": "32",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -536,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "32",
+  "number": "33",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -572,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "33",
+  "number": "34",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -581,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "34",
+  "number": "35",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -590,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "35",
+  "number": "36",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -610,7 +610,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Week 4 LTs",
-  "body": " Week 4 LTs    Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the intercept in the context, find and explain its meaning, find given and explain its meaning.   Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.       Given the line in the graph below, answer the following questions.     Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .       Examine the patterns for each of the tables below.     Write a sentence that describes what is happening in each pattern.      Make a table of data for each pattern.     Find the equation that models each pattern.     For the pattern in Table 1, what does the slope and y-intercept mean?      At which step will both pattern use the same number of squares?          Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility              Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility         "
+  "body": " Week 4 LTs    Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the intercept in the context, find and explain its meaning, find given and explain its meaning.   Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.       Given the line in the graph below, answer the following questions.      Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .        Examine the patterns for each of the tables below.     Write a sentence that describes what is happening in each pattern.      Make a table of data for each pattern.     Find the equation that models each pattern.     For the pattern in Table 1, what does the slope and y-intercept mean?      At which step will both pattern use the same number of squares?          Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility              Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility         "
 },
 {
   "id": "LTss-6-2",
@@ -628,7 +628,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Given the line in the graph below, answer the following questions.     Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .    "
+  "body": "  Given the line in the graph below, answer the following questions.      Pick any two points on the line and use them to find the slope of the line.      Explain in one sentence why it makes sense that the slope is negative.      Find the line's equation in the slope-intercept form. .      Find the line's equation in the point-slope form.[ .      Find the line's equation in the intercepts form. .      Find the point on the line with coordinate equal to .      Find the point on the line with coordinate equal to .     "
 },
 {
   "id": "LTss-6-4",
@@ -644,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "36",
+  "number": "37",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -653,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "40",
+  "number": "41",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 }
