@@ -55,8 +55,9 @@
   <p>
     Given the line in the graph below, answer the following questions.
   </p>
+ 
 </introduction>
-
+ <image source="./images/E1.png" width="60%">
 <task>
   <statement>
     <p>
@@ -117,9 +118,14 @@
     
       
    
+  
+
   </statement>
 </task>
 
+
+ 
+</image>
 </exercise>
 
 

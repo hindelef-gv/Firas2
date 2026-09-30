@@ -19,6 +19,15 @@
     <p>
       Go to the following <url href="https://www.desmos.com/calculator/u7frwtz89j">Desmos sheet</url> , use the sliders to fill the table below.
     </p>
+    <figure>
+
+  <interactive desmos="uv88mej7fv" width="90%" aspect="3:2">
+    <shortdescription>An interactive Desmos graph.</shortdescription>
+    <description>
+      <p>A detailed text description of the graph for accessibility purposes.</p>
+    </description>
+  </interactive>
+</figure>
   </introduction>
    
       <table>
