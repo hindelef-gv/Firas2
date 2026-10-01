@@ -71,6 +71,12 @@
 <xi:include href="./LTs/LT1n2_d.ptx"/>
 <xi:include href="./LTs/Week_4_LTs.ptx"/>
 <xi:include href="./LTs/Week_6_LT.ptx" />
+<xi:include href="./LTs/Week_6_LT_B.ptx" />
+
+<xi:include href="./LTs/Week_6_LT_C.ptx" />
+<xi:include href="./LTs/Week_6_LT_D.ptx" />
+
+
 <xi:include href="./LTs/Week_8_Lt.ptx" />
     </chapter>
 

@@ -1,5 +1,5 @@
 <worksheet>
-    <title>Week 6 Learning Targets_A</title>
+    <title>Week 6 Learning Targets_B</title>
 <objectives>
 
   <ul>
@@ -32,7 +32,7 @@
     <page-break/>
 <exercise > <introduction>
     <p>
-       A fish farm starts with 100 fish. The farmer found that the number of fish triples  every 7 months. 
+       A fish farm starts with 50 fish. The farmer found that the number of fish triples  every 8 months. 
     </p>
 </introduction>
     
@@ -87,7 +87,7 @@
 <exercise>
     <introduction>
     <p>
-       The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.
+       The half-life of a radioactive element is 30 years. There are 4050 grams of this element present now.
     </p>
 </introduction>
     <task workspace="0.008in">
