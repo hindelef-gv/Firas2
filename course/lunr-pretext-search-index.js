@@ -663,8 +663,8 @@ var ptx_lunr_docs = [
   "url": "LTss-7.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Week 6 LTs",
-  "body": " Week 6 LTs     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.     .    A fish farm starts with 100 fish. The farmer found that the number of fish triples every 7 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
+  "title": "Week 6 Learning Targets_A",
+  "body": " Week 6 Learning Targets_A     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.     .    A fish farm starts with 100 fish. The farmer found that the number of fish triples every 7 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
 },
 {
   "id": "LTss-7-2",
@@ -699,13 +699,121 @@ var ptx_lunr_docs = [
   "url": "LTss-8.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Week 8 LTs",
-  "body": " Week 8 LTs     [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.     "
+  "title": "Week 6 Learning Targets_B",
+  "body": " Week 6 Learning Targets_B     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.     .    A fish farm starts with 50 fish. The farmer found that the number of fish triples every 8 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 30 years. There are 4050 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
 },
 {
   "id": "LTss-8-2",
   "level": "2",
   "url": "LTss-8.html#LTss-8-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+},
+{
+  "id": "LTss-8-5",
+  "level": "2",
+  "url": "LTss-8.html#LTss-8-5",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A fish farm starts with 50 fish. The farmer found that the number of fish triples every 8 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?    "
+},
+{
+  "id": "LTss-8-7",
+  "level": "2",
+  "url": "LTss-8.html#LTss-8-7",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The half-life of a radioactive element is 30 years. There are 4050 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.    "
+},
+{
+  "id": "LTss-9",
+  "level": "1",
+  "url": "LTss-9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 6 Learning Targets_C",
+  "body": " Week 6 Learning Targets_C     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.     .    A fish farm starts with 150 fish. The farmer found that the number of fish triples every 9 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 45 years. There are 4000 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
+},
+{
+  "id": "LTss-9-2",
+  "level": "2",
+  "url": "LTss-9.html#LTss-9-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+},
+{
+  "id": "LTss-9-5",
+  "level": "2",
+  "url": "LTss-9.html#LTss-9-5",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A fish farm starts with 150 fish. The farmer found that the number of fish triples every 9 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?    "
+},
+{
+  "id": "LTss-9-7",
+  "level": "2",
+  "url": "LTss-9.html#LTss-9-7",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The half-life of a radioactive element is 45 years. There are 4000 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.    "
+},
+{
+  "id": "LTss-10",
+  "level": "1",
+  "url": "LTss-10.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 6 Learning Targets_D",
+  "body": " Week 6 Learning Targets_D     [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.     .    A fish farm starts with 250 fish. The farmer found that the number of fish triples every 4 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?        The half-life of a radioactive element is 20 years. There are 4080 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.     "
+},
+{
+  "id": "LTss-10-2",
+  "level": "2",
+  "url": "LTss-10.html#LTss-10-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   [LT9] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [LT10] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [LT11] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [LT12] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+},
+{
+  "id": "LTss-10-5",
+  "level": "2",
+  "url": "LTss-10.html#LTss-10-5",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A fish farm starts with 250 fish. The farmer found that the number of fish triples every 4 months.    What type of function would best model the number of fish in the farm over time?     Make a table showing the number of fish in the farm over time. Use integer values of time and population . Include four time points (rows).      Write an exponential function that models the number of fish in the farm over time. Use the form .      Explain the meaning of the parameters in your exponential function in the context of the fish farm.      Use your exponential function to predict how many months it will take for the number of fish to reach 10,000 fish.      What is the growth rate of the fish population in the farm?    "
+},
+{
+  "id": "LTss-10-7",
+  "level": "2",
+  "url": "LTss-10.html#LTss-10-7",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The half-life of a radioactive element is 20 years. There are 4080 grams of this element present now.     Create a well-labeled table with at least three rows of data to show what is going on in this situation. Use integer values of time and population . Include four time points (rows).      Find an equation to model the situation. You may use your table from the previous part and Desmos to help you.      After how many years it will take for the amount of the radioactive element to decrease to 15 grams. Show your work and explain your reasoning.    "
+},
+{
+  "id": "LTss-11",
+  "level": "1",
+  "url": "LTss-11.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Week 8 LTs",
+  "body": " Week 8 LTs     [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.     "
+},
+{
+  "id": "LTss-11-2",
+  "level": "2",
+  "url": "LTss-11.html#LTss-11-2",
   "type": "Objectives",
   "number": "",
   "title": "",
