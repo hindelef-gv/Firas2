@@ -27,8 +27,10 @@
   </ul>
 
 </objectives>
-
-<exercise> <introduction>
+<page-break/>
+.
+    <page-break/>
+<exercise workspace="0.1in"> <introduction>
     <p>
        A fish farm starts with 100 fish. The farmer found that the number of fish triples  every 7 months. 
     </p>
@@ -81,7 +83,7 @@
 </exercise>
 <page-break/>
 
-<exercise>
+<exercise workspace="0.1">
     <introduction>
     <p>
        The half-life of a radioactive element is 35 years. There are 4096 grams of this element present now.
