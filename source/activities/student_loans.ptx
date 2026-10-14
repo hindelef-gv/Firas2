@@ -1,0 +1,133 @@
+<worksheet xml:id="stln-"><title>Student Loans</title>
+    <objectives>
+    <ul>
+      <li>Construct amortization tables</li>
+      <li>Understand interest compounding</li>
+      <li>Analyze loan terms</li>
+      <li>Compare different loan options</li>
+
+    </ul>
+  </objectives>
+<introduction>
+  <p>For this writing assignment make sure to follow the guidelines for writing assignments.  Type your 
+responses using 12 font, 1.5-2 spaced and proper margins.  Remember that this should be written like 
+a report and not numbered, like a homework assignment.
+</p>
+</introduction>
+<section><title>Student Loans</title>    
+   
+      <p>Student loans are a common way for students to finance their education. Understanding how these loans work, including interest rates, repayment terms, and amortization schedules, is crucial for making informed financial decisions. In this worksheet, you will explore the mechanics of student loans and analyze different loan options.</p>
+      <p>In this assignment, you will be required to construct amortization tables for different student loan scenarios, understand how interest is compounded, and analyze the terms of various loan options. You will also compare the total costs of different loans over time and discuss the implications of your findings.</p>
+
+      <p>Student loan borrowers in the United States owe a collective $1.78 trillion in federal and private student loan debt as of March 2023, according to the most recent quarterly tally by the <url href="https://gvsu.edu/s/3QH" visual="Federal Reserve"></url>. The average student loan debt for the Class of 2022 was $30,000, according to the <url href="https://gvsu.edu/s/3QH" visual="Institute for College Access and Success"></url>. This debt can have long-term financial implications for borrowers, affecting their ability to save for retirement, purchase a home, and achieve other financial goals. By understanding the mechanics of student loans, borrowers can make informed decisions about their education financing and repayment strategies.</p>
+    
+
+      </section>
+    <section><title>First Scenario</title>
+      <p>
+        Suppose a student takes 4 years to earn his undergraduate degree and each year needs to take <m>$5000</m> in student loans.  Upon graduation, he has a total of <m>$20,000</m> in student loans.  All of his loans are consolidated and have an interest rate of  <m>6.8\%</m> annual interest rate compounded monthly.  He has 30 years to pay off the loan.  
+      </p>
+      <exercise>
+        <p>
+          What is the monthly interest rate?
+        </p>
+      </exercise>
+<exercise>
+        <p>
+          What is the interest for the first month?
+        </p>
+      </exercise>
+<exercise>
+        <p>Assume that the student will make a <m>$150</m> monthly payment.  How much of the first payment goes towards interest and how much goes towards the principal?</p>
+      </exercise>
+
+      <exercise>
+        <p>
+          Construct an amortization table on Google Sheets for the first 300 months of the loan.  Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:
+        </p>
+        <p>
+          <table>
+  <title>First scenario amortization table</title>
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Month</cell>
+      <cell> Opening Balance</cell>
+      <cell>Payment</cell>
+      <cell>Interest Paid</cell>
+      <cell>Principal Paid</cell>
+      <cell>Remaining Balance</cell>
+    </row>
+    <row>
+      <cell>1</cell>
+      <cell>20,000</cell>
+      <cell>150</cell>
+      <cell>113.33</cell>
+      <cell>36.67</cell>
+      <cell>19,963.33</cell>
+    </row>
+  </tabular>
+</table>
+        </p>
+
+
+      </exercise>
+      
+    <exercise>
+        <p>
+          How long will it take to pay off the loan?
+        </p>
+      </exercise>
+      <exercise>
+        <p>
+          How much interest will be paid over the life of the loan?
+        </p>
+       
+    </exercise>
+      </section>
+
+<section><title>Second Scenario</title>
+      <p>
+        We will assume that everything is the same as in the first scenario except that the student will make a <m>$300</m> monthly payment.  
+      </p>
+           <exercise>
+        <p>
+          Construct an amortization table on Google Sheets for the first 100 months of the loan.  Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:
+        </p>
+        <p>
+          <table>
+  <title>Second scenario amortization table</title>
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Month</cell>
+      <cell> Opening Balance</cell>
+      <cell>Payment</cell>
+      <cell>Interest Paid</cell>
+      <cell>Principal Paid</cell>
+      <cell>Remaining Balance</cell>
+    </row>
+    <row>
+      <cell>1</cell>  
+      <cell>20,000</cell>
+      <cell>300</cell>
+      <cell>113.33</cell>
+      <cell>186.67</cell>
+      <cell>19,813.33</cell>
+    </row>
+  </tabular>
+</table>
+        
+        </p>
+      </exercise>
+
+      <exercise>
+        <p>
+          How long will it take to pay off the loan?
+        </p>
+      </exercise>
+      <exercise>
+        <p>
+          How much interest will be paid over the life of the loan?
+        </p>
+      </exercise>
+      </section>
+  </worksheet>

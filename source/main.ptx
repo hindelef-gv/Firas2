@@ -52,6 +52,7 @@
       <xi:include href="./activities/Turtle_activity.ptx"/>
 <xi:include href="./activities/Notation_Station.ptx"/>
 <xi:include href="./activities/Exploring_exp_graph.ptx"/>
+<xi:include href="./activities/student_loans.ptx"/>
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 
