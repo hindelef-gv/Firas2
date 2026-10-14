@@ -379,6 +379,105 @@ var ptx_lunr_docs = [
   "body": "  For exponential functions of the form      Describe the connection between the value of and the graph.      Bescribe the connection between the value of and the graph.    "
 },
 {
+  "id": "stln-",
+  "level": "1",
+  "url": "stln-.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Student Loans",
+  "body": "Student Loans    Construct amortization tables  Understand interest compounding  Analyze loan terms  Compare different loan options     For this writing assignment make sure to follow the guidelines for writing assignments. Type your responses using 12 font, 1.5-2 spaced and proper margins. Remember that this should be written like a report and not numbered, like a homework assignment.   Student Loans  Student loans are a common way for students to finance their education. Understanding how these loans work, including interest rates, repayment terms, and amortization schedules, is crucial for making informed financial decisions. In this worksheet, you will explore the mechanics of student loans and analyze different loan options.  In this assignment, you will be required to construct amortization tables for different student loan scenarios, understand how interest is compounded, and analyze the terms of various loan options. You will also compare the total costs of different loans over time and discuss the implications of your findings.  Student loan borrowers in the United States owe a collective $1.78 trillion in federal and private student loan debt as of March 2023, according to the most recent quarterly tally by the . The average student loan debt for the Class of 2022 was $30,000, according to the . This debt can have long-term financial implications for borrowers, affecting their ability to save for retirement, purchase a home, and achieve other financial goals. By understanding the mechanics of student loans, borrowers can make informed decisions about their education financing and repayment strategies.   First Scenario  Suppose a student takes 4 years to earn his undergraduate degree and each year needs to take in student loans. Upon graduation, he has a total of in student loans. All of his loans are consolidated and have an interest rate of annual interest rate compounded monthly. He has 30 years to pay off the loan.   What is the monthly interest rate?    What is the interest for the first month?    Assume that the student will make a monthly payment. How much of the first payment goes towards interest and how much goes towards the principal?    Construct an amortization table on Google Sheets for the first 300 months of the loan. Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:    First scenario amortization table    Month  Opening Balance  Payment  Interest Paid  Principal Paid  Remaining Balance    1  20,000  150  113.33  36.67  19,963.33        How long will it take to pay off the loan?    How much interest will be paid over the life of the loan?    Second Scenario  We will assume that everything is the same as in the first scenario except that the student will make a monthly payment.   Construct an amortization table on Google Sheets for the first 100 months of the loan. Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:    Second scenario amortization table    Month  Opening Balance  Payment  Interest Paid  Principal Paid  Remaining Balance    1  20,000  300  113.33  186.67  19,813.33        How long will it take to pay off the loan?    How much interest will be paid over the life of the loan?    "
+},
+{
+  "id": "stln--2",
+  "level": "2",
+  "url": "stln-.html#stln--2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Construct amortization tables  Understand interest compounding  Analyze loan terms  Compare different loan options   "
+},
+{
+  "id": "stln--5-3",
+  "level": "2",
+  "url": "stln-.html#stln--5-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " What is the monthly interest rate?  "
+},
+{
+  "id": "stln--5-4",
+  "level": "2",
+  "url": "stln-.html#stln--5-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " What is the interest for the first month?  "
+},
+{
+  "id": "stln--5-5",
+  "level": "2",
+  "url": "stln-.html#stln--5-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Assume that the student will make a monthly payment. How much of the first payment goes towards interest and how much goes towards the principal?  "
+},
+{
+  "id": "stln--5-6",
+  "level": "2",
+  "url": "stln-.html#stln--5-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Construct an amortization table on Google Sheets for the first 300 months of the loan. Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:    First scenario amortization table    Month  Opening Balance  Payment  Interest Paid  Principal Paid  Remaining Balance    1  20,000  150  113.33  36.67  19,963.33      "
+},
+{
+  "id": "stln--5-7",
+  "level": "2",
+  "url": "stln-.html#stln--5-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " How long will it take to pay off the loan?  "
+},
+{
+  "id": "stln--5-8",
+  "level": "2",
+  "url": "stln-.html#stln--5-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " How much interest will be paid over the life of the loan?  "
+},
+{
+  "id": "stln--6-3",
+  "level": "2",
+  "url": "stln-.html#stln--6-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Construct an amortization table on Google Sheets for the first 100 months of the loan. Include the following columns: Month, Payment, Interest Paid, Principal Paid, Remaining Balance. That is, your table headers should look like this:    Second scenario amortization table    Month  Opening Balance  Payment  Interest Paid  Principal Paid  Remaining Balance    1  20,000  300  113.33  186.67  19,813.33      "
+},
+{
+  "id": "stln--6-4",
+  "level": "2",
+  "url": "stln-.html#stln--6-4",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " How long will it take to pay off the loan?  "
+},
+{
+  "id": "stln--6-5",
+  "level": "2",
+  "url": "stln-.html#stln--6-5",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " How much interest will be paid over the life of the loan?  "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -410,7 +509,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "25",
+  "number": "36",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -419,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "26",
+  "number": "37",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -428,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "27",
+  "number": "38",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -464,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "28",
+  "number": "39",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -473,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "29",
+  "number": "40",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -482,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "30",
+  "number": "41",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -518,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "31",
+  "number": "42",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -527,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "32",
+  "number": "43",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -536,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "33",
+  "number": "44",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -572,7 +671,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "34",
+  "number": "45",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -581,7 +680,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "35",
+  "number": "46",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -590,7 +689,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "36",
+  "number": "47",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -644,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "37",
+  "number": "48",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -653,7 +752,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "41",
+  "number": "52",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
