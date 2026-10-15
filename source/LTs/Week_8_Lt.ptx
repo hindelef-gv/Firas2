@@ -1,5 +1,5 @@
 <worksheet>
-    <title>Week 8 LTs</title>
+    <title>Week 8 LTs-A</title>
 <objectives>
 
   <ul>
@@ -15,4 +15,79 @@
   </ul>
 
 </objectives>
+<exercise workspace="1.0in">
+       <introduction>
+        <p>
+          To convert a temperature from Fahrenheit to Kelvin, you can follow the following steps:
+          <ul>
+            <li>
+              <p>
+                Subtract 32,              </p>
+            </li>
+            <li>
+              <p>
+                Multiply the result by 5/9,              </p>
+            </li>
+            <li>
+              <p>
+                Add 273.15 to the result.              </p>
+            </li> 
+          </ul>
+        </p>
+        
+        
+       </introduction> 
+       <task>
+          <p>
+            Write a function that converts a temperature from Fahrenheit to Kelvin.
+          </p>
+        </task>
+        <task>
+          <statement>
+            <p>
+              Use your function to convert the following temperatures from Fahrenheit to Kelvin: <m>F = 32, 68, 100, 212</m>.
+            </p>
+          </statement>
+        </task>
+        <task>
+          <statement>
+            <p>
+              Find the inverse of your function. That is, write a function that converts a temperature from Kelvin to Fahrenheit.
+            </p>
+          </statement>
+        </task>
+    </exercise>
+
+
+<exercise workspace="1.0in">
+       <introduction>
+        <p>
+          A newborn received a <m>$50,000</m> gift from her grandparents.  The money was invested in a mutual fund that earns <m>12%</m> interest compounded monthly.  How long will it take for the investment to grow to <m>$300,000</m>?
+        </p>
+       </introduction> 
+       
+    </exercise>
+
+      <exercise>
+        <introduction>
+          <p>
+            Solve the following equation for <m>x</m> algebraically and graphically:
+          </p>
+        </introduction>
+        <task workspace="1.0in">
+          <statement>
+            <p>
+                <m>3^{2x-1} = 729</m>
+          </p>
+          </statement>
+        </task>
+
+        <task workspace="1.0in">
+          <statement>
+            <p>
+              <m>100=25\cdot\log_5(10x+3)</m>
+            </p>
+          </statement>
+        </task>
+      </exercise>
 </worksheet>
