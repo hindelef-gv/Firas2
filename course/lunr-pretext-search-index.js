@@ -906,8 +906,8 @@ var ptx_lunr_docs = [
   "url": "LTss-11.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Week 8 LTs",
-  "body": " Week 8 LTs     [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.     "
+  "title": "Week 8 LTs-A",
+  "body": " Week 8 LTs-A     [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.       To convert a temperature from Fahrenheit to Kelvin, you can follow the following steps:   Subtract 32,    Multiply the result by 5\/9,    Add 273.15 to the result.       Write a function that converts a temperature from Fahrenheit to Kelvin.     Use your function to convert the following temperatures from Fahrenheit to Kelvin: .      Find the inverse of your function. That is, write a function that converts a temperature from Kelvin to Fahrenheit.       A newborn received a gift from her grandparents. The money was invested in a mutual fund that earns interest compounded monthly. How long will it take for the investment to grow to ?      Solve the following equation for algebraically and graphically:                  "
 },
 {
   "id": "LTss-11-2",
@@ -917,6 +917,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "   [LT7] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [LT13] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.    "
+},
+{
+  "id": "LTss-11-3",
+  "level": "2",
+  "url": "LTss-11.html#LTss-11-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  To convert a temperature from Fahrenheit to Kelvin, you can follow the following steps:   Subtract 32,    Multiply the result by 5\/9,    Add 273.15 to the result.       Write a function that converts a temperature from Fahrenheit to Kelvin.     Use your function to convert the following temperatures from Fahrenheit to Kelvin: .      Find the inverse of your function. That is, write a function that converts a temperature from Kelvin to Fahrenheit.    "
+},
+{
+  "id": "LTss-11-4",
+  "level": "2",
+  "url": "LTss-11.html#LTss-11-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  A newborn received a gift from her grandparents. The money was invested in a mutual fund that earns interest compounded monthly. How long will it take for the investment to grow to ?   "
+},
+{
+  "id": "LTss-11-5",
+  "level": "2",
+  "url": "LTss-11.html#LTss-11-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Solve the following equation for algebraically and graphically:                 "
 }
 ]
 
