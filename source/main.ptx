@@ -79,6 +79,9 @@
 
 
 <xi:include href="./LTs/Week_8_Lt.ptx" />
+<xi:include href="./LTs/Week_8_LT_B.ptx" />
+<xi:include href="./LTs/Week_8_LT_C.ptx" />
+<xi:include href="./LTs/Week_8_LT_D.ptx" />
     </chapter>
 
     <!-- Include additional chapters for other categories -->
