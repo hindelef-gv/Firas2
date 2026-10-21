@@ -1,4 +1,4 @@
-<section xml:id="syllabus16" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section>
   <title>MTH 110-16 Syllabus</title>
 <!--
   <introduction>
@@ -139,7 +139,7 @@
          </paragraphs>
 </subsection>
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="sec16-coursetech">
+  <subsection>
     <title>Course Technologies</title>
 <dl>
         <li>
@@ -198,7 +198,7 @@
   </subsection>
 
 <!-- Other subsections for larger dividers -->
-  <subsection xml:id="flow16">
+  <subsection>
     <title>Structure and Flow of the Course</title>
 
     <p>
@@ -223,7 +223,7 @@
 
   
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="sec-assessments16">
+  <subsection>
     <title>Assessments and Grades</title>
 
     v
@@ -266,7 +266,7 @@
         <p>
       Final grades will be no lower than as determined by the following scale:   
     </p>
-    <table xml:id="tab-name16">
+    <table>
       <title>Grading Schema</title>
       <tabular>
         <row header="No">
@@ -298,7 +298,7 @@
 
 
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="LTs16">
+  <subsection>
     <title>Learning Targets</title>
 
   </subsection>
@@ -401,7 +401,7 @@
     </p>
 
 
-<subsection xml:id="help16">
+<subsection>
   <title>Where to go and what to do for help</title>
   <p>
     <ul>
@@ -446,7 +446,7 @@ To access virtual drop-in tutoring, you can use the link in your Blackboard cour
 
 
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="Policies16">
+  <subsection>
     <title>University and Class Policies </title>
 
     <p>
@@ -526,7 +526,7 @@ Regardless of the reason, I am required to report a full week of absence on Navi
   
 
 
-  <subsection xml:id="Contingency16">
+  <subsection>
     <title>Contingency plans for the semester </title>
 
     <p>
@@ -557,7 +557,7 @@ Regardless of the reason, I am required to report a full week of absence on Navi
   </subsection>
 
 
-  <subsection xml:id="Equitable16">
+  <subsection>
     <title>Creating an Equitable and Inclusive Learning Environment </title>
 <p>
   As an instructor, I will strive to create an equitable and inclusive learning environment in our class. It is my and the university’s goal that you feel able to share information about your experiences as a student. University faculty and staff will seek to keep information you share private to the greatest extent possible. There is some information that may need to be shared with the university, especially regarding sexual misconduct or information about a crime that may have occurred on GVSU’s campus. Below are additional resources available for support: 

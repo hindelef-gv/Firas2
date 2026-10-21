@@ -9,7 +9,7 @@
   
   
   <!-- Include chapters -->
-  <subsection xml:id="sec-course-info">
+  <subsection>
     <title>Course Information</title>
 
     <p>
@@ -139,7 +139,7 @@
          </paragraphs>
 </subsection>
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="sec-coursetech">
+  <subsection>
     <title>Course Technologies</title>
 <dl>
         <li>
@@ -198,14 +198,14 @@
   </subsection>
 
 <!-- Other subsections for larger dividers -->
-  <subsection xml:id="flow">
+  <subsection>
     <title>Structure and Flow of the Course</title>
 
     <p>
       Your MTH 110 course is being offered in a face-to-face (F2F) mode. The content of MTH 110 is divided into 15 modules (one module per week). Each of which is divided into two parts (one for each class meeting). Your engagement and work on each module follow a standard pattern: 
       <ul>
         <li>
-          <p>Before each class meeting, you need to go to the corresponding day and complete the Prep Work for that day. Prep work involves watching screencasts that leads you through independent learning of the basic ideas of new material, then complete their exit preview quiz. </p>
+          <p>Before each class meeting, you need to go to the corresponding day and complete the Prep Work for that day. Prep work involves watching screencasts that leads you through independent learning of the basic ideas of new material, then complete their exit preview quiz. </p>
         </li>
 
         <li>
@@ -223,7 +223,7 @@
 
   
   <!-- Other subsections for larger dividers -->
-  <subsection xml:id="sec-assessments">
+  <subsection>
     <title>Assessments and Grades</title>
 
     v
@@ -266,7 +266,7 @@
         <p>
       Final grades will be no lower than as determined by the following scale:   
     </p>
-    <table xml:id="tab-name">
+    <table>
       <title>Grading Schema</title>
       <tabular>
         <row header="No">
