@@ -1,0 +1,130 @@
+<worksheet xml:id="PA-"><title>Introduction to Polynomials</title>
+    <objectives>
+    <ul>
+      <li>What is a Polynomial?</li>
+      <li>Adding and Subtracting Polynomials</li>
+      <li>Multiplying Polynomials</li>
+
+    </ul>
+  </objectives>
+<section><title>What is a Polynomial?</title>
+   <definition>
+    <statement>
+        <p>
+            A <alert>term</alert> is a single number or variable, or numbers and variables multiplied together. 
+        </p>
+    </statement>
+   </definition>
+   <example>
+    <p>
+        Here are some examples of terms: <md>3,x,4y,5ab,7x^2y^3</md>.
+    </p>
+   </example>
+   <definition>
+    <statement>
+        <p>
+           A <alert>monomial</alert> is a constant, a variable, or a product of constants and variables. A monomial has only one term.
+        </p>
+    </statement>
+   </definition>
+   <example>
+    <p>
+        Here are some examples of monomials: <md>3,x,4x^5,5ab,7x^2y^3</md>.
+    </p>
+   </example>
+   <definition>
+    <statement>
+        <p>
+           A <alert>polynomial</alert> is a sum (or difference) of monomials.
+        </p>
+    </statement>
+   </definition>
+   <example>
+    <p>
+        Here are some examples of polynomials: <md>3+x,4x^5-5ab,7x^2y^3,3x^2+5x-1,5x^3-4x^2-2x+1</md>.
+    </p>
+   </example>
+
+   <definition>
+    <statement>
+        <p>
+          The <alert>degree of a term</alert> is the sum of the exponents of the variables in the term. The <alert>degree of a polynomial</alert> is the degree of its term with the largest degree.  
+        </p>
+    </statement>
+   </definition>
+   <example>
+    <p>
+        Here are some examples of degrees of polynomials: <md>3+x</md> has degree 1, <md>4x^5-5ab</md> has degree 5, <md>7x^2y^3</md> has degree 5, <md>3x^2+5x-1</md> has degree 2, and <md>5x^3-4x^2-2x+1</md> has degree 3.
+    </p>
+   </example>
+
+   <definition>
+    <statement>
+        <p>
+            The <alert>coefficient</alert> of a term is the numerical factor of the term. 
+        </p>
+    </statement>
+   </definition>
+   <example>
+    <p>
+        Here are some examples of coefficients: <md>3</md> has coefficient 3, <md>x</md> has coefficient 1, <md>4x^5</md> has coefficient 4, <md>5ab</md> has coefficient 5, and <md>7x^2y^3</md> has coefficient 7.
+    </p>
+   </example>
+   </section>
+<section><title>Adding and Subtracting Polynomials</title>
+    <definition>
+        <statement>
+            <p>
+               <alert>Like terms</alert> are terms that have the same variables raised to the same powers.  
+            </p>
+        </statement>
+    </definition>
+    <example>
+        <p>
+            Here are some examples of like terms: <md>3x^2\mbox{ and } 4x^2</md> are like terms, <md>5xy\mbox{ and } -2xy</md> are like terms, and <md>7ab^2\mbox{ and } 3ab^2</md> are like terms.
+        </p>
+          <p>
+            Here are some examples of <alert>non-</alert>like terms: <md>3x^2\mbox{ and } 4x^3</md> are not like terms, <md>5xy\mbox{ and } -2x^3y</md> are not like terms, and <md>7ab^2\mbox{ and } 3a^2b^2</md> are not like terms.
+        </p>
+    </example>
+    <definition>
+        <statement>
+            <p>
+                To add or subtract polynomials, combine like terms. 
+            </p>
+        </statement>
+    </definition>
+    <example>
+        <p>
+            For example, to add <md>3x^2 + 2x - 5</md> and <md>4x^2 - 3x + 1</md>, combine like terms: 
+            <md>(3x^2 + 4x^2) + (2x - 3x) + (-5 + 1) = 7x^2 - x - 4</md>.
+        </p>
+    </example>
+    <example>
+        <p>
+            For example, to subtract <md>4x^2 - 3x + 1</md> from <md>3x^2 + 2x - 5</md>, distribute the negative sign and combine like terms: 
+            <md>(3x^2 - 4x^2) + (2x + 3x) + (-5 - 1) = -x^2 + 5x - 6</md>.
+        </p>
+    </example>
+    <exercise>
+        <p>
+            Add the following polynomials: <md>2x^2 + 3x - 4\mbox{ and } 5x^3-4x^2 - 2x + 1</md>.
+        </p>
+       <solution>
+        <p>
+            Combine like terms: <md>(5x^3) + (2x^2 - 4x^2) + (3x - 2x) + (-4 + 1) = 5x^3 - 2x^2 + x - 3</md>.
+        </p>
+       </solution>
+    </exercise>
+    <exercise>
+        <p>
+            Subtract the following polynomials: <md>5x^3-4x^2 - 2x + 1\mbox{ from } 2x^2 + 3x - 4</md>. That is, evaluate <md>(2x^2 + 3x - 4) - (5x^3-4x^2 - 2x + 1)</md>.
+        </p>
+       <solution>
+        <p>
+            Distribute the negative sign and combine like terms: <md>(0 - 5x^3) + (2x^2 - (-4x^2)) +(3x-(-2x)) (-4 - 1) = -5x^3 + 6x^2 + 5x - 5</md>.
+        </p>
+       </solution>  
+    </exercise>
+    </section>
+  </worksheet>
