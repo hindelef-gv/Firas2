@@ -484,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Introduction to Polynomials",
-  "body": "Introduction to Polynomials    What is a Polynomial?  Adding and Subtracting Polynomials  Multiplying Polynomials    What is a Polynomial?    A term is a single number or variable, or numbers and variables multiplied together.     Here are some examples of terms: .     A monomial is a constant, a variable, or a product of constants and variables. A monomial has only one term.     Here are some examples of monomials: .     A polynomial is a sum (or difference) of monomials.     Here are some examples of polynomials: .     The degree of a term is the sum of the exponents of the variables in the term. The degree of a polynomial is the degree of its term with the largest degree.     Here are some examples of degrees of polynomials: has degree 1, has degree 5, has degree 5, has degree 2, and has degree 3.     The coefficient of a term is the numerical factor of the term.     Here are some examples of coefficients: has coefficient 3, has coefficient 1, has coefficient 4, has coefficient 5, and has coefficient 7.    Adding and Subtracting Polynomials     Like terms are terms that have the same variables raised to the same powers.     Here are some examples of like terms: are like terms, are like terms, and are like terms.  Here are some examples of non- like terms: are not like terms, are not like terms, and are not like terms.     To add or subtract polynomials, combine like terms.     For example, to add and , combine like terms: .    For example, to subtract from , distribute the negative sign and combine like terms: .    Add the following polynomials: .   Combine like terms: .     Subtract the following polynomials: . That is, evaluate .   Distribute the negative sign and combine like terms: .     Multiplying Polynomials   We will gradually build up to multiplying polynomials. First, we will review multiplying monomials, then we will multiply a monomial by a polynomial, and finally we will multiply two polynomials.    Multiply the following monomials: .   Multiply the coefficients and add the exponents of the variables: .    Multiply the following monomials: .  Multiply the coefficients and add the exponents of the variables: .     Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: .     Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.         Multiply the following polynomials: .   Distribute each term of the first polynomial to each term of the second polynomial: .  We can also use the box method to help us organize our work.          We next combine like terms to get .     Multiply the following polynomials: .  Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .     Multiply the following polynomials, and simplify your answer:                        is the same as . Use the distributive property (or box method)to multiply these two polynomials.             "
+  "body": "Introduction to Polynomials    What is a Polynomial?  Adding and Subtracting Polynomials  Multiplying Polynomials    What is a Polynomial?    A term is a single number or variable, or numbers and variables multiplied together.     Here are some examples of terms: .     A monomial is a constant, a variable, or a product of constants and variables. A monomial has only one term.     Here are some examples of monomials: .     A polynomial is a sum (or difference) of monomials.     Here are some examples of polynomials: .     The degree of a term is the sum of the exponents of the variables in the term. The degree of a polynomial is the degree of its term with the largest degree.     Here are some examples of degrees of polynomials: has degree 1, has degree 5, has degree 5, has degree 2, and has degree 3.     The coefficient of a term is the numerical factor of the term.     Here are some examples of coefficients: has coefficient 3, has coefficient 1, has coefficient 4, has coefficient 5, and has coefficient 7.    Adding and Subtracting Polynomials     Like terms are terms that have the same variables raised to the same powers.     Here are some examples of like terms: are like terms, are like terms, and are like terms.  Here are some examples of non- like terms: are not like terms, are not like terms, and are not like terms.     To add or subtract polynomials, combine like terms.     For example, to add and , combine like terms: .    For example, to subtract from , distribute the negative sign and combine like terms: .     Add the following polynomials: .    Combine like terms: .      Subtract the following polynomials: . That is, evaluate .    Distribute the negative sign and combine like terms: .     Multiplying Polynomials   We will gradually build up to multiplying polynomials. First, we will review multiplying monomials, then we will multiply a monomial by a polynomial, and finally we will multiply two polynomials.    Multiply the following monomials: .   Multiply the coefficients and add the exponents of the variables: .      Multiply the following monomials: .    Multiply the coefficients and add the exponents of the variables: .     Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: .      Multiply the following monomial and polynomial: .    Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.         Multiply the following polynomials: .   Distribute each term of the first polynomial to each term of the second polynomial: .  We can also use the box method to help us organize our work.          We next combine like terms to get .      Multiply the following polynomials: .   Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .     Multiply the following polynomials, and simplify your answer:                        is the same as . Use the distributive property (or box method)to multiply these two polynomials.             "
 },
 {
   "id": "PA--2",
@@ -637,7 +637,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Add the following polynomials: .   Combine like terms: .   "
+  "body": "  Add the following polynomials: .    Combine like terms: .   "
 },
 {
   "id": "PA--4-8",
@@ -646,7 +646,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " Subtract the following polynomials: . That is, evaluate .   Distribute the negative sign and combine like terms: .   "
+  "body": "  Subtract the following polynomials: . That is, evaluate .    Distribute the negative sign and combine like terms: .   "
 },
 {
   "id": "PA--5-3",
@@ -664,7 +664,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "Multiply the following monomials: .  Multiply the coefficients and add the exponents of the variables: .   "
+  "body": "  Multiply the following monomials: .    Multiply the coefficients and add the exponents of the variables: .   "
 },
 {
   "id": "PA--5-5",
@@ -682,7 +682,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.       "
+  "body": "  Multiply the following monomial and polynomial: .    Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.       "
 },
 {
   "id": "PA--5-7",
@@ -700,7 +700,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": " Multiply the following polynomials: .  Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .   "
+  "body": "  Multiply the following polynomials: .   Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .   "
 },
 {
   "id": "PA--5-9",
