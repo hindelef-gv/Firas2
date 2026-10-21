@@ -3,33 +3,34 @@
 <section xml:id="notes-week-01">
   <title>Week 1</title>
 
-  <introduction>
-    <p>
-      This is an outline of the topics we covered in the first week of class.
-    </p>
-  </introduction>
+  <Objectives>
+    <ul>
+      <li>Understand the basic properties of polynomials.</li>
+      <li>Learn how to add, subtract, and multiply polynomials.</li>
+      <li>Learn how to use the box method to multiply polynomials.</li>
+    </ul> 
+  </Objectives>
 
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
   <subsection>
-    <title>Monday 8/22</title>
-
-    <p>
-    </p>
-  </subsection>
-
-
+    <title>First Class Meeting</title>
+<subsubsection>
+  <title>Tasks to do before class</title>
+  
+</subsubsection>
+   <subsubsection>
+  <title>Activities to complete during class</title>
+  
+</subsubsection></subsection>
   <subsection>
-    <title>Wednesday 8/24</title>
-
-    <p>
-    </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Friday 8/26</title>
-
-    <p>
-    </p>
-  </subsection>
+    <title>Second Class Meeting</title>
+<subsubsection>
+  <title>Tasks to do before class</title>
+  
+</subsubsection>
+   <subsubsection>
+  <title>Activities to complete during class</title>
+  
+</subsubsection>
+</subsection>
 </section>
