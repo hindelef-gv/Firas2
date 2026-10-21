@@ -1,9 +1,9 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus16",
+  "id": "course-documents-2",
   "level": "1",
-  "url": "syllabus16.html",
+  "url": "course-documents-2.html",
   "type": "Section",
   "number": "",
   "title": "MTH 110-16 Syllabus",
@@ -12,16 +12,16 @@ var ptx_lunr_docs = [
 {
   "id": "sec16-course-info-2",
   "level": "2",
-  "url": "syllabus16.html#sec16-course-info-2",
+  "url": "course-documents-2.html#sec16-course-info-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "(MTH 110-16) "
 },
 {
-  "id": "tab-name16",
+  "id": "course-documents-2-5-4",
   "level": "2",
-  "url": "syllabus16.html#tab-name16",
+  "url": "course-documents-2.html#course-documents-2-5-4",
   "type": "Table",
   "number": "1",
   "title": "Grading Schema",
@@ -34,21 +34,21 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "MTH 110-33 Syllabus",
-  "body": " MTH 110-33 Syllabus      Course Information  This is the syllabus for (MTH 110-33) for Fall 2026. It is a 4-credit course.    Instructor  Prof. Firas Hindeleh, MAK A-2-116, (616) 331-3739 , hindelef@gvsu.edu .    Student Hours\\ availability  I will be holding my office hours on TR 10-10:50AM at my office and on Mondays 10-10:50 at the Peer Collaboration Space PCS (MAK A-2-610). Outside office hours, feel free to stop by my office. Please note that I typically only check email and other messages between 8am and 5pm on weekdays. If you send a message that needs a response during those times, you can expect to get a response within 6 hours.    Class meets  TR 11:00-12:50PM MAK D2-329 .    Course Description  A symbolic, numeric, and graphic approach to intermediate algebra with an emphasis on applications. Topics include operations, equations, and inequalities of linear, exponential, logarithmic, quadratic, rational, and radical functions. Please see the mathematics program for placement test details.    Prerequisite  MTH 097 or assignment through GVSU Math Placement. If you think you have been placed in the wrong course, please see me after class today to discuss your placement. You can take a practice proficiency exam: gvsu.edu\/s\/Ik .To learn about how to take the exam watch: gvsu.edu\/s\/jq . To take the actual proficiency exam: gvsu.edu\/s\/jk . It is free and I will not know that you took it.    Textbook (Optional for reference)   Intermediate Algebra, Functions and Authentic Applications by Lehmann published by Pearson, 5th edition.       Topics     Reframing Mathematical Mindset (1-2 week)    Exponential Functions (3 - 5 weeks)    Inverse Functions and Logarithmic Functions (2 - 4 weeks)    Quadratic Functions (3 - 5 weeks)    Rational and Radical Functions (1 - 2 weeks)       Course Objectives  After successful completion of the course, students will be able to…  Analyze realistic or real-world situations in a mathematical way, using exponential and quadratic models.  Select appropriate variables to represent the functional inputs and outputs for a mathematical model of a situation using exponential and quadratic models.  Create an appropriate mathematical model from a description or data, using, if necessary, appropriate technological tools for exponential and quadratic models.  Solve problems involving exponential, logarithmic, and quadratic equations.  Translate between different representations of functions (algebraic, graphical, and tabular)  Explain the mathematical reasoning involved in solving a problem both orally and in writing.        Course Technologies    BlackBoard  All announcements, assignments, and other course details will be communicated through the course home page, which you access by going to the Blackboard server http:\/\/lms.gvsu.edu You will be expected to access the course home page frequently and respond accordingly to announcements and assignments posted there. In addition, it will be essential to be a regular user of email in this course. Be sure your preferred email address has been appropriately updated in your Banner.    Laptop\/Tablet:  Preferably one with a touchscreen that allows writing on the screen with a stylus. If you do not have a laptop\\tablet that you can bring to class, please let me know so I can bring a device you can use.   Web Browser  Chrome is the preferred browser. Make sure that you are using your GV Google profile when using school related items. Browsers such as Firefox and Edge are also fine. Safari has many issues with Bb.   Scanning  To scan your paper work into a pdf, you can either use:    The Xerox machines around campus.    Your iPhone, see instructions at https:\/\/apple.co\/2DELGuj     Your Android phone, see instructions at, see instructions at https:\/\/bit.ly\/2XAY6dQ      Desmos  The primary calculator tool that we will use is Desmos https:\/\/www.desmos.com\/ This is a free web-based tool that can run in any browser, or on your smartphone\\tablet as an app. Once you are in Desmos, you can login with your Google account in order to save and share your work.   Amplify Classroom:  Many of our in-class activities will be done on our Amplify Classroom platform. Join our classroom at https:\/\/learning.amplify.com\/join\/#\/ZEAJ62 after clicking on the link, click on Sign in with Google button at the bottom of the window, choose your GV Google email from the list of google accounts that you have.       Structure and Flow of the Course  Your MTH 110 course is being offered in a face-to-face (F2F) mode. The content of MTH 110 is divided into 15 modules (one module per week). Each of which is divided into two parts (one for each class meeting). Your engagement and work on each module follow a standard pattern:   Before each class meeting, you need to go to the corresponding day and complete the Prep Work for that day. Prep work involves watching screencasts that leads you through independent learning of the basic ideas of new material, then complete their exit preview quiz.    During our class meeting, you will participate in active work on applications and analysis of the basic information you learned in the Preview assignment. Your attendance is important for the group and for your learning.    There is a weekly online homework on WebWork (see below). This is typically due at 11PM on Saturdays. You need to pace yourself during the week and finish a few problems each day. Office hours is a great place to work on that with the rest of the group.        Assessments and Grades v   WebWork 15%  Online homework is assigned regularly using WeBWorK. To access this log in to: https:\/\/webwork-math.gvsu.edu\/webwork2\/MTH110-33\/ . You will get instant feedback on your answers, and you will have the opportunity to attempt any homework question an unlimited number of times before its deadline. Every assignment opens on Friday and is due on Saturday at 11:00PM of every week. You also may seek help from me, the Math Center tutors or each other. Once the assignment is closed answers will come available for download. To learn about WeBWorK check out GVSU YouTube Channel http:\/\/gvsu.edu\/s\/0vD and search for the “WeBWorK for students” playlist or go directly there with http:\/\/gvsu.edu\/s\/0vE .    In-Class Activities 30%  Every meeting, we will have an in-class group activity. Such activities will be completed in groups, where each student will receive the same grade. The goal of those activities is to get a hands-on experience with topics being discussed. Missing a class means that you forfeit the points of those activities. I will drop the lowest two activities in case you had to miss class that day. No excuses   Preview Activities 5%  Before class, there are some screencasts that I ask you to watch and then take simple 2-3 question activity on Bb.   Learning Targets 50%  This class will use a mastery-based testing policy. The mastery-based testing works like this: The course material is broken into 19 main Learning Targets (LTs), See the Learning Targets section below. This is a rather rigid scoring system, where partial credit is not awarded. The benefit is that students will have multiple attempts to demonstrate their mastery of the material at no cost for failing to do so on their first attempt. Every other Thursday you will have a checkpoint to attempt 1-2 LTs, with the opportunity to re-attempt the LTs from the previous checkpoint. If you still did not reach mastery, you can re-attempt the LTs you need during my office hours. Your last chance to attempt all LTs will be on your final exam which scheduled for Tuesday, December 15, 10:00 am - 11:50 am. After all LTs are completed, each student will have a number of mastered topics out of the 19 main topics. The percentage of mastered topics is the LT score for that student and will account for 50% of the course grade as per the grade distribution above. There is no penalty for mastering a LT on the second, third, or fourth exam after failing to do so on a previous exam. If students demonstrate that they've mastered a topic at any point during the semester, they receive full credit for doing so. The grading of the LTs will be tough (no partial credit will be given) since it is an indication if the student has mastered the target or not. The benefit of this system is that students are not punished if they fail to master a topic but over the course of the semester demonstrate that they have mastered the topic.    Final grades will be no lower than as determined by the following scale:   Grading Schema    A: 93-100%  A-: 90-92.99%    B+\" 87-89.99%  B: 83-86.99%  B-: 80-82.99%    C+\" 77-79.99%  C: 73-76.99%  C-: 70-72.99%    D+\" 67-69.99%  D: 63-66.99%  F: 0-62.99%        Learning Targets      [Functions] I can sketch qualitative graphs with appropriate variable definitions.    [Functions] I can describe a situation given a qualitative graph with defined inputs and outputs.    [Linear] Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [Linear] Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    [Linear] Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [Linear] Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    [Linear] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [Linear] I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.    [Exponential] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [Exponential] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [Exponential] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [Exponential] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    [Exponential] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.    [Quadratic] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context,find and explain its meaning, find given and explain its meaning.    [Quadratic] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [Quadratic] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [Quadratic] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    [Radical] Given a radical application, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [Rational] Given a rational application, find an equation, and find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.      Where to go and what to do for help     Come see me: One of the best ways to improve your chances of success is to come and talk to me about how you are doing in the course. We can review material and I can give you extra direction. I know what is important in this course, so I can help you understand those important ideas. Don’t struggle alone!    Math Center: GVSU's Math Tutoring Center offers both in-person and online drop-in tutoring this semester, starting Wednesday, August 31. You can access the most up-to-date information on our website at http:\/\/gvsu.edu\/tutoring\/math\/ . There you will find our current hours, information on how to access online tutoring with Discord Voice and a schedule of when you can find tutors to help with your specific course. Bring questions to any center about using technology (calculator or Desmos), on methods and concepts, or on specific problems. All Math Center tutoring is FREE, so stop by early and often.  The Math Tutoring Center offers:   in-person tutoring on the Allendale campus (MAK A-2-601): Monday – Thursday 10am – 5pm and Friday 10am – 2pm    in-person tutoring on the Pew campus (Steelcase Library Collaboration Zone DeVos A): Tuesday – Thursday 12pm – 4pm ( check website , hours can change)    online tutoring via Discord Voice: Sunday – Thursday 5pm – 8pm    To access virtual drop-in tutoring, you can use the link in your Blackboard course called Math Tutoring Center or visit our website. Then you will need to click on the “Online Math Tutoring Center” button, which will require a GVSU login. We ask that when you enter our Discord server, please change your username to your first and last name so we can get you signed in and connected with a tutor.     Tutoring and Reading Center Appointments: GVSU’s Tutoring and Reading Center offers appointment tutoring both in-person and virtually. You can sign up for 50-minute tutoring appointments for many Math courses. Request a tutor at https:\/\/www.gvsu.edu\/trc\/ or schedule directly on Navigate .    Form a study group: Another good strategy is to form a study group of your peers, from this class or others. By explaining (or trying to explain) the material to others you will quickly learn what you do and don’t understand. Then as a team you can learn the material. Again, don’t struggle alone!        University and Class Policies  This course is subject to the GVSU policies listed at http:\/\/www.gvsu.edu\/coursepolicies\/     Attendance  At Grand Valley, regular attendance in class and other course activities is considered an essential part of the students' educational experience and a requirement for an adequate evaluation of student academic progress. Coursework missed because of excused absences should be made up to the satisfaction of the instructor. Although makeup work will not remove the full adverse effect of the absence in all cases, faculty members will make reasonable accommodations for students when an absence is excused. The accommodations available will vary with course and program. The degree of the effect upon grades will vary with the nature and amount of work missed and must be measured according to the instructor's best judgment. In case of excessive absences, the instructor may refuse to grant credit for the course. Under some circumstances, an incomplete grade followed by a resolution according to university policy, or withdrawal from the course, is appropriate. Absences due to the following reasons should be treated as excused: 1) absences of students who miss class due to active participation in an intercollegiate event; 2) absences due to the observance of religious holidays, see PC 9.6, Religious Inclusion Policy ; 3) absences due to military duty; 4) absences due to jury duty, or appearance in court or other government hearings; 5) student medical conditions that preclude class attendance; 6) birth or adoption of child; 7) absences due to attendance at an academic and\/or professional conference; and 8) bereavement for an individual of significant relationship. Instructors have discretion to determine whether absences for other reasons should be treated as excused (e.g. study abroad program). Regardless of the reason, I am required to report a full week of absence on Navigate.   Academic Honesty  Some of the work in this course will be done collaboratively. It may be particularly helpful to meet once a week with other students to summarize and review key ideas in the course; indeed, this is essential to the semester project. Even on homework, some collaboration is permitted. However, please understand that there is a difference between collaboration and plagiarism. Collaboration requires you to contribute to solutions and think when you write. Copying any portion of someone else's work, no matter how small, is plagiarism! Evidence of plagiarism in an assignment will result in a minimum penalty of zero on the paper and possible action under the guidelines of the GVSU catalog. You are expected to show integrity in all your work, and to encourage your peers to do likewise. I reserve the right to discuss the nature of your work with you prior to deciding a grade on an assignment.   AI Policy   SLT 11.16 outlines permitted and non-permitted uses of AI at GVSU for students, faculty and staff. In MTH 110, students are not allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course. Each student is expected to complete each assignment without substantive assistance from others, including automated tools. You are not alone; you have the support of your dedicated faculty whose ultimate goal is make sure you are successful.   Graded Work  On all graded assignments, I expect your very best. Classroom activities to be completed during class. Please use pencil on loose-leaf paper, scan pages into one pdf file if there is more than one page. Problems should be written in complete mathematical style and in your best handwriting.   Workload and Study Habits  For this 4-credit course, you are expected to spend at least 2-3 hours outside of class for each hour in class that we meet - average (and successful) students in previous semesters have reported an average of 9 hours of studying.   Participation  In every class meeting, there will be significant opportunities for you to actively participate aloud. Through questions asked in lecture and brief exercises for teams of 2-3, you will be able to check and demonstrate your understanding in class. You must come prepared to class to effectively participate. I expect that everyone will share in this important aspect of our learning process.   Drop Date  The drop deadline for this course is Friday, November , at 5 pm.   Holidays  There will be no classes on 9\/7 in observation of Labor Day, October 26, 27 for Fall break, and 11\/25-11\/29 for Thanksgiving break.   Feedback  I am always willing to discuss with you any thoughts you have about the course, including both your performance and mine. Please let me know if you think something could be better or if you like something that we are doing.      Contingency plans for the semester  In a time of public health emergencies, it is important that all students continue to monitor their health, as well as current campus health communications .  We will begin the semester in \"face-to-face\" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things.   If the entire university goes fully online: In this case, all F2F meetings will be replaced by synchronous online meetings. No other changes will be made.    If the professor\/cannot be on campus due to illness: (For example, if the instructor contracted COVID). In this case, we will follow the plan above for if the university goes fully online (above).    If the professor cannot hold the class due to severe illness symptoms: In this case, the entire course will be moved to an asynchronous online format until I am well enough to resume teaching. A proxy\/substitute may be appointed to grade and give feedback on Daily Prep and Class Activities; all other graded work will be suspended until I am well enough to grade.    In the latter two eventualities, you can expect a slowdown in the grading process and significant changes to the course calendar or syllabus. Plea       Creating an Equitable and Inclusive Learning Environment  As an instructor, I will strive to create an equitable and inclusive learning environment in our class. It is my and the university’s goal that you feel able to share information about your experiences as a student. University faculty and staff will seek to keep information you share private to the greatest extent possible. There is some information that may need to be shared with the university, especially regarding sexual misconduct or information about a crime that may have occurred on GVSU’s campus. Below are additional resources available for support:    Title IX, Sexual Misconduct Policy, and Gender- and Sexual-Based Harassment Policy  Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc.Title IX's sex discrimination prohibition also protects students from discrimination based on gender identity or failure to conform to stereotypical notions of masculinity or femininity. If you or someone you know has been harassed, assaulted, or denied services on the basis of sex or gender, you can find the appropriate resources at www.gvsu.edu\/titleIX or contact the University's Title IX Coordinator, Theresa Rowland at 616-331-9530 or rowlanth@gvsu.edu .    Student Accessibility Resources  If you need accommodations due to a learning, physical, or other disability you must present a memo to me from Student Accessibility Resources (SAR), indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 CON) by calling 331-2490 or email to access@gvsu.edu . Please note that I cannot provide accommodations based upon disability until I have received a copy of the SAR issued memo. All discussions will remain confidential.  Furthermore, if you have a physical disability and think you will need assistance evacuating this classroom and\/or building in an emergency situation, please make me aware so I can develop a plan to assist you.    Gender Expression and Identity  At Grand Valley State University, we recognize that an individual may wish to be identified by a professional, personal, preferred, display or use name without making an official legal name change. Students may use the myName process to update Banner, and faculty and staff may use this process to update Workday (called \"Preferred Name\" in Workday) and some related systems. The myName process allows students, faculty, and staff to have the chosen name appear anywhere a legal name is not required. See https:\/\/www.gvsu.edu\/myname\/ for details.    Bias Incidents or Harassment:  Anytime you or anyone in the GVSU community feels belittled, disrespected, threatened, or unsafe because of who you are, the entire university community is diminished. That's why it’s important to report all bias incidents--even those intended as jokes. While Grand Valley safeguards individuals’ constitutional rights and protected speech, the university is also committed to inclusion and equity. Grand Valley exercises the right to engage in educational dialogue and seeks constructive responses to address bias incidents. Go to https:\/\/bit.ly\/4xYeXGl to report bias incidents or for more information. In addition, for faculty\/staff related complaints, you can file an informal complaint with the Division of Inclusion and Equity at inclusion@gvsu.edu or 616-331-3296. For student related complaints, you can also contact the Dean of Students office at 616-331-3585.    Student Well-Being  Mental health concerns, including overwhelming stress, excessive worry, difficulty participating in daily activities, and changes in mood, appetite, or sleep patterns can interfere with your academic performance.  College student surveys report that roughly 1 out of 3 students screen positive for a current mental health concern. GVSU values your health and wellness and provides services to support your mental health. If you would like mental health support or are concerned for another member of our campus community, reach out to the University Counceling Center https:\/\/www.gvsu.edu\/counsel for free resources, self-help options, and services. Also, visit the Center for Health and Well-being https:\/\/www.gvsu.edu\/studentwellness\/ for additional health and wellness programming.    Classroom and Campus Safety  I consider classroom and campus safety our shared responsibility. Please familiarize yourself with the classroom emergency placard, which contains important information that could prove useful should an emergency arise. Emergency situations could include a fire alarm, tornado warning, medical emergency, or hostile intruder, and our response might consist of evacuating MAK Hall in an orderly manner, moving as a group to a different location in the building, rendering assistance a class member, or staying put and locking the classroom door. In all cases, I will provide clear instructions as to what you should do. Please make sure to have your primary mobile number listed in Banner so that you will automatically receive any campus alerts. Should you receive an emergency notification in class, notify me immediately.  Additional information about campus safety can be found at the following sites:   Directions for enabling additional contact means to the campus alert system: https:\/\/www.gvsu.edu\/gvsualert\/    List of campus tornado safety locations: https:\/\/bit.ly\/4cPnB1s     Medical emergencies and campus AED locations: https:\/\/bit.ly\/4xHk11q     Active shooter response https:\/\/bit.ly\/4xdB1N8         "
+  "body": " MTH 110-33 Syllabus      Course Information  This is the syllabus for (MTH 110-33) for Fall 2026. It is a 4-credit course.    Instructor  Prof. Firas Hindeleh, MAK A-2-116, (616) 331-3739 , hindelef@gvsu.edu .    Student Hours\\ availability  I will be holding my office hours on TR 10-10:50AM at my office and on Mondays 10-10:50 at the Peer Collaboration Space PCS (MAK A-2-610). Outside office hours, feel free to stop by my office. Please note that I typically only check email and other messages between 8am and 5pm on weekdays. If you send a message that needs a response during those times, you can expect to get a response within 6 hours.    Class meets  TR 11:00-12:50PM MAK D2-329 .    Course Description  A symbolic, numeric, and graphic approach to intermediate algebra with an emphasis on applications. Topics include operations, equations, and inequalities of linear, exponential, logarithmic, quadratic, rational, and radical functions. Please see the mathematics program for placement test details.    Prerequisite  MTH 097 or assignment through GVSU Math Placement. If you think you have been placed in the wrong course, please see me after class today to discuss your placement. You can take a practice proficiency exam: gvsu.edu\/s\/Ik .To learn about how to take the exam watch: gvsu.edu\/s\/jq . To take the actual proficiency exam: gvsu.edu\/s\/jk . It is free and I will not know that you took it.    Textbook (Optional for reference)   Intermediate Algebra, Functions and Authentic Applications by Lehmann published by Pearson, 5th edition.       Topics     Reframing Mathematical Mindset (1-2 week)    Exponential Functions (3 - 5 weeks)    Inverse Functions and Logarithmic Functions (2 - 4 weeks)    Quadratic Functions (3 - 5 weeks)    Rational and Radical Functions (1 - 2 weeks)       Course Objectives  After successful completion of the course, students will be able to…  Analyze realistic or real-world situations in a mathematical way, using exponential and quadratic models.  Select appropriate variables to represent the functional inputs and outputs for a mathematical model of a situation using exponential and quadratic models.  Create an appropriate mathematical model from a description or data, using, if necessary, appropriate technological tools for exponential and quadratic models.  Solve problems involving exponential, logarithmic, and quadratic equations.  Translate between different representations of functions (algebraic, graphical, and tabular)  Explain the mathematical reasoning involved in solving a problem both orally and in writing.        Course Technologies    BlackBoard  All announcements, assignments, and other course details will be communicated through the course home page, which you access by going to the Blackboard server http:\/\/lms.gvsu.edu You will be expected to access the course home page frequently and respond accordingly to announcements and assignments posted there. In addition, it will be essential to be a regular user of email in this course. Be sure your preferred email address has been appropriately updated in your Banner.    Laptop\/Tablet:  Preferably one with a touchscreen that allows writing on the screen with a stylus. If you do not have a laptop\\tablet that you can bring to class, please let me know so I can bring a device you can use.   Web Browser  Chrome is the preferred browser. Make sure that you are using your GV Google profile when using school related items. Browsers such as Firefox and Edge are also fine. Safari has many issues with Bb.   Scanning  To scan your paper work into a pdf, you can either use:    The Xerox machines around campus.    Your iPhone, see instructions at https:\/\/apple.co\/2DELGuj     Your Android phone, see instructions at, see instructions at https:\/\/bit.ly\/2XAY6dQ      Desmos  The primary calculator tool that we will use is Desmos https:\/\/www.desmos.com\/ This is a free web-based tool that can run in any browser, or on your smartphone\\tablet as an app. Once you are in Desmos, you can login with your Google account in order to save and share your work.   Amplify Classroom:  Many of our in-class activities will be done on our Amplify Classroom platform. Join our classroom at https:\/\/learning.amplify.com\/join\/#\/ZEAJ62 after clicking on the link, click on Sign in with Google button at the bottom of the window, choose your GV Google email from the list of google accounts that you have.       Structure and Flow of the Course  Your MTH 110 course is being offered in a face-to-face (F2F) mode. The content of MTH 110 is divided into 15 modules (one module per week). Each of which is divided into two parts (one for each class meeting). Your engagement and work on each module follow a standard pattern:   Before each class meeting, you need to go to the corresponding day and complete the Prep Work for that day. Prep work involves watching screencasts that leads you through independent learning of the basic ideas of new material, then complete their exit preview quiz.    During our class meeting, you will participate in active work on applications and analysis of the basic information you learned in the Preview assignment. Your attendance is important for the group and for your learning.    There is a weekly online homework on WebWork (see below). This is typically due at 11PM on Saturdays. You need to pace yourself during the week and finish a few problems each day. Office hours is a great place to work on that with the rest of the group.        Assessments and Grades v   WebWork 15%  Online homework is assigned regularly using WeBWorK. To access this log in to: https:\/\/webwork-math.gvsu.edu\/webwork2\/MTH110-33\/ . You will get instant feedback on your answers, and you will have the opportunity to attempt any homework question an unlimited number of times before its deadline. Every assignment opens on Friday and is due on Saturday at 11:00PM of every week. You also may seek help from me, the Math Center tutors or each other. Once the assignment is closed answers will come available for download. To learn about WeBWorK check out GVSU YouTube Channel http:\/\/gvsu.edu\/s\/0vD and search for the “WeBWorK for students” playlist or go directly there with http:\/\/gvsu.edu\/s\/0vE .    In-Class Activities 30%  Every meeting, we will have an in-class group activity. Such activities will be completed in groups, where each student will receive the same grade. The goal of those activities is to get a hands-on experience with topics being discussed. Missing a class means that you forfeit the points of those activities. I will drop the lowest two activities in case you had to miss class that day. No excuses   Preview Activities 5%  Before class, there are some screencasts that I ask you to watch and then take simple 2-3 question activity on Bb.   Learning Targets 50%  This class will use a mastery-based testing policy. The mastery-based testing works like this: The course material is broken into 19 main Learning Targets (LTs), See the Learning Targets section below. This is a rather rigid scoring system, where partial credit is not awarded. The benefit is that students will have multiple attempts to demonstrate their mastery of the material at no cost for failing to do so on their first attempt. Every other Thursday you will have a checkpoint to attempt 1-2 LTs, with the opportunity to re-attempt the LTs from the previous checkpoint. If you still did not reach mastery, you can re-attempt the LTs you need during my office hours. Your last chance to attempt all LTs will be on your final exam which scheduled for Tuesday, December 15, 10:00 am - 11:50 am. After all LTs are completed, each student will have a number of mastered topics out of the 19 main topics. The percentage of mastered topics is the LT score for that student and will account for 50% of the course grade as per the grade distribution above. There is no penalty for mastering a LT on the second, third, or fourth exam after failing to do so on a previous exam. If students demonstrate that they've mastered a topic at any point during the semester, they receive full credit for doing so. The grading of the LTs will be tough (no partial credit will be given) since it is an indication if the student has mastered the target or not. The benefit of this system is that students are not punished if they fail to master a topic but over the course of the semester demonstrate that they have mastered the topic.    Final grades will be no lower than as determined by the following scale:   Grading Schema    A: 93-100%  A-: 90-92.99%    B+\" 87-89.99%  B: 83-86.99%  B-: 80-82.99%    C+\" 77-79.99%  C: 73-76.99%  C-: 70-72.99%    D+\" 67-69.99%  D: 63-66.99%  F: 0-62.99%        Learning Targets      [Functions] I can sketch qualitative graphs with appropriate variable definitions.    [Functions] I can describe a situation given a qualitative graph with defined inputs and outputs.    [Linear] Given a data set, make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [Linear] Given a linear graph, identify the slope in the context, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.    [Linear] Given a linear word situation, make an equation, identify and explain the meaning of slope in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [Linear] Given a system of linear equations, or a word situation, or data sets create a system of equations as applicable and solve the system.    [Linear] Given a linear function, find the inverse symbolically, explain how the domain and range is affected, and evaluate function notation questions.    [Linear] I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.    [Exponential] Given a data set, make an exponential regression model on Desmos, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning.    [Exponential] Given an exponential graph, identify the growth\/decay rate, the vertical intercept, evaluate , and find given and make an equation for the curve.    [Exponential] Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth\/decay, make an equation, identify and explain the meaning of growth\/decay rate in the context, identify and explain the y-intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.    [Exponential] I can recognize and identify key characteristics of an exponential pattern represented in a table, graph, equation or application. I can translate between different representations.    [Exponential] Solve equations and word situations involving exponential, logarithmic, and power functions symbolically and with technology.    [Quadratic] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context,find and explain its meaning, find given and explain its meaning.    [Quadratic] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [Quadratic] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of x-intercepts, y-intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [Quadratic] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    [Radical] Given a radical application, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [Rational] Given a rational application, find an equation, and find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.      Where to go and what to do for help     Come see me: One of the best ways to improve your chances of success is to come and talk to me about how you are doing in the course. We can review material and I can give you extra direction. I know what is important in this course, so I can help you understand those important ideas. Don’t struggle alone!    Math Center: GVSU's Math Tutoring Center offers both in-person and online drop-in tutoring this semester, starting Wednesday, August 31. You can access the most up-to-date information on our website at http:\/\/gvsu.edu\/tutoring\/math\/ . There you will find our current hours, information on how to access online tutoring with Discord Voice and a schedule of when you can find tutors to help with your specific course. Bring questions to any center about using technology (calculator or Desmos), on methods and concepts, or on specific problems. All Math Center tutoring is FREE, so stop by early and often.  The Math Tutoring Center offers:   in-person tutoring on the Allendale campus (MAK A-2-601): Monday – Thursday 10am – 5pm and Friday 10am – 2pm    in-person tutoring on the Pew campus (Steelcase Library Collaboration Zone DeVos A): Tuesday – Thursday 12pm – 4pm ( check website , hours can change)    online tutoring via Discord Voice: Sunday – Thursday 5pm – 8pm    To access virtual drop-in tutoring, you can use the link in your Blackboard course called Math Tutoring Center or visit our website. Then you will need to click on the “Online Math Tutoring Center” button, which will require a GVSU login. We ask that when you enter our Discord server, please change your username to your first and last name so we can get you signed in and connected with a tutor.     Tutoring and Reading Center Appointments: GVSU’s Tutoring and Reading Center offers appointment tutoring both in-person and virtually. You can sign up for 50-minute tutoring appointments for many Math courses. Request a tutor at https:\/\/www.gvsu.edu\/trc\/ or schedule directly on Navigate .    Form a study group: Another good strategy is to form a study group of your peers, from this class or others. By explaining (or trying to explain) the material to others you will quickly learn what you do and don’t understand. Then as a team you can learn the material. Again, don’t struggle alone!        University and Class Policies  This course is subject to the GVSU policies listed at http:\/\/www.gvsu.edu\/coursepolicies\/     Attendance  At Grand Valley, regular attendance in class and other course activities is considered an essential part of the students' educational experience and a requirement for an adequate evaluation of student academic progress. Coursework missed because of excused absences should be made up to the satisfaction of the instructor. Although makeup work will not remove the full adverse effect of the absence in all cases, faculty members will make reasonable accommodations for students when an absence is excused. The accommodations available will vary with course and program. The degree of the effect upon grades will vary with the nature and amount of work missed and must be measured according to the instructor's best judgment. In case of excessive absences, the instructor may refuse to grant credit for the course. Under some circumstances, an incomplete grade followed by a resolution according to university policy, or withdrawal from the course, is appropriate. Absences due to the following reasons should be treated as excused: 1) absences of students who miss class due to active participation in an intercollegiate event; 2) absences due to the observance of religious holidays, see PC 9.6, Religious Inclusion Policy ; 3) absences due to military duty; 4) absences due to jury duty, or appearance in court or other government hearings; 5) student medical conditions that preclude class attendance; 6) birth or adoption of child; 7) absences due to attendance at an academic and\/or professional conference; and 8) bereavement for an individual of significant relationship. Instructors have discretion to determine whether absences for other reasons should be treated as excused (e.g. study abroad program). Regardless of the reason, I am required to report a full week of absence on Navigate.   Academic Honesty  Some of the work in this course will be done collaboratively. It may be particularly helpful to meet once a week with other students to summarize and review key ideas in the course; indeed, this is essential to the semester project. Even on homework, some collaboration is permitted. However, please understand that there is a difference between collaboration and plagiarism. Collaboration requires you to contribute to solutions and think when you write. Copying any portion of someone else's work, no matter how small, is plagiarism! Evidence of plagiarism in an assignment will result in a minimum penalty of zero on the paper and possible action under the guidelines of the GVSU catalog. You are expected to show integrity in all your work, and to encourage your peers to do likewise. I reserve the right to discuss the nature of your work with you prior to deciding a grade on an assignment.   AI Policy   SLT 11.16 outlines permitted and non-permitted uses of AI at GVSU for students, faculty and staff. In MTH 110, students are not allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course. Each student is expected to complete each assignment without substantive assistance from others, including automated tools. You are not alone; you have the support of your dedicated faculty whose ultimate goal is make sure you are successful.   Graded Work  On all graded assignments, I expect your very best. Classroom activities to be completed during class. Please use pencil on loose-leaf paper, scan pages into one pdf file if there is more than one page. Problems should be written in complete mathematical style and in your best handwriting.   Workload and Study Habits  For this 4-credit course, you are expected to spend at least 2-3 hours outside of class for each hour in class that we meet - average (and successful) students in previous semesters have reported an average of 9 hours of studying.   Participation  In every class meeting, there will be significant opportunities for you to actively participate aloud. Through questions asked in lecture and brief exercises for teams of 2-3, you will be able to check and demonstrate your understanding in class. You must come prepared to class to effectively participate. I expect that everyone will share in this important aspect of our learning process.   Drop Date  The drop deadline for this course is Friday, November , at 5 pm.   Holidays  There will be no classes on 9\/7 in observation of Labor Day, October 26, 27 for Fall break, and 11\/25-11\/29 for Thanksgiving break.   Feedback  I am always willing to discuss with you any thoughts you have about the course, including both your performance and mine. Please let me know if you think something could be better or if you like something that we are doing.      Contingency plans for the semester  In a time of public health emergencies, it is important that all students continue to monitor their health, as well as current campus health communications .  We will begin the semester in \"face-to-face\" mode, but several things could happen during the semester that might alter this setup. Here are the initial plans for the most likely of those things.   If the entire university goes fully online: In this case, all F2F meetings will be replaced by synchronous online meetings. No other changes will be made.    If the professor\/cannot be on campus due to illness: (For example, if the instructor contracted COVID). In this case, we will follow the plan above for if the university goes fully online (above).    If the professor cannot hold the class due to severe illness symptoms: In this case, the entire course will be moved to an asynchronous online format until I am well enough to resume teaching. A proxy\/substitute may be appointed to grade and give feedback on Daily Prep and Class Activities; all other graded work will be suspended until I am well enough to grade.    In the latter two eventualities, you can expect a slowdown in the grading process and significant changes to the course calendar or syllabus. Plea       Creating an Equitable and Inclusive Learning Environment  As an instructor, I will strive to create an equitable and inclusive learning environment in our class. It is my and the university’s goal that you feel able to share information about your experiences as a student. University faculty and staff will seek to keep information you share private to the greatest extent possible. There is some information that may need to be shared with the university, especially regarding sexual misconduct or information about a crime that may have occurred on GVSU’s campus. Below are additional resources available for support:    Title IX, Sexual Misconduct Policy, and Gender- and Sexual-Based Harassment Policy  Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc.Title IX's sex discrimination prohibition also protects students from discrimination based on gender identity or failure to conform to stereotypical notions of masculinity or femininity. If you or someone you know has been harassed, assaulted, or denied services on the basis of sex or gender, you can find the appropriate resources at www.gvsu.edu\/titleIX or contact the University's Title IX Coordinator, Theresa Rowland at 616-331-9530 or rowlanth@gvsu.edu .    Student Accessibility Resources  If you need accommodations due to a learning, physical, or other disability you must present a memo to me from Student Accessibility Resources (SAR), indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 CON) by calling 331-2490 or email to access@gvsu.edu . Please note that I cannot provide accommodations based upon disability until I have received a copy of the SAR issued memo. All discussions will remain confidential.  Furthermore, if you have a physical disability and think you will need assistance evacuating this classroom and\/or building in an emergency situation, please make me aware so I can develop a plan to assist you.    Gender Expression and Identity  At Grand Valley State University, we recognize that an individual may wish to be identified by a professional, personal, preferred, display or use name without making an official legal name change. Students may use the myName process to update Banner, and faculty and staff may use this process to update Workday (called \"Preferred Name\" in Workday) and some related systems. The myName process allows students, faculty, and staff to have the chosen name appear anywhere a legal name is not required. See https:\/\/www.gvsu.edu\/myname\/ for details.    Bias Incidents or Harassment:  Anytime you or anyone in the GVSU community feels belittled, disrespected, threatened, or unsafe because of who you are, the entire university community is diminished. That's why it’s important to report all bias incidents--even those intended as jokes. While Grand Valley safeguards individuals’ constitutional rights and protected speech, the university is also committed to inclusion and equity. Grand Valley exercises the right to engage in educational dialogue and seeks constructive responses to address bias incidents. Go to https:\/\/bit.ly\/4xYeXGl to report bias incidents or for more information. In addition, for faculty\/staff related complaints, you can file an informal complaint with the Division of Inclusion and Equity at inclusion@gvsu.edu or 616-331-3296. For student related complaints, you can also contact the Dean of Students office at 616-331-3585.    Student Well-Being  Mental health concerns, including overwhelming stress, excessive worry, difficulty participating in daily activities, and changes in mood, appetite, or sleep patterns can interfere with your academic performance.  College student surveys report that roughly 1 out of 3 students screen positive for a current mental health concern. GVSU values your health and wellness and provides services to support your mental health. If you would like mental health support or are concerned for another member of our campus community, reach out to the University Counceling Center https:\/\/www.gvsu.edu\/counsel for free resources, self-help options, and services. Also, visit the Center for Health and Well-being https:\/\/www.gvsu.edu\/studentwellness\/ for additional health and wellness programming.    Classroom and Campus Safety  I consider classroom and campus safety our shared responsibility. Please familiarize yourself with the classroom emergency placard, which contains important information that could prove useful should an emergency arise. Emergency situations could include a fire alarm, tornado warning, medical emergency, or hostile intruder, and our response might consist of evacuating MAK Hall in an orderly manner, moving as a group to a different location in the building, rendering assistance a class member, or staying put and locking the classroom door. In all cases, I will provide clear instructions as to what you should do. Please make sure to have your primary mobile number listed in Banner so that you will automatically receive any campus alerts. Should you receive an emergency notification in class, notify me immediately.  Additional information about campus safety can be found at the following sites:   Directions for enabling additional contact means to the campus alert system: https:\/\/www.gvsu.edu\/gvsualert\/    List of campus tornado safety locations: https:\/\/bit.ly\/4cPnB1s     Medical emergencies and campus AED locations: https:\/\/bit.ly\/4xHk11q     Active shooter response https:\/\/bit.ly\/4xdB1N8         "
 },
 {
-  "id": "sec-course-info-2",
+  "id": "syllabus-2-2",
   "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
+  "url": "syllabus.html#syllabus-2-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "(MTH 110-33) "
 },
 {
-  "id": "tab-name",
+  "id": "syllabus-5-4",
   "level": "2",
-  "url": "syllabus.html#tab-name",
+  "url": "syllabus.html#syllabus-5-4",
   "type": "Table",
   "number": "2",
   "title": "Grading Schema",
@@ -478,6 +478,240 @@ var ptx_lunr_docs = [
   "body": " How much interest will be paid over the life of the loan?  "
 },
 {
+  "id": "PA-",
+  "level": "1",
+  "url": "PA-.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Introduction to Polynomials",
+  "body": "Introduction to Polynomials    What is a Polynomial?  Adding and Subtracting Polynomials  Multiplying Polynomials    What is a Polynomial?    A term is a single number or variable, or numbers and variables multiplied together.     Here are some examples of terms: .     A monomial is a constant, a variable, or a product of constants and variables. A monomial has only one term.     Here are some examples of monomials: .     A polynomial is a sum (or difference) of monomials.     Here are some examples of polynomials: .     The degree of a term is the sum of the exponents of the variables in the term. The degree of a polynomial is the degree of its term with the largest degree.     Here are some examples of degrees of polynomials: has degree 1, has degree 5, has degree 5, has degree 2, and has degree 3.     The coefficient of a term is the numerical factor of the term.     Here are some examples of coefficients: has coefficient 3, has coefficient 1, has coefficient 4, has coefficient 5, and has coefficient 7.    Adding and Subtracting Polynomials     Like terms are terms that have the same variables raised to the same powers.     Here are some examples of like terms: are like terms, are like terms, and are like terms.  Here are some examples of non- like terms: are not like terms, are not like terms, and are not like terms.     To add or subtract polynomials, combine like terms.     For example, to add and , combine like terms: .    For example, to subtract from , distribute the negative sign and combine like terms: .    Add the following polynomials: .   Combine like terms: .     Subtract the following polynomials: . That is, evaluate .   Distribute the negative sign and combine like terms: .     Multiplying Polynomials   We will gradually build up to multiplying polynomials. First, we will review multiplying monomials, then we will multiply a monomial by a polynomial, and finally we will multiply two polynomials.    Multiply the following monomials: .   Multiply the coefficients and add the exponents of the variables: .    Multiply the following monomials: .  Multiply the coefficients and add the exponents of the variables: .     Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: .     Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.         Multiply the following polynomials: .   Distribute each term of the first polynomial to each term of the second polynomial: .  We can also use the box method to help us organize our work.          We next combine like terms to get .     Multiply the following polynomials: .  Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .     Multiply the following polynomials, and simplify your answer:                        is the same as . Use the distributive property (or box method)to multiply these two polynomials.             "
+},
+{
+  "id": "PA--2",
+  "level": "2",
+  "url": "PA-.html#PA--2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  What is a Polynomial?  Adding and Subtracting Polynomials  Multiplying Polynomials   "
+},
+{
+  "id": "PA--3-2",
+  "level": "2",
+  "url": "PA-.html#PA--3-2",
+  "type": "Definition",
+  "number": "36",
+  "title": "",
+  "body": "  A term is a single number or variable, or numbers and variables multiplied together.   "
+},
+{
+  "id": "PA--3-3",
+  "level": "2",
+  "url": "PA-.html#PA--3-3",
+  "type": "Example",
+  "number": "37",
+  "title": "",
+  "body": " Here are some examples of terms: .  "
+},
+{
+  "id": "PA--3-4",
+  "level": "2",
+  "url": "PA-.html#PA--3-4",
+  "type": "Definition",
+  "number": "38",
+  "title": "",
+  "body": "  A monomial is a constant, a variable, or a product of constants and variables. A monomial has only one term.   "
+},
+{
+  "id": "PA--3-5",
+  "level": "2",
+  "url": "PA-.html#PA--3-5",
+  "type": "Example",
+  "number": "39",
+  "title": "",
+  "body": " Here are some examples of monomials: .  "
+},
+{
+  "id": "PA--3-6",
+  "level": "2",
+  "url": "PA-.html#PA--3-6",
+  "type": "Definition",
+  "number": "40",
+  "title": "",
+  "body": "  A polynomial is a sum (or difference) of monomials.   "
+},
+{
+  "id": "PA--3-7",
+  "level": "2",
+  "url": "PA-.html#PA--3-7",
+  "type": "Example",
+  "number": "41",
+  "title": "",
+  "body": " Here are some examples of polynomials: .  "
+},
+{
+  "id": "PA--3-8",
+  "level": "2",
+  "url": "PA-.html#PA--3-8",
+  "type": "Definition",
+  "number": "42",
+  "title": "",
+  "body": "  The degree of a term is the sum of the exponents of the variables in the term. The degree of a polynomial is the degree of its term with the largest degree.   "
+},
+{
+  "id": "PA--3-9",
+  "level": "2",
+  "url": "PA-.html#PA--3-9",
+  "type": "Example",
+  "number": "43",
+  "title": "",
+  "body": " Here are some examples of degrees of polynomials: has degree 1, has degree 5, has degree 5, has degree 2, and has degree 3.  "
+},
+{
+  "id": "PA--3-10",
+  "level": "2",
+  "url": "PA-.html#PA--3-10",
+  "type": "Definition",
+  "number": "44",
+  "title": "",
+  "body": "  The coefficient of a term is the numerical factor of the term.   "
+},
+{
+  "id": "PA--3-11",
+  "level": "2",
+  "url": "PA-.html#PA--3-11",
+  "type": "Example",
+  "number": "45",
+  "title": "",
+  "body": " Here are some examples of coefficients: has coefficient 3, has coefficient 1, has coefficient 4, has coefficient 5, and has coefficient 7.  "
+},
+{
+  "id": "PA--4-2",
+  "level": "2",
+  "url": "PA-.html#PA--4-2",
+  "type": "Definition",
+  "number": "46",
+  "title": "",
+  "body": "   Like terms are terms that have the same variables raised to the same powers.   "
+},
+{
+  "id": "PA--4-3",
+  "level": "2",
+  "url": "PA-.html#PA--4-3",
+  "type": "Example",
+  "number": "47",
+  "title": "",
+  "body": " Here are some examples of like terms: are like terms, are like terms, and are like terms.  Here are some examples of non- like terms: are not like terms, are not like terms, and are not like terms.  "
+},
+{
+  "id": "PA--4-4",
+  "level": "2",
+  "url": "PA-.html#PA--4-4",
+  "type": "Definition",
+  "number": "48",
+  "title": "",
+  "body": "  To add or subtract polynomials, combine like terms.   "
+},
+{
+  "id": "PA--4-5",
+  "level": "2",
+  "url": "PA-.html#PA--4-5",
+  "type": "Example",
+  "number": "49",
+  "title": "",
+  "body": " For example, to add and , combine like terms: .  "
+},
+{
+  "id": "PA--4-6",
+  "level": "2",
+  "url": "PA-.html#PA--4-6",
+  "type": "Example",
+  "number": "50",
+  "title": "",
+  "body": " For example, to subtract from , distribute the negative sign and combine like terms: .  "
+},
+{
+  "id": "PA--4-7",
+  "level": "2",
+  "url": "PA-.html#PA--4-7",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Add the following polynomials: .   Combine like terms: .   "
+},
+{
+  "id": "PA--4-8",
+  "level": "2",
+  "url": "PA-.html#PA--4-8",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Subtract the following polynomials: . That is, evaluate .   Distribute the negative sign and combine like terms: .   "
+},
+{
+  "id": "PA--5-3",
+  "level": "2",
+  "url": "PA-.html#PA--5-3",
+  "type": "Example",
+  "number": "53",
+  "title": "",
+  "body": " Multiply the following monomials: .   Multiply the coefficients and add the exponents of the variables: .   "
+},
+{
+  "id": "PA--5-4",
+  "level": "2",
+  "url": "PA-.html#PA--5-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "Multiply the following monomials: .  Multiply the coefficients and add the exponents of the variables: .   "
+},
+{
+  "id": "PA--5-5",
+  "level": "2",
+  "url": "PA-.html#PA--5-5",
+  "type": "Example",
+  "number": "55",
+  "title": "",
+  "body": " Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: .   "
+},
+{
+  "id": "PA--5-6",
+  "level": "2",
+  "url": "PA-.html#PA--5-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Multiply the following monomial and polynomial: .   Distribute the monomial to each term of the polynomial: . We can also use the box method to help us organize our work.       "
+},
+{
+  "id": "PA--5-7",
+  "level": "2",
+  "url": "PA-.html#PA--5-7",
+  "type": "Example",
+  "number": "57",
+  "title": "",
+  "body": " Multiply the following polynomials: .   Distribute each term of the first polynomial to each term of the second polynomial: .  We can also use the box method to help us organize our work.          We next combine like terms to get .   "
+},
+{
+  "id": "PA--5-8",
+  "level": "2",
+  "url": "PA-.html#PA--5-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Multiply the following polynomials: .  Use the box method to help organize your work. Then combine like terms to get your final answer.                       Distribute each term of the first polynomial to each term of the second polynomial:   .  We can also use the box method to help us organize our work.                We next combine like terms to get .   "
+},
+{
+  "id": "PA--5-9",
+  "level": "2",
+  "url": "PA-.html#PA--5-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Multiply the following polynomials, and simplify your answer:                        is the same as . Use the distributive property (or box method)to multiply these two polynomials.           "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -509,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "36",
+  "number": "60",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -518,7 +752,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "37",
+  "number": "61",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -527,7 +761,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "38",
+  "number": "62",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -563,7 +797,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "39",
+  "number": "63",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -572,7 +806,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "40",
+  "number": "64",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -581,7 +815,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "41",
+  "number": "65",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -617,7 +851,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "42",
+  "number": "66",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -626,7 +860,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "43",
+  "number": "67",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -635,7 +869,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "44",
+  "number": "68",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -671,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "45",
+  "number": "69",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -680,7 +914,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "46",
+  "number": "70",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -689,7 +923,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "47",
+  "number": "71",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -743,7 +977,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "48",
+  "number": "72",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -752,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "52",
+  "number": "76",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
