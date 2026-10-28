@@ -224,7 +224,7 @@
   <!--   a percentage width for an interactive must become pixels.      -->
   <!-- The embed-button below makes it easy to copy the code for an     -->
   <!-- iframe into your LMS.                                            -->
-  <html embed-button="yes">
+  <html embed-button="yes" >
   <!-- Replace the <html> tag above with the one below to try these-->
   <!--
     <html
