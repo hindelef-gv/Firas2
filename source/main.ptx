@@ -55,6 +55,7 @@
 <xi:include href="./activities/student_loans.ptx"/>
 <xi:include href="./activities/Polyn_Arithmatics.ptx"/>
 <xi:include href="./activities/Quadratic_modeling1.ptx"/>
+<xi:include href="./activities/Ht_Yoyo.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

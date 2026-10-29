@@ -1,0 +1,72 @@
+<worksheet>
+  <title>Height of a Yoyo</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+               Explore the quadratic function   that models the height of a yoyo as it is dropped and bounces back up.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use the model to solve quadratic equations.
+            </p>
+        </li>
+    </ul>
+  </objectives>
+<introduction>
+    <p>
+      Suppose you have a yo-yo mounted to an 8 foot ceiling (<m>H = 8</m>) initially it is wound up and released at time
+<m>t = 0</m>. Then it moves according to <m>H = f(t)</m> where  <md>
+    f(t)=t^2-5t+8
+</md>
+where <m>f(t)</m> is height measured in feet (above the floor) and <m>t</m> is measured in seconds. <m>H = 0</m> corresponds to the
+floor.
+    </p>
+    <p>
+        Graph the function above using Desmos. Use the graph to answer the following questions.
+    </p>
+</introduction>
+<exercise workspace="0.25in">
+    <p>
+      Does the yo-yo hit the floor? How do you know  
+    </p>
+</exercise>
+
+
+<exercise workspace="0.25in">
+    <p>
+      When does the yo-yo return to the ceiling? 
+    </p>
+</exercise>
+
+
+
+<exercise workspace="0.25in">
+    <p>
+      How many times is it 3 feet from the floor? Can you tell approximately when? 
+    </p>
+</exercise>
+
+<exercise workspace="0.25in">
+    <p>
+      How many times is it 1.75 feet from the floor? Can you tell approximately when? 
+    </p>
+</exercise>
+
+
+<exercise workspace="0.25in">
+    <p>
+      How many times is it 0.5 feet from the floor? Can you tell approximately when? 
+    </p>
+</exercise>
+
+<exercise workspace="0.25in">
+    <p>
+      When does the yo-yo comes closest to the floor? What is the approximate height? What is the exact
+height?
+    </p>
+</exercise>
+  </worksheet>
