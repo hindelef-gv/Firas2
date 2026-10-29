@@ -802,6 +802,78 @@ var ptx_lunr_docs = [
   "body": " When does model breakdown occur? Use your answer to question 6 to give a reasonable domain for the model so that its predictions makes sense in the real world.  "
 },
 {
+  "id": "activities-9",
+  "level": "1",
+  "url": "activities-9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Height of a Yoyo",
+  "body": " Height of a Yoyo      Explore the quadratic function that models the height of a yoyo as it is dropped and bounces back up.    Use the model to solve quadratic equations.      Suppose you have a yo-yo mounted to an 8 foot ceiling ( ) initially it is wound up and released at time . Then it moves according to where where is height measured in feet (above the floor) and is measured in seconds. corresponds to the floor.  Graph the function above using Desmos. Use the graph to answer the following questions.    Does the yo-yo hit the floor? How do you know    When does the yo-yo return to the ceiling?    How many times is it 3 feet from the floor? Can you tell approximately when?    How many times is it 1.75 feet from the floor? Can you tell approximately when?    How many times is it 0.5 feet from the floor? Can you tell approximately when?    When does the yo-yo comes closest to the floor? What is the approximate height? What is the exact height?   "
+},
+{
+  "id": "activities-9-2",
+  "level": "2",
+  "url": "activities-9.html#activities-9-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Explore the quadratic function that models the height of a yoyo as it is dropped and bounces back up.    Use the model to solve quadratic equations.    "
+},
+{
+  "id": "activities-9-4",
+  "level": "2",
+  "url": "activities-9.html#activities-9-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Does the yo-yo hit the floor? How do you know  "
+},
+{
+  "id": "activities-9-5",
+  "level": "2",
+  "url": "activities-9.html#activities-9-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " When does the yo-yo return to the ceiling?  "
+},
+{
+  "id": "activities-9-6",
+  "level": "2",
+  "url": "activities-9.html#activities-9-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " How many times is it 3 feet from the floor? Can you tell approximately when?  "
+},
+{
+  "id": "activities-9-7",
+  "level": "2",
+  "url": "activities-9.html#activities-9-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " How many times is it 1.75 feet from the floor? Can you tell approximately when?  "
+},
+{
+  "id": "activities-9-8",
+  "level": "2",
+  "url": "activities-9.html#activities-9-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " How many times is it 0.5 feet from the floor? Can you tell approximately when?  "
+},
+{
+  "id": "activities-9-9",
+  "level": "2",
+  "url": "activities-9.html#activities-9-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " When does the yo-yo comes closest to the floor? What is the approximate height? What is the exact height?  "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
