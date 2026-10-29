@@ -1,0 +1,244 @@
+<worksheet>
+  <title>Quadratic modeling</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Find the best fit quadratic model for a given set of data.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use the model to solve quadratic equations.
+            </p>
+        </li>
+    </ul>
+  </objectives>
+  
+  
+
+  <!-- Exercises start here. -->
+  <introduction>
+    
+    <p>
+        The Reduced-Gravity Program operated by NASA provides astronauts with the unique <q>weightless</q> or 
+ <q>zero-g</q> environment of space flight for tests and training. The program uses a specially
+modified KC-1 35A turbojet transport that flies on a parabolic path along the data given in the table.
+    </p>
+
+    <p>
+    <tabular top="major" bottom="major" left="major" right="major" row="minor" column="minor" >
+<row header="yes"><cell>Time (seconds)</cell><cell>Altitude ( thousands of feet)</cell>
+    </row>
+<row>
+    <cell>10</cell>
+    <cell>26</cell>
+    </row>
+    <row>
+        <cell>20</cell>
+        <cell>31</cell>
+    </row>
+
+    <row>
+        <cell>32</cell>
+        <cell>32.5</cell>
+    </row>
+
+    <row>
+        <cell>45</cell>
+        <cell>31</cell>
+    </row>
+
+    <row>
+        <cell>60</cell>
+        <cell>25</cell>
+    </row>
+</tabular>
+</p>
+
+
+    <figure>
+
+  <interactive desmos="elg1syc4fz" width="90%" aspect="3:2">
+    <shortdescription>An interactive Desmos graph.</shortdescription>
+    <description>
+      <p>A Desmos worksheet containing the interactive graph.</p>
+    </description>
+  </interactive>
+</figure>
+
+<p>
+      Go to the following <url href="https://www.desmos.com/calculator/u7frwtz89j">Desmos sheet</url> , or use Desmos withing the worksheet.
+    </p>
+
+
+  </introduction>
+<exercise>
+    <introduction>
+        <p>
+          We want to model the flight of the airplane over time.  
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                What letter would you use to represent the inputs of this model? What are the
+units? What is the meaning?
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.5in">
+        <statement>
+            <p>
+               What letter would you use to represent the outputs of this model? What are the
+units? What is the meaning? 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                What kind of data is presented in the table above? Why? Hint: look at a scatterplot.
+            </p>
+        </statement>
+    </task>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            Use Desmos to find a quadratic model for the flight of the airplane over time. Write your model in functional notation.  
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                Use this command line in Desmos to find a quadratic model for the data in the table above in the <alert>Standard form</alert>.<md>y_1\sim ax_1^2+bx_1+c</md>. 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                Use this command line in Desmos to find a quadratic model for the data in the table above in the <alert>Vertex form</alert>.<md>y_1\sim a(x_1-h)^2+k</md>. 
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                Use this command line in Desmos to find a quadratic model for the data in the table above in the <alert>Intercepts form</alert>.<md>y_1\sim a(x_1-r_1)(x1-r_2)</md>. 
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+         Use your model to predict the time(s) when the altitude of the plane is 20 thousand feet   
+        </p>
+    </introduction>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                State an equation you have to solve to answer this question.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Use the Vertex form you found above.
+            </p>
+        </hint>
+    </task>
+    <task workspace="1.5in">
+        <statement>
+            <p>
+              Solve your equation and show your work.  
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Write a sentence to explain your solution in the context of this problem.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+         Use your model to predict the time(s) when the altitude of the plane is 40 thousand feet   
+        </p>
+    </introduction>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                State an equation you have to solve to answer this question.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Use the Vertex form you found above.
+            </p>
+        </hint>
+    </task>
+    <task workspace="1.5in">
+        <statement>
+            <p>
+              Solve your equation and show your work.  
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Write a sentence to explain your solution in the context of this problem.
+            </p>
+        </statement>
+    </task>
+</exercise>
+
+<exercise workspace="1.5in">
+    <introduction>
+        <p>
+           Use your model to predict the altitude of the plane after 25 seconds. Show how you used
+your model to make your prediction. Write a sentence to explain your solution in the
+context of this problem. Does your prediction make sense? 
+        </p>
+        
+    </introduction>
+    <hint>
+            <p>
+                Use the Vertex form you found above.
+            </p>
+        </hint>
+</exercise>
+
+
+<exercise workspace="1.5in">
+    <introduction>
+        <p>
+           Use your model to predict the altitude of the plane after 100 seconds. Show how you used
+your model to make your prediction. Write a sentence to explain your solution in the
+context of this problem. Does your prediction make sense? 
+        </p>
+        
+    </introduction>
+    <hint>
+            <p>
+                Use the Vertex form you found above.
+            </p>
+        </hint>
+</exercise>
+<exercise workspace="1.0in">
+    <p>When does model breakdown occur? Use your answer to question 6 to give a reasonable
+domain for the model so that its predictions makes sense in the real world.</p>
+</exercise>
+  </worksheet>
