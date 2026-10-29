@@ -712,6 +712,96 @@ var ptx_lunr_docs = [
   "body": "  Multiply the following polynomials, and simplify your answer:                         is the same as . Use the distributive property (or box method)to multiply these two polynomials.           "
 },
 {
+  "id": "activities-8",
+  "level": "1",
+  "url": "activities-8.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Quadratic modeling",
+  "body": " Quadratic modeling      Find the best fit quadratic model for a given set of data.    Use the model to solve quadratic equations.       The Reduced-Gravity Program operated by NASA provides astronauts with the unique weightless or zero-g environment of space flight for tests and training. The program uses a specially modified KC-1 35A turbojet transport that flies on a parabolic path along the data given in the table.    Time (seconds) Altitude ( thousands of feet)    10  26    20  31    32  32.5    45  31    60  25        Go to the following Desmos sheet , or use Desmos withing the worksheet.     We want to model the flight of the airplane over time.     What letter would you use to represent the inputs of this model? What are the units? What is the meaning?      What letter would you use to represent the outputs of this model? What are the units? What is the meaning?      What kind of data is presented in the table above? Why? Hint: look at a scatterplot.       Use Desmos to find a quadratic model for the flight of the airplane over time. Write your model in functional notation.     Use this command line in Desmos to find a quadratic model for the data in the table above in the Standard form . .      Use this command line in Desmos to find a quadratic model for the data in the table above in the Vertex form . .      Use this command line in Desmos to find a quadratic model for the data in the table above in the Intercepts form . .       Use your model to predict the time(s) when the altitude of the plane is 20 thousand feet     State an equation you have to solve to answer this question.    Use the Vertex form you found above.      Solve your equation and show your work.      Write a sentence to explain your solution in the context of this problem.       Use your model to predict the time(s) when the altitude of the plane is 40 thousand feet     State an equation you have to solve to answer this question.    Use the Vertex form you found above.      Solve your equation and show your work.      Write a sentence to explain your solution in the context of this problem.       Use your model to predict the altitude of the plane after 25 seconds. Show how you used your model to make your prediction. Write a sentence to explain your solution in the context of this problem. Does your prediction make sense?    Use the Vertex form you found above.      Use your model to predict the altitude of the plane after 100 seconds. Show how you used your model to make your prediction. Write a sentence to explain your solution in the context of this problem. Does your prediction make sense?    Use the Vertex form you found above.     When does model breakdown occur? Use your answer to question 6 to give a reasonable domain for the model so that its predictions makes sense in the real world.   "
+},
+{
+  "id": "activities-8-2",
+  "level": "2",
+  "url": "activities-8.html#activities-8-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Find the best fit quadratic model for a given set of data.    Use the model to solve quadratic equations.    "
+},
+{
+  "id": "activities-8-3-3",
+  "level": "2",
+  "url": "activities-8.html#activities-8-3-3",
+  "type": "Figure",
+  "number": "60",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "activities-8-4",
+  "level": "2",
+  "url": "activities-8.html#activities-8-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  We want to model the flight of the airplane over time.     What letter would you use to represent the inputs of this model? What are the units? What is the meaning?      What letter would you use to represent the outputs of this model? What are the units? What is the meaning?      What kind of data is presented in the table above? Why? Hint: look at a scatterplot.    "
+},
+{
+  "id": "activities-8-5",
+  "level": "2",
+  "url": "activities-8.html#activities-8-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Use Desmos to find a quadratic model for the flight of the airplane over time. Write your model in functional notation.     Use this command line in Desmos to find a quadratic model for the data in the table above in the Standard form . .      Use this command line in Desmos to find a quadratic model for the data in the table above in the Vertex form . .      Use this command line in Desmos to find a quadratic model for the data in the table above in the Intercepts form . .    "
+},
+{
+  "id": "activities-8-6",
+  "level": "2",
+  "url": "activities-8.html#activities-8-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use your model to predict the time(s) when the altitude of the plane is 20 thousand feet     State an equation you have to solve to answer this question.    Use the Vertex form you found above.      Solve your equation and show your work.      Write a sentence to explain your solution in the context of this problem.    "
+},
+{
+  "id": "activities-8-7",
+  "level": "2",
+  "url": "activities-8.html#activities-8-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use your model to predict the time(s) when the altitude of the plane is 40 thousand feet     State an equation you have to solve to answer this question.    Use the Vertex form you found above.      Solve your equation and show your work.      Write a sentence to explain your solution in the context of this problem.    "
+},
+{
+  "id": "activities-8-8",
+  "level": "2",
+  "url": "activities-8.html#activities-8-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Use your model to predict the altitude of the plane after 25 seconds. Show how you used your model to make your prediction. Write a sentence to explain your solution in the context of this problem. Does your prediction make sense?    Use the Vertex form you found above.   "
+},
+{
+  "id": "activities-8-9",
+  "level": "2",
+  "url": "activities-8.html#activities-8-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Use your model to predict the altitude of the plane after 100 seconds. Show how you used your model to make your prediction. Write a sentence to explain your solution in the context of this problem. Does your prediction make sense?    Use the Vertex form you found above.   "
+},
+{
+  "id": "activities-8-10",
+  "level": "2",
+  "url": "activities-8.html#activities-8-10",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " When does model breakdown occur? Use your answer to question 6 to give a reasonable domain for the model so that its predictions makes sense in the real world.  "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -743,7 +833,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "60",
+  "number": "61",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -752,7 +842,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "61",
+  "number": "62",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -761,7 +851,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "62",
+  "number": "63",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -797,7 +887,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "63",
+  "number": "64",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -806,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "64",
+  "number": "65",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -815,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "65",
+  "number": "66",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -851,7 +941,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "66",
+  "number": "67",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -860,7 +950,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "67",
+  "number": "68",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -869,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "68",
+  "number": "69",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -905,7 +995,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "69",
+  "number": "70",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -914,7 +1004,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "70",
+  "number": "71",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -923,7 +1013,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "71",
+  "number": "72",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -977,7 +1067,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "72",
+  "number": "73",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -986,7 +1076,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "76",
+  "number": "77",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
