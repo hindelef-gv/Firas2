@@ -1,0 +1,172 @@
+<worksheet>
+  <title>Forms of Quadratic Functions</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Explore the quadratic function in Standard form.
+            </p>
+        </li>
+        <li>
+            <p>
+                Explore the quadratic function in Vertex form.
+            </p>
+        </li>
+        <li>
+            <p>
+                Explore the quadratic function in Factored (Intercept) form.
+            </p>
+        </li>
+    </ul>
+  </objectives>
+<section>
+<title>The Standard form of quadratic functions</title>
+
+<definition xml:id="def-">
+    <statement>
+        <p>
+          A quadratic function is a function that can be represented by an equation of the form <md>f(x)=ax^2+bx+c</md> where <m>a\neq 0</m>. This is called the standard form of a quadratic function.  
+        </p>
+    </statement>
+</definition>
+<example>
+    <introduction>
+        <p>
+            Use Desmos to explore the standard form of a quadratic function.
+        </p>
+        <figure>
+
+          <interactive desmos="5ksqg0yahd" width="80%" aspect="3:2">
+            <shortdescription>An interactive Desmos graph.</shortdescription>
+            <description>
+              <p>A Desmos worksheet containing the interactive graph.</p>
+            </description>
+          </interactive>
+        </figure>
+    </introduction>
+
+   
+        
+  
+
+    <task workspace="0.15in">
+        <statement>
+            <p>
+                Go to the following <url href="https://www.desmos.com/calculator/5ksqg0yahd">Desmos sheet</url> , or use Desmos withing the worksheet.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.15in">
+        <statement>
+            <p>
+                Use the sliders to change the values of <m>a, b</m>, and <m>c</m>. Describe how each value affects the graph of the function.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Type <m>(0,c)</m> in the input line to see how the value of <m>c</m> affects the graph. 
+            </p>
+        </hint>
+    </task>
+</example>
+    </section>
+
+<section>
+<title>The Vertex form of quadratic functions</title>   
+<definition xml:id="def-vf">
+    <statement>
+        <p>
+           A quadratic function can also be represented by an equation of the form <md>f(x)=a(x-h)^2+k</md> where <m>a\neq 0</m>. This is called the vertex form of a quadratic function. The vertex of the graph of the function is given by the point <m>(h,k)</m>. 
+        </p>
+    </statement>
+</definition>
+
+<example>
+    <introduction>
+        <p>
+            Use Desmos to explore the vertex form of a quadratic function.
+        </p>
+        <figure>
+
+          <interactive desmos="6i8y0qmjqb" width="80%" aspect="3:2">
+            <shortdescription>An interactive Desmos graph.</shortdescription>
+            <description>
+              <p>A Desmos worksheet containing the interactive graph.</p>
+            </description>
+          </interactive>
+        </figure>
+    </introduction>
+
+   
+        
+  
+
+    <task workspace="0.15in">
+        <statement>
+            <p>
+                Go to the following <url href="https://www.desmos.com/calculator/6i8y0qmjqb">Desmos sheet</url> , or use Desmos withing the worksheet.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.15in">
+        <statement>
+            <p>
+                Use the sliders to change the values of <m>a, h</m>, and <m>k</m>. Describe how each value affects the graph of the function.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Type <m>(h,k)</m> in the input line to see how the values of <m>h</m> and <m>k</m> affect the graph. 
+            </p>
+        </hint>
+    </task>
+</example>
+</section>
+
+<section>
+<title>The Factored (Intercept) form of quadratic functions</title>
+<definition xml:id="def-ff">
+    <statement>
+        <p>
+           A quadratic function can also be represented by an equation of the form <md>f(x)=a(x-r_1)(x-r_2)</md> where <m>a\neq 0</m>. This is called the factored (or intercept) form of a quadratic function. The x-intercepts of the graph of the function are given by the points <m>(r_1,0)</m> and <m>(r_2,0)</m>.        
+           </p>
+           </statement>
+</definition>
+<example>
+    <introduction>
+        <p>
+            Use Desmos to explore the factored (intercept) form of a quadratic function.
+        </p>
+        <figure>    
+          <interactive desmos="osaakqwjnd" width="80%" aspect="3:2">
+            <shortdescription>An interactive Desmos graph.</shortdescription>
+            <description>
+              <p>A Desmos worksheet containing the interactive graph.</p>
+            </description>
+          </interactive>
+        </figure>
+    </introduction>   
+<task>
+    <statement>
+        <p>
+            Go to the following <url href="https://www.desmos.com/calculator/osaakqwjnd">Desmos sheet</url> , or use Desmos withing the worksheet.
+        </p>
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            Use the sliders to change the values of <m>a, r_1</m>, and <m>r_2</m>. Describe how each value affects the graph of the function.
+        </p>
+    </statement>
+    <hint>
+        <p>
+            Type <m>(r_1,0)</m> and <m>(r_2,0)</m> in the input line to see how the values of <m>r_1</m> and <m>r_2</m> affect the graph.
+        </p>
+    </hint>
+</task>
+    </example>      
+    </section>
+  </worksheet>
