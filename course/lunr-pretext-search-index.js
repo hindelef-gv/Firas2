@@ -946,6 +946,51 @@ var ptx_lunr_docs = [
   "body": " When does the yo-yo comes closest to the floor? What is the approximate height? What is the exact height?  "
 },
 {
+  "id": "activities-11",
+  "level": "1",
+  "url": "activities-11.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Hotel Revenue",
+  "body": " Hotel Revenue      Use quadratic functions to model revenue.      You are in charge of setting the room rental rate at the hotel you manage. This responsibility has implications because if you charge a low daily rate for each room then lots of rooms will be rented, but on the other hand, if you charge a really high daily rate then only a few rooms will be rented. Suppose you know the following:    The hotel has 210 rooms.    If you set the daily room rate to $50, then all 210 rooms will be rented.    For each $1 increase in the daily room rate, three fewer rooms are rented.    Begin by exploring the relationship between the price of a room and the number of rooms that are rented.     If you set the room rate to $51, how many rooms are rented? How about if the room rate is $52? Or $65? To help find a pattern, fill in the following table:     Room Rate ($)  Number of Rooms Rented, N    50  210    51     52     65     75     85     95     100             What type of function is ?      Now let's explore the revenue from renting rooms. Recall that revenue is the amount of money that a business collects from selling items. For example, if my candy company is selling candy bars for $1.75 each and I sell 7 candy bars then my revenue is 7*1.75= $12.25.  Let's apply this idea to renting rooms.     Suppose you set the room rate to $50. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate?      Suppose you set the room rate to $65. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate?      Suppose you set the room rate to $100. Determine how many rooms would be rented. What is your revenue at this room rate?      Summarize this in the following table and look for a pattern:       Room Rate ($)  Number of Rooms Rented,  Revenue, R(x)    50  210     51      52      65      75      85      95     100           "
+},
+{
+  "id": "activities-11-2",
+  "level": "2",
+  "url": "activities-11.html#activities-11-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Use quadratic functions to model revenue.    "
+},
+{
+  "id": "activities-11-4",
+  "level": "2",
+  "url": "activities-11.html#activities-11-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  If you set the room rate to $51, how many rooms are rented? How about if the room rate is $52? Or $65? To help find a pattern, fill in the following table:     Room Rate ($)  Number of Rooms Rented, N    50  210    51     52     65     75     85     95     100          "
+},
+{
+  "id": "activities-11-5",
+  "level": "2",
+  "url": "activities-11.html#activities-11-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  What type of function is ?   "
+},
+{
+  "id": "activities-11-6",
+  "level": "2",
+  "url": "activities-11.html#activities-11-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Now let's explore the revenue from renting rooms. Recall that revenue is the amount of money that a business collects from selling items. For example, if my candy company is selling candy bars for $1.75 each and I sell 7 candy bars then my revenue is 7*1.75= $12.25.  Let's apply this idea to renting rooms.     Suppose you set the room rate to $50. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate?      Suppose you set the room rate to $65. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate?      Suppose you set the room rate to $100. Determine how many rooms would be rented. What is your revenue at this room rate?      Summarize this in the following table and look for a pattern:       Room Rate ($)  Number of Rooms Rented,  Revenue, R(x)    50  210     51      52      65      75      85      95     100          "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -977,7 +1022,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "70",
+  "number": "72",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -986,7 +1031,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "71",
+  "number": "73",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -995,7 +1040,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "72",
+  "number": "74",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1031,7 +1076,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "73",
+  "number": "75",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1040,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "74",
+  "number": "76",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1049,7 +1094,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "75",
+  "number": "77",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1085,7 +1130,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "76",
+  "number": "78",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1094,7 +1139,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "77",
+  "number": "79",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1103,7 +1148,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "78",
+  "number": "80",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1139,7 +1184,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "79",
+  "number": "81",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1148,7 +1193,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "80",
+  "number": "82",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1157,7 +1202,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "81",
+  "number": "83",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1211,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "82",
+  "number": "84",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1220,7 +1265,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "86",
+  "number": "88",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
