@@ -1000,6 +1000,60 @@ var ptx_lunr_docs = [
   "body": "  You want to maximize your revenue.     What room rate would you set to maximize your revenue?      How many rooms would be rented at this room rate?      What is your maximum revenue?      How do you know that this is the maximum revenue?    "
 },
 {
+  "id": "activities-12",
+  "level": "1",
+  "url": "activities-12.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Solving Quadratic equations",
+  "body": " Solving Quadratic equations      Using the quadratic formula to solve quadratic equations.    Using algebraic methods to solve quadratic equations.    Using the graph of a quadratic function to solve quadratic equations.      The solutions to a quadratic equation are the x-coordinates of the points where the graph of the function intersects the x-axis. In this activity, you will explore three different methods for finding these solutions.    The quadratic formula states that the solutions to the equation are given by:        In each of the following exercises, use the quadratic formula to find the solutions to the given quadratic equation. Then check your answer by graphing the corresponding function and identifying the intercepts.                                 Find the intersepts of the graph of with the line , then check your answer by graphing the function and identifying the coordinate of the intersection points.                     If the quadratic can be written in the factored form, that is if the graph of its parabola intersects the x-axis at two distinct points, then the quadratic is factorable . If the parabola touches the x-axis at exactly one point, then the quadratic is a perfect square . If the parabola does not intersect the x-axis, then the quadratic is called prime       For the following exercises, use the graph of the function to determine whether the quadratic is factorable, a perfect square, or prime.                         "
+},
+{
+  "id": "activities-12-2",
+  "level": "2",
+  "url": "activities-12.html#activities-12-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Using the quadratic formula to solve quadratic equations.    Using algebraic methods to solve quadratic equations.    Using the graph of a quadratic function to solve quadratic equations.    "
+},
+{
+  "id": "activities-12-3-2",
+  "level": "2",
+  "url": "activities-12.html#activities-12-3-2",
+  "type": "Theorem",
+  "number": "72",
+  "title": "",
+  "body": "  The quadratic formula states that the solutions to the equation are given by:    "
+},
+{
+  "id": "activities-12-4",
+  "level": "2",
+  "url": "activities-12.html#activities-12-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  In each of the following exercises, use the quadratic formula to find the solutions to the given quadratic equation. Then check your answer by graphing the corresponding function and identifying the intercepts.                                 Find the intersepts of the graph of with the line , then check your answer by graphing the function and identifying the coordinate of the intersection points.                  "
+},
+{
+  "id": "activities-12-5",
+  "level": "2",
+  "url": "activities-12.html#activities-12-5",
+  "type": "Definition",
+  "number": "73",
+  "title": "",
+  "body": "  If the quadratic can be written in the factored form, that is if the graph of its parabola intersects the x-axis at two distinct points, then the quadratic is factorable . If the parabola touches the x-axis at exactly one point, then the quadratic is a perfect square . If the parabola does not intersect the x-axis, then the quadratic is called prime    "
+},
+{
+  "id": "activities-12-6",
+  "level": "2",
+  "url": "activities-12.html#activities-12-6",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  For the following exercises, use the graph of the function to determine whether the quadratic is factorable, a perfect square, or prime.                        "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -1031,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "72",
+  "number": "74",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1040,7 +1094,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "73",
+  "number": "75",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1049,7 +1103,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "74",
+  "number": "76",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1085,7 +1139,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "75",
+  "number": "77",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1094,7 +1148,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "76",
+  "number": "78",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1103,7 +1157,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "77",
+  "number": "79",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1139,7 +1193,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "78",
+  "number": "80",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1148,7 +1202,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "79",
+  "number": "81",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1157,7 +1211,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "80",
+  "number": "82",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1193,7 +1247,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "81",
+  "number": "83",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1202,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "82",
+  "number": "84",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1211,7 +1265,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "83",
+  "number": "85",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1265,7 +1319,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "84",
+  "number": "86",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1274,7 +1328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "88",
+  "number": "90",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
