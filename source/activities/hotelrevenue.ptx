@@ -1,0 +1,229 @@
+<worksheet>
+  <title>Hotel Revenue</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Use quadratic functions to model revenue.
+            </p>
+        </li>
+        
+    </ul>
+  </objectives>
+<introduction>
+    <p>
+       You are in charge of setting the room rental rate at the hotel you manage. This responsibility has implications because if you charge a low daily rate for each room then lots of rooms will be rented, but on the other hand, if you charge a really high daily rate then only a few rooms will be rented.  Suppose you know the following:
+    </p>
+
+     
+<ul>
+    <li>    
+        <p>
+        The hotel has 210 rooms.
+        </p>
+    </li>
+    <li>
+        <p>
+           If you set the daily room rate to $50, then all 210 rooms will be rented. 
+        </p>
+    </li>
+<li>
+    <p>
+      For each $1 increase in the daily room rate, three fewer rooms are rented. 
+    </p>
+</li>
+    </ul>
+
+    <p>
+        Begin by exploring the relationship between the price of a room and the number of rooms that are rented.  
+    </p>
+  </introduction>
+  <exercise>
+    <statement>
+        <p>
+           If you set the room rate to $51, how many rooms are rented? How about if the room rate is $52? Or $65? To help find a pattern, fill in the following table:
+        </p>
+
+        <table>
+            <tabular top="major" bottom="major" left="major" right="major" row="minor" column="minor">
+                <row>
+                    <cell>Room Rate ($)</cell>
+                    <cell>Number of Rooms Rented, N</cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>210</cell>
+                </row>
+                <row>
+                    <cell>51</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>52</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell></cell>
+                </row>
+                 <row>
+                    <cell>85</cell>
+                    <cell></cell>
+                </row>
+                 <row>
+                    <cell>95</cell>
+                    <cell></cell>
+                </row>
+                 <row>
+                    <cell>100</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell><m>x</m></cell>
+                    <cell><m>N(x)=</m></cell></row>
+            </tabular>
+        </table>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+           What type of function is <m>N(x)</m>?
+        </p>
+    </statement>
+
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            Now let's explore the revenue from renting rooms.  Recall that revenue is the amount of money that a business collects from selling items.  For example, if my candy company is selling candy bars for $1.75 each and I sell 7 candy bars then my revenue is 7*1.75= $12.25.
+        </p>
+
+        <p>
+          Let's apply this idea to renting rooms.   
+        </p>
+    </statement>
+    <task>
+        <statement>
+            <p>
+               Suppose you set the room rate to $50. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate? 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+               Suppose you set the room rate to $65. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate?
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+               Suppose you set the room rate to $100. Determine how many rooms would be rented. What is your revenue at this room rate?
+            </p>
+        </statement>
+    </task>
+<task>
+    <statement>
+        <p>
+            Summarize this in the following table and look for a pattern:
+        </p>
+        <table>
+            <tabular top="major" bottom="major" left="major" right="major" row="minor" column="minor">
+                <row>
+                    <cell>Room Rate ($)</cell>
+                    <cell>Number of Rooms Rented, <m>N(x)</m></cell>
+                <cell>Revenue, <m>R(x)\quad\quad\quad\quad\quad\quad\quad\quad</m></cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>210</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>51</cell>
+                    <cell></cell>
+                    <cell></cell>   
+                </row>
+                <row>
+                    <cell>52</cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell></cell>
+                    <cell></cell>  
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                 <row>
+                    <cell>85</cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                 <row>
+                    <cell>95</cell>
+                    <cell></cell><cell></cell>  
+                </row>
+                 <row>
+                    <cell>100</cell>
+                    <cell></cell><cell></cell>  
+                </row>
+                <row>
+                    <cell><m>x</m></cell>
+                    <cell><m>N(x)=</m></cell><cell><m>R(x)=</m></cell>
+                </row>
+            </tabular>
+        </table>
+    </statement>
+    
+</task>
+
+  </exercise>
+  <exercise>
+    <introduction>
+        <p>
+           You want to maximize your revenue.  
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                What room rate would you set to maximize your revenue? 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                How many rooms would be rented at this room rate? 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What is your maximum revenue?
+            </p>
+        </statement>
+    </task> 
+    <task>
+        <statement>
+            <p>
+                How do you know that this is the maximum revenue?
+            </p>
+        </statement>
+    </task>
+  </exercise>
+  </worksheet>
