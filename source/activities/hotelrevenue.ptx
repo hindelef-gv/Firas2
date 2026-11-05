@@ -46,6 +46,9 @@
            If you set the room rate to $51, how many rooms are rented? How about if the room rate is $52? Or $65? To help find a pattern, fill in the following table:
         </p>
 
+    </statement>
+    <p>
+        
         <table>
             <tabular top="major" bottom="major" left="major" right="major" row="minor" column="minor">
                 <row>
@@ -89,7 +92,7 @@
                     <cell><m>N(x)=</m></cell></row>
             </tabular>
         </table>
-    </statement>
+    </p>
   </exercise>
   <exercise>
     <statement>
