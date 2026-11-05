@@ -100,7 +100,7 @@
 
   </exercise>
   <exercise>
-    <statement>
+    <introduction>
         <p>
             Now let's explore the revenue from renting rooms.  Recall that revenue is the amount of money that a business collects from selling items.  For example, if my candy company is selling candy bars for $1.75 each and I sell 7 candy bars then my revenue is 7*1.75= $12.25.
         </p>
@@ -108,13 +108,13 @@
         <p>
           Let's apply this idea to renting rooms.   
         </p>
-    </statement>
+    </introduction>
     <task>
-        <introduction>
+        <statement>
             <p>
                Suppose you set the room rate to $50. Use the table above to determine how many rooms would be rented (i.e. sold). What is your revenue at this room rate? 
             </p>
-        </introduction>
+        </statement>
     </task>
     <task>
         <statement>
