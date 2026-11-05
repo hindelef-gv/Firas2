@@ -1,0 +1,135 @@
+<worksheet>
+  <title>Solving Quadratic equations</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Using the quadratic formula to solve quadratic equations.
+            </p>
+        </li>
+        <li>
+            <p>
+                Using algebraic methods to solve quadratic equations.
+            </p>
+        </li>
+        <li>
+            <p>
+                Using the graph of a quadratic function to solve quadratic equations.
+            </p>
+        </li>
+    </ul>
+  </objectives>
+  <introduction>
+    <p>
+        The solutions to a quadratic equation <md>ax^2 + bx + c = 0</md> are the x-coordinates of the points where the graph of the function <md>f(x) = ax^2 + bx + c</md> intersects the x-axis.  In this activity, you will explore three different methods for finding these solutions.
+    </p>
+<theorem>
+    <statement>
+        <p>
+            The quadratic formula states that the solutions to the equation <md>ax^2 + bx + c = 0</md> are given by:
+            <md>
+                x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+            </md>
+        </p>
+    </statement>
+</theorem>
+
+  </introduction>
+  <exercise>
+    <introduction>
+        <p>
+            In each of the following exercises, use the quadratic formula to find the solutions to the given quadratic equation.  Then check your answer by graphing the corresponding function and identifying the <m>x-</m>intercepts.
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>-2(w+4)^2-8=-26</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>2x^2-3x-5=0</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>4x(4x-3)=-2</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>2(x+1)^2+12=300</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+              Find the intersepts of the graph of <m>f(x) = 2x^2-3x-5</m> with the line <m>y = 5</m>, then check your answer by graphing the function and identifying the <m>x-</m>coordinate of the intersection points.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>t^2=-4(t+1)</m>
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>2x(x+3)-4=2x(x+1)</m>
+            </p>
+        </statement>
+    </task>
+  </exercise>
+  <definition>
+    <statement>
+        <p>
+           If the quadratic can be written in the factored form, that is if the graph of its parabola intersects the x-axis at  two distinct points, then the quadratic is <alert
+           >factorable</alert
+           >. If the parabola touches the x-axis at exactly one point, then the quadratic is a <alert>perfect square</alert>. If the parabola does not intersect the x-axis, then the quadratic is called <alert>prime</alert>
+        </p>
+    </statement>
+  </definition>
+
+  <exercise>
+    <introduction>
+      <p>
+        For the following exercises, use the graph of the function to determine whether the quadratic is factorable, a perfect square, or prime.
+      </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                <m>f(x) = 2x^2-3x-5</m>
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>f(x) = 2x^2-4x+2</m>
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>f(x) = 2x^2-4x+5</m>
+            </p>
+        </statement>
+    </task>
+  </exercise>
+  </worksheet>

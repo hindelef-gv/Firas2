@@ -58,6 +58,7 @@
 <xi:include href="./activities/Quadratic_modeling1.ptx"/>
 <xi:include href="./activities/Ht_Yoyo.ptx"/>
 <xi:include href="./activities/hotelrevenue.ptx"/>
+<xi:include href="./activities/solvingQuads.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
