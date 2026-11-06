@@ -59,6 +59,7 @@
 <xi:include href="./activities/Ht_Yoyo.ptx"/>
 <xi:include href="./activities/hotelrevenue.ptx"/>
 <xi:include href="./activities/solvingQuads.ptx"/>
+<xi:include href="./activities/quadmodeling2.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>

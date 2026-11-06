@@ -1,0 +1,98 @@
+<worksheet>
+  <title>Quadratic modeling 2</title>
+
+  <!-- Optional introduction -->
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                Use a quadratic model to make predictions about a real-world situation.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use the model to solve quadratic equations.
+            </p>
+        </li>
+    </ul>
+  </objectives>
+  <exercise>
+    
+ 
+  <introduction>
+    <p>
+        Newton was the first to observe that an object in free motion follows the path of a parabola (both in time and      in space).  Baseballs follow the path of parabolas after they are hit.  Suppose a baseball is hit down the third    base line. When the shadow of a ball is l feet from home plate along the third baseline (the sun is directly overhead) its height, <m>H(l)</m>, measured in feet satisfies:
+    </p>
+<md>
+H(l)=-\frac{1}{231}l^2+\frac{10}{11}l+4
+</md>
+  </introduction>
+  <task>
+    <statement>
+        <p>
+            Whatis the value of <m>l</m> when the ball is directly over home plate?  At what height from the ground did the bat connect with the ball? (Assume the ball was hit directly over home plate.)
+        </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+        <p>
+            Sketch a graph of this function, label home plate, the ground and the coordinates where the ball hits the ground.
+        </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+        <p>
+            When  the ball is ten feet from home plate, how high in the air is it?  More precisely, I should ask: <q>When the shadow of the ball is 10 feet from home plate, what is the height of the ball?</q>
+        </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+        <p>
+            At what distance from home plate does the ball reach its maximum height and what is that maximum height? What feature of the parabolic path of the baseball helps you answer this question?
+        </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+        <p>
+            At 195 feet from home plate along the third base line there is a 6-foot-high fence.  The (very tall and agile) left fielder can jump to a maximum height of 10.9 feet.
+        </p>
+        <ul>
+<li>
+    <p>
+      Sketch the fence on your graph 
+    </p>
+</li>
+<li>
+    <p>
+        What happens to the score after the play is over? How do you know? (Assume no one is on base.)
+    </p>
+</li>
+            </ul>
+    </statement>
+    
+  </task>
+   </exercise>
+   <exercise workspace="0.5in"> 
+    <introduction>
+        <p>
+            A person has a rectangular garden with a width of 8 feet and a length of 12 feet. To form a border of uniform width, she plans to put sod around the outside of the garden. If she has just enough sod to cover 125 square feet of land, determine the width of the border.
+        </p>
+    </introduction>
+   </exercise>
+   <exercise>
+    <introduction>
+        <p>
+            A rectangular picture of my smiling children is to be surrounded by a mat of uniform width/thickness.  (That is, the picture is going to be inset in the mat.)  The outside overall dimensions of the mat are 24   inches by 32 inches (There is an opening for the picture in the center).  If the area of the picture itself is   609 square inches, what is the width of the mat?
+        </p>
+    </introduction>
+    <hint>
+        <p>
+            Start by drawing a picture like the one above.  Label the dimensions of the mat with double headed arrows. Indicate the location of the picture.
+        </p>
+    </hint>
+   </exercise>
+  </worksheet>
