@@ -77,18 +77,18 @@ H(l)=-\frac{1}{231}l^2+\frac{10}{11}l+4
   </task>
    </exercise>
    <exercise> 
-    <introduction>
+    <statement>
         <p>
             A person has a rectangular garden with a width of 8 feet and a length of 12 feet. To form a border of uniform width, she plans to put sod around the outside of the garden. If she has just enough sod to cover 125 square feet of land, determine the width of the border.
         </p>
-    </introduction>
+    </statement>
    </exercise>
    <exercise>
-    <introduction>
+    <statement>
         <p>
             A rectangular picture of my smiling children is to be surrounded by a mat of uniform width/thickness.  (That is, the picture is going to be inset in the mat.)  The outside overall dimensions of the mat are 24   inches by 32 inches (There is an opening for the picture in the center).  If the area of the picture itself is   609 square inches, what is the width of the mat?
         </p>
-    </introduction>
+    </statement>
     <hint>
         <p>
             Start by drawing a picture like the one above.  Label the dimensions of the mat with double headed arrows. Indicate the location of the picture.
