@@ -1,0 +1,98 @@
+<worksheet>
+    <title>Week 12 LTs-C</title>
+<objectives>
+
+  <ul>
+    <li>
+          <p>[LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+</p>
+        </li>
+
+        <li>
+          <p>[LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m>.
+</p>
+        </li>
+
+        <li>
+          <p>[LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.
+</p>
+        </li>
+
+        <li>
+          <p>[LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
+        </li>
+
+
+  </ul>
+
+</objectives>
+
+    <introduction>
+    <sidebyside widths="65% 25%" valign="middle">
+        <p>
+            If <m>x</m> is the number of $100 bills you spend on advertising and <m>f(x)</m> represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.
+        
+        </p>
+        <table>
+            
+            <tabular top="major" bottom="major" left="major" right="major">
+                <row header="yes">
+                    <cell><m>x</m></cell>
+                    <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                    <cell>5</cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>6</cell>
+                    <cell>71</cell>
+                </row>
+                <row>
+                    <cell>7</cell>
+                    <cell>83</cell>
+                </row>
+                <row>
+                    <cell>9</cell>
+                    <cell>76</cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>55</cell>
+                </row>
+            </tabular>
+        
+        </table>
+</sidebyside>
+    </introduction>
+    <exercise>
+   
+        <p>
+           [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the <alert>Standard form, Vertex form, and Factored form.</alert>
+        </p>
+    </exercise>
+     <exercise>
+            <p>
+                [LT15] Use either one of the equations you obtained from the quadratic regression to calculate <m>f(8)</m>, and write a sentence to explain what this value means in the context of the problem.
+            </p>     
+    </exercise>
+    <exercise>
+            <p>[LT16] Use your graph to identify and explain the meaning of the <m>x-</m>intercepts, <m>y-</m>intercepts. Write a sentence to explain what each intercept  mean in this context.
+            </p>
+    </exercise>
+
+    <exercise>
+            <p>
+                [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.
+            </p>
+      </exercise>
+
+   
+
+    <exercise>
+            <p>
+                [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.
+            </p>
+    </exercise>
+
+</worksheet>
