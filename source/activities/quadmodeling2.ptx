@@ -30,7 +30,7 @@ H(l)=-\frac{1}{231}l^2+\frac{10}{11}l+4
   <task>
     <statement>
         <p>
-            Whatis the value of <m>l</m> when the ball is directly over home plate?  At what height from the ground did the bat connect with the ball? (Assume the ball was hit directly over home plate.)
+            What is the value of <m>l</m> when the ball is directly over home plate?  At what height from the ground did the bat connect with the ball? (Assume the ball was hit directly over home plate.)
         </p>
     </statement>
   </task>
@@ -76,7 +76,7 @@ H(l)=-\frac{1}{231}l^2+\frac{10}{11}l+4
     
   </task>
    </exercise>
-   <exercise workspace="0.5in"> 
+   <exercise> 
     <introduction>
         <p>
             A person has a rectangular garden with a width of 8 feet and a length of 12 feet. To form a border of uniform width, she plans to put sod around the outside of the garden. If she has just enough sod to cover 125 square feet of land, determine the width of the border.
