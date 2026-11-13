@@ -1,0 +1,197 @@
+<worksheet>
+    <title>Combining Models</title>
+
+<objectives>
+    <ul>
+        <li>
+                <p>Combining different models to create new models.</p>
+        </li>
+        
+    </ul>
+  </objectives>
+
+    <!-- Optional introduction -->
+    <question>
+        <introduction>
+            <p>
+                The per captia consumption of all milk products in the United
+                States can be modeled by the function
+                <md>
+                    M(t)=-0.29t+22.42
+                </md>
+                measured in gallons per person t years since 2000.
+                The per captia consumption of whole milk in the United States
+                can be modeled by the function
+                <md>
+                    W(t)=-0.21t+8.09
+                </md>
+            </p>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                    How many gallons of milk products were consumed per person
+                    in 2005?
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    How much whole milk was consumed per person in 2005?
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    How much milk other than whole milk was consumed per person in 2005?
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                     Find a new function, <m>O(t)</m>,  that  models the  per captia  consumption  of  milk  product <alert>OTHER  THAN whole milk</alert>
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                     Use your answer to part 4 to answer:  how much milk other than whole milk was consumed per person in 2010?
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    What is the slope of <m>W (t)</m>? What does it mean in the context  of this problem?
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    What is the- <m>M-</m>intercept (i.e the <m>y-</m>intercept of <m>M(t)</m>)?  What does it mean in the context of this problem?
+                </p>
+            </statement>
+        </task>
+    </question>
+
+    <question>
+        <introduction>
+            <sidebyside widths="55% 35%" valign="middle">
+            <p>
+                Before they came up  with  the  idea  of  selling  juice  drinks,  Tom  First  and  Tom  Scott  lived  in  Nantucket  and worked odd jobs like tending bar, shucking scallops and washing dogs.  Nantucket Nectar juice drink sales have    grown rapidly since 1990.
+            </p>
+            <table>
+                <title>Nantucket Nectar Financial Data</title>
+                
+                
+                <tabular top="major" bottom="major" left="minor" right="minor" row="minor" column="minor">
+                    <row header="true">
+                        <cell>Year</cell>
+                        <cell>Annual Cost (in millions)</cell><cell>Annual Profit (in millions)</cell>
+                    </row>
+                    <row>
+                        <cell>1990</cell>
+                        <cell>0.1</cell>
+                        <cell>0.02</cell>
+                    </row>
+
+                    <row>
+                        <cell>1991</cell>
+                        <cell>0.2</cell>
+                        <cell>0.05</cell>
+                    </row>
+
+                    <row>
+                        <cell>1992</cell>
+                        <cell>0.5</cell>
+                        <cell>0.30</cell>
+                    </row>
+
+                    <row>
+                        <cell>1993</cell>
+                        <cell>1</cell>
+                        <cell>0.62</cell>
+                    </row>
+
+                    <row>
+                        <cell>1994</cell>
+                        <cell>6</cell>
+                        <cell>1.1</cell>
+                    </row>
+
+                    <row>
+                        <cell>1995</cell>
+                        <cell>15</cell>
+                        <cell>1.75</cell>
+                    </row>
+
+                    <row>
+                        <cell>1996</cell>
+                        <cell>30</cell>
+                        <cell>2.52</cell>
+                    </row>
+
+                    <row>
+                        <cell>1997</cell>
+                        <cell>60</cell>
+                        <cell>3.42</cell>
+                    </row>
+
+                    
+                </tabular>
+            </table>
+            </sidebyside>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                   <alert>Without </alert> technology, using only the data, determine if the annual cost data is linear, exponential, quadratic or neither.   Explain how you know.   If you think it is linear, estimate the slope.   If you think that it is exponential, estimate the <m>b</m>    value. 
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Using Desmo, determine the best model for the annual cost data. Express your model in functional notation.
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                     Using Desmo, determine the best model for the annual profit data. Express your model in functional notation.
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Using your models in parts (b) and (c), create a new model for the annual revenue. Express your model in functional notation.
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                     What do you predict the annual revenue to be in 2000?
+                </p>
+            </statement>
+        </task>
+    </question>
+</worksheet>
