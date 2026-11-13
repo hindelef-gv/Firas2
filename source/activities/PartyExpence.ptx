@@ -1,0 +1,205 @@
+<worksheet>
+    <title>Party Expense &amp; National debt</title>
+
+<objectives>
+    <ul>
+        <li>
+                <p>Combining different models to create new models.</p>
+        </li>
+        
+    </ul>
+  </objectives>
+  <section>
+    <title>Party Expense</title>
+    
+    
+
+    <introduction>
+        <p>
+            Suppose you are throwing a party and want  to share the expenses equally among all who attend.  The band      you hire costs $200 and everyone who comes will eat and drink about $3 worth of food and drink.
+        </p>
+    </introduction>
+<question>
+    <sidebyside widths="55% 35%" valign="middle">
+        <p>
+              What is  the  total  cost  for  2  people    to  attend?	5 people?	20 people?	In  these  cases  what  is  the charge  at  the  door,  assuming  it  is  split  equally?(Assume  that  you  and  the  band  members  don't pay.)
+        </p>
+        <table>
+                <title>Flat fee band</title>
+                
+                
+                <tabular top="major" bottom="major" left="minor" right="minor" row="minor" column="minor">
+                    <row header="true">
+                        <cell>Number of people attending</cell>
+                        <cell>Total Cost </cell><cell>Cost per person</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>5</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>10</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>20</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>30</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>40</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>x</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+
+                    
+                </tabular>
+            </table>
+    </sidebyside>
+</question>
+<question>
+    <introduction>
+        <p>
+            Suppose the people who attend are only willing to pay at most $5 at the door.  State an equation you      must solve to answer this question. Solve it and answer the question: How many people can attend?
+        </p>
+    </introduction>
+</question>
+<question>
+    <introduction>
+ <sidebyside widths="55% 35%" valign="middle">
+        <p>
+            Now suppose the band gets greedy and ask that in addition to their base fee of $200 they get an additional amount equal to the square of the number of people who attend.  That is, if 30 people attend the band gets a total of <m>$200 + 30^2 = $1100</m>. If <m>x</m> people attend, what is the cost per person? (The cost of the food and drink is still the same.) 
+        </p>
+
+        <table>
+                <title>Variable fee band</title>
+                
+                
+                <tabular top="major" bottom="major" left="minor" right="minor" row="minor" column="minor">
+                    <row header="true">
+                        <cell>Number of people attending</cell>
+                        <cell>Total Cost </cell><cell>Cost per person</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>5</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>10</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+                    <row>
+                        <cell>20</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+
+                    <row>
+                        <cell>x</cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+
+
+                    
+                </tabular>
+            </table>
+    </sidebyside>
+</introduction>
+</question>
+
+<question>
+    <introduction>
+        <p>
+           Consider the same situation as above, only this time the band is very famous and the people are willing to pay at most $50. How many can attend? State an equation you must solve to answer this   question.
+        </p>
+    </introduction>
+</question>
+  </section>
+<section>
+    <title>National Debt</title>
+    <introduction>
+        <p>
+          The population of the United States can be modeled by the function <md>P(t) = 0.226t^2+1.885t+204.72</md>, where <m>P(t)</m> is the population in millions and <m>t</m> is the number of years since 1970. The national debt can be modeled by the function <md>D(t) = 8215.1t^2-23035t+413525.6</md>, where <m>D(t)</m> is the national debt in millions of dollars and <m>t</m> is the number of years since 1970.
+        </p>
+    </introduction>
+    <question>
+        <introduction>
+            <p>
+                According to these models, what was the national debt in 1982?
+            </p>
+        </introduction>
+    </question>
+    <question>
+        <introduction>
+            <p>
+                According to these models, what was the population in 1982?
+            </p>
+        </introduction>
+    </question>
+    <question>
+        <introduction>
+            <p>
+                According to these models, what was the average national debt per capita in 1982 (i.e debt per person)?
+            </p>
+        </introduction>
+    </question>
+    <question>
+        <introduction>
+            <p>
+                Find a new model, <m>A(t)</m>, for the average amount of national debt per capita (i.e. debt per person) in the United State t years since 1970
+            </p>
+        </introduction>
+        
+    </question>
+    <question>
+        <introduction>
+            <p>
+                Use the model <m>A(t)</m> to estimate the average national debt per capita in 2011.
+            </p>
+        </introduction>
+    </question>
+    <question>
+        <introduction>
+            <p>
+                Determine when the national debt per capita is $10,000.  First write an equation you need to solve to  answer this question, solve it in Desmos,then write a sentence to summarize your answer.
+            </p>
+        </introduction>
+    </question>
+</section>
+</worksheet>

@@ -61,6 +61,7 @@
 <xi:include href="./activities/solvingQuads.ptx"/>
 <xi:include href="./activities/quadmodeling2.ptx"/>
 <xi:include href="./activities/Combiningmodels.ptx"/>
+<xi:include href="./activities/PartyExpence.ptx"/>
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 
