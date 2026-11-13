@@ -1099,6 +1099,42 @@ var ptx_lunr_docs = [
   "body": "  A rectangular picture of my smiling children is to be surrounded by a mat of uniform width\/thickness. (That is, the picture is going to be inset in the mat.) The outside overall dimensions of the mat are 24 inches by 32 inches (There is an opening for the picture in the center). If the area of the picture itself is 609 square inches, what is the width of the mat?    Start by drawing a picture like the one above. Label the dimensions of the mat with double headed arrows. Indicate the location of the picture.   "
 },
 {
+  "id": "activities-14",
+  "level": "1",
+  "url": "activities-14.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Combining Models",
+  "body": " Combining Models     Combining different models to create new models.        The per captia consumption of all milk products in the United States can be modeled by the function measured in gallons per person t years since 2000. The per captia consumption of whole milk in the United States can be modeled by the function      How many gallons of milk products were consumed per person in 2005?      How much whole milk was consumed per person in 2005?      How much milk other than whole milk was consumed per person in 2005?      Find a new function, , that models the per captia consumption of milk product OTHER THAN whole milk       Use your answer to part 4 to answer: how much milk other than whole milk was consumed per person in 2010?      What is the slope of ? What does it mean in the context of this problem?      What is the- intercept (i.e the intercept of )? What does it mean in the context of this problem?        Before they came up with the idea of selling juice drinks, Tom First and Tom Scott lived in Nantucket and worked odd jobs like tending bar, shucking scallops and washing dogs. Nantucket Nectar juice drink sales have grown rapidly since 1990.   Nantucket Nectar Financial Data    Year  Annual Cost (in millions) Annual Profit (in millions)    1990  0.1  0.02    1991  0.2  0.05    1992  0.5  0.30    1993  1  0.62    1994  6  1.1    1995  15  1.75    1996  30  2.52    1997  60  3.42          Without technology, using only the data, determine if the annual cost data is linear, exponential, quadratic or neither. Explain how you know. If you think it is linear, estimate the slope. If you think that it is exponential, estimate the value.      Using Desmo, determine the best model for the annual cost data. Express your model in functional notation.      Using Desmo, determine the best model for the annual profit data. Express your model in functional notation.      Using your models in parts (b) and (c), create a new model for the annual revenue. Express your model in functional notation.      What do you predict the annual revenue to be in 2000?     "
+},
+{
+  "id": "activities-14-2",
+  "level": "2",
+  "url": "activities-14.html#activities-14-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Combining different models to create new models.    "
+},
+{
+  "id": "activities-14-3",
+  "level": "2",
+  "url": "activities-14.html#activities-14-3",
+  "type": "Question",
+  "number": "74",
+  "title": "",
+  "body": "  The per captia consumption of all milk products in the United States can be modeled by the function measured in gallons per person t years since 2000. The per captia consumption of whole milk in the United States can be modeled by the function      How many gallons of milk products were consumed per person in 2005?      How much whole milk was consumed per person in 2005?      How much milk other than whole milk was consumed per person in 2005?      Find a new function, , that models the per captia consumption of milk product OTHER THAN whole milk       Use your answer to part 4 to answer: how much milk other than whole milk was consumed per person in 2010?      What is the slope of ? What does it mean in the context of this problem?      What is the- intercept (i.e the intercept of )? What does it mean in the context of this problem?    "
+},
+{
+  "id": "activities-14-4",
+  "level": "2",
+  "url": "activities-14.html#activities-14-4",
+  "type": "Question",
+  "number": "75",
+  "title": "",
+  "body": "   Before they came up with the idea of selling juice drinks, Tom First and Tom Scott lived in Nantucket and worked odd jobs like tending bar, shucking scallops and washing dogs. Nantucket Nectar juice drink sales have grown rapidly since 1990.   Nantucket Nectar Financial Data    Year  Annual Cost (in millions) Annual Profit (in millions)    1990  0.1  0.02    1991  0.2  0.05    1992  0.5  0.30    1993  1  0.62    1994  6  1.1    1995  15  1.75    1996  30  2.52    1997  60  3.42          Without technology, using only the data, determine if the annual cost data is linear, exponential, quadratic or neither. Explain how you know. If you think it is linear, estimate the slope. If you think that it is exponential, estimate the value.      Using Desmo, determine the best model for the annual cost data. Express your model in functional notation.      Using Desmo, determine the best model for the annual profit data. Express your model in functional notation.      Using your models in parts (b) and (c), create a new model for the annual revenue. Express your model in functional notation.      What do you predict the annual revenue to be in 2000?    "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -1130,7 +1166,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "74",
+  "number": "77",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1139,7 +1175,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "75",
+  "number": "78",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1148,7 +1184,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "76",
+  "number": "79",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1184,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "77",
+  "number": "80",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1193,7 +1229,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "78",
+  "number": "81",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1202,7 +1238,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "79",
+  "number": "82",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1238,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "80",
+  "number": "83",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1247,7 +1283,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "81",
+  "number": "84",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1256,7 +1292,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "82",
+  "number": "85",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1292,7 +1328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "83",
+  "number": "86",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1301,7 +1337,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "84",
+  "number": "87",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1310,7 +1346,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "85",
+  "number": "88",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1364,7 +1400,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "86",
+  "number": "89",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1373,7 +1409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "90",
+  "number": "93",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1724,7 +1760,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-15.html#LTss-15-3-1-2",
   "type": "Table",
-  "number": "94",
+  "number": "97",
   "title": "",
   "body": "       5  52    6  71    7  83    9  76    10  55    "
 },
@@ -1796,7 +1832,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-16.html#LTss-16-3-1-2",
   "type": "Table",
-  "number": "95",
+  "number": "98",
   "title": "",
   "body": "       5  51    6  71    7  83    9  76    10  54    "
 },
@@ -1868,7 +1904,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-17.html#LTss-17-3-1-2",
   "type": "Table",
-  "number": "96",
+  "number": "99",
   "title": "",
   "body": "       5  50    6  71    7  83    9  76    10  55    "
 },
@@ -1940,7 +1976,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-18.html#LTss-18-3-1-2",
   "type": "Table",
-  "number": "97",
+  "number": "100",
   "title": "",
   "body": "       5  49    6  71    7  83    9  76    10  56    "
 },
