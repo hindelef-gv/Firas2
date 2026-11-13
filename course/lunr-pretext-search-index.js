@@ -1135,6 +1135,114 @@ var ptx_lunr_docs = [
   "body": "   Before they came up with the idea of selling juice drinks, Tom First and Tom Scott lived in Nantucket and worked odd jobs like tending bar, shucking scallops and washing dogs. Nantucket Nectar juice drink sales have grown rapidly since 1990.   Nantucket Nectar Financial Data    Year  Annual Cost (in millions) Annual Profit (in millions)    1990  0.1  0.02    1991  0.2  0.05    1992  0.5  0.30    1993  1  0.62    1994  6  1.1    1995  15  1.75    1996  30  2.52    1997  60  3.42          Without technology, using only the data, determine if the annual cost data is linear, exponential, quadratic or neither. Explain how you know. If you think it is linear, estimate the slope. If you think that it is exponential, estimate the value.      Using Desmo, determine the best model for the annual cost data. Express your model in functional notation.      Using Desmo, determine the best model for the annual profit data. Express your model in functional notation.      Using your models in parts (b) and (c), create a new model for the annual revenue. Express your model in functional notation.      What do you predict the annual revenue to be in 2000?    "
 },
 {
+  "id": "activities-15",
+  "level": "1",
+  "url": "activities-15.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Party Expense &amp; National debt",
+  "body": " Party Expense & National debt     Combining different models to create new models.      Party Expense   Suppose you are throwing a party and want to share the expenses equally among all who attend. The band you hire costs $200 and everyone who comes will eat and drink about $3 worth of food and drink.     What is the total cost for 2 people to attend? 5 people? 20 people? In these cases what is the charge at the door, assuming it is split equally?(Assume that you and the band members don't pay.)   Flat fee band    Number of people attending  Total Cost Cost per person    2      5      10      20      30      40      x           Suppose the people who attend are only willing to pay at most $5 at the door. State an equation you must solve to answer this question. Solve it and answer the question: How many people can attend?       Now suppose the band gets greedy and ask that in addition to their base fee of $200 they get an additional amount equal to the square of the number of people who attend. That is, if 30 people attend the band gets a total of . If people attend, what is the cost per person? (The cost of the food and drink is still the same.)   Variable fee band    Number of people attending  Total Cost Cost per person    2      5      10      20      x            Consider the same situation as above, only this time the band is very famous and the people are willing to pay at most $50. How many can attend? State an equation you must solve to answer this question.      National Debt   The population of the United States can be modeled by the function , where is the population in millions and is the number of years since 1970. The national debt can be modeled by the function , where is the national debt in millions of dollars and is the number of years since 1970.     According to these models, what was the national debt in 1982?      According to these models, what was the population in 1982?      According to these models, what was the average national debt per capita in 1982 (i.e debt per person)?      Find a new model, , for the average amount of national debt per capita (i.e. debt per person) in the United State t years since 1970      Use the model to estimate the average national debt per capita in 2011.      Determine when the national debt per capita is $10,000. First write an equation you need to solve to answer this question, solve it in Desmos,then write a sentence to summarize your answer.     "
+},
+{
+  "id": "activities-15-2",
+  "level": "2",
+  "url": "activities-15.html#activities-15-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Combining different models to create new models.    "
+},
+{
+  "id": "activities-15-3-3",
+  "level": "2",
+  "url": "activities-15.html#activities-15-3-3",
+  "type": "Question",
+  "number": "77",
+  "title": "",
+  "body": "  What is the total cost for 2 people to attend? 5 people? 20 people? In these cases what is the charge at the door, assuming it is split equally?(Assume that you and the band members don't pay.)   Flat fee band    Number of people attending  Total Cost Cost per person    2      5      10      20      30      40      x        "
+},
+{
+  "id": "activities-15-3-4",
+  "level": "2",
+  "url": "activities-15.html#activities-15-3-4",
+  "type": "Question",
+  "number": "79",
+  "title": "",
+  "body": "  Suppose the people who attend are only willing to pay at most $5 at the door. State an equation you must solve to answer this question. Solve it and answer the question: How many people can attend?   "
+},
+{
+  "id": "activities-15-3-5",
+  "level": "2",
+  "url": "activities-15.html#activities-15-3-5",
+  "type": "Question",
+  "number": "80",
+  "title": "",
+  "body": "   Now suppose the band gets greedy and ask that in addition to their base fee of $200 they get an additional amount equal to the square of the number of people who attend. That is, if 30 people attend the band gets a total of . If people attend, what is the cost per person? (The cost of the food and drink is still the same.)   Variable fee band    Number of people attending  Total Cost Cost per person    2      5      10      20      x         "
+},
+{
+  "id": "activities-15-3-6",
+  "level": "2",
+  "url": "activities-15.html#activities-15-3-6",
+  "type": "Question",
+  "number": "82",
+  "title": "",
+  "body": "  Consider the same situation as above, only this time the band is very famous and the people are willing to pay at most $50. How many can attend? State an equation you must solve to answer this question.   "
+},
+{
+  "id": "activities-15-4-3",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-3",
+  "type": "Question",
+  "number": "83",
+  "title": "",
+  "body": "  According to these models, what was the national debt in 1982?   "
+},
+{
+  "id": "activities-15-4-4",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-4",
+  "type": "Question",
+  "number": "84",
+  "title": "",
+  "body": "  According to these models, what was the population in 1982?   "
+},
+{
+  "id": "activities-15-4-5",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-5",
+  "type": "Question",
+  "number": "85",
+  "title": "",
+  "body": "  According to these models, what was the average national debt per capita in 1982 (i.e debt per person)?   "
+},
+{
+  "id": "activities-15-4-6",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-6",
+  "type": "Question",
+  "number": "86",
+  "title": "",
+  "body": "  Find a new model, , for the average amount of national debt per capita (i.e. debt per person) in the United State t years since 1970   "
+},
+{
+  "id": "activities-15-4-7",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-7",
+  "type": "Question",
+  "number": "87",
+  "title": "",
+  "body": "  Use the model to estimate the average national debt per capita in 2011.   "
+},
+{
+  "id": "activities-15-4-8",
+  "level": "2",
+  "url": "activities-15.html#activities-15-4-8",
+  "type": "Question",
+  "number": "88",
+  "title": "",
+  "body": "  Determine when the national debt per capita is $10,000. First write an equation you need to solve to answer this question, solve it in Desmos,then write a sentence to summarize your answer.   "
+},
+{
   "id": "handouts",
   "level": "1",
   "url": "handouts.html",
@@ -1166,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-3",
   "type": "Definition",
-  "number": "77",
+  "number": "89",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1175,7 +1283,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-4",
   "type": "Definition",
-  "number": "78",
+  "number": "90",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1184,7 +1292,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-2.html#LTss-2-5",
   "type": "Definition",
-  "number": "79",
+  "number": "91",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1220,7 +1328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-3",
   "type": "Definition",
-  "number": "80",
+  "number": "92",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1229,7 +1337,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-4",
   "type": "Definition",
-  "number": "81",
+  "number": "93",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1238,7 +1346,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-3.html#LTss-3-5",
   "type": "Definition",
-  "number": "82",
+  "number": "94",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1274,7 +1382,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-3",
   "type": "Definition",
-  "number": "83",
+  "number": "95",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1283,7 +1391,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-4",
   "type": "Definition",
-  "number": "84",
+  "number": "96",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1292,7 +1400,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-4.html#LTss-4-5",
   "type": "Definition",
-  "number": "85",
+  "number": "97",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1328,7 +1436,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-3",
   "type": "Definition",
-  "number": "86",
+  "number": "98",
   "title": "",
   "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
 },
@@ -1337,7 +1445,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-4",
   "type": "Definition",
-  "number": "87",
+  "number": "99",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
@@ -1346,7 +1454,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-5.html#LTss-5-5",
   "type": "Definition",
-  "number": "88",
+  "number": "100",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
@@ -1400,7 +1508,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-5",
   "type": "Table",
-  "number": "89",
+  "number": "101",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1409,7 +1517,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-6.html#LTss-6-6",
   "type": "Table",
-  "number": "93",
+  "number": "105",
   "title": "",
   "body": "     Step 1   A description of the graphic for accessibility     Step 2   A description of the graphic for accessibility      Step 3   A description of the graphic for accessibility        "
 },
@@ -1760,7 +1868,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-15.html#LTss-15-3-1-2",
   "type": "Table",
-  "number": "97",
+  "number": "109",
   "title": "",
   "body": "       5  52    6  71    7  83    9  76    10  55    "
 },
@@ -1832,7 +1940,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-16.html#LTss-16-3-1-2",
   "type": "Table",
-  "number": "98",
+  "number": "110",
   "title": "",
   "body": "       5  51    6  71    7  83    9  76    10  54    "
 },
@@ -1904,7 +2012,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-17.html#LTss-17-3-1-2",
   "type": "Table",
-  "number": "99",
+  "number": "111",
   "title": "",
   "body": "       5  50    6  71    7  83    9  76    10  55    "
 },
@@ -1976,7 +2084,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "LTss-18.html#LTss-18-3-1-2",
   "type": "Table",
-  "number": "100",
+  "number": "112",
   "title": "",
   "body": "       5  49    6  71    7  83    9  76    10  56    "
 },
