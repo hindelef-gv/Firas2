@@ -1852,7 +1852,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Week 12 LTs-A",
-  "body": " Week 12 LTs-A     [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  52    6  71    7  83    9  76    10  55        [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
+  "body": " Week 12 LTs-A     [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  52    6  71    7  83    9  76    10  55        [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
 },
 {
   "id": "LTss-15-2",
@@ -1861,7 +1861,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+  "body": "   [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
 },
 {
   "id": "LTss-15-3-1-2",
@@ -1879,7 +1879,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
+  "body": " [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
 },
 {
   "id": "LTss-15-5",
@@ -1888,7 +1888,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
+  "body": " [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
 },
 {
   "id": "LTss-15-6",
@@ -1897,7 +1897,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
+  "body": " [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
 },
 {
   "id": "LTss-15-7",
@@ -1906,7 +1906,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
+  "body": " [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
 },
 {
   "id": "LTss-15-8",
@@ -1915,7 +1915,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": " [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
+  "body": " [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
 },
 {
   "id": "LTss-16",
@@ -1924,7 +1924,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Week 12 LTs-B",
-  "body": " Week 12 LTs-B     [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  51    6  71    7  83    9  76    10  54        [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
+  "body": " Week 12 LTs-B     [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  51    6  71    7  83    9  76    10  54        [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
 },
 {
   "id": "LTss-16-2",
@@ -1933,7 +1933,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+  "body": "   [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
 },
 {
   "id": "LTss-16-3-1-2",
@@ -1951,7 +1951,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
+  "body": " [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
 },
 {
   "id": "LTss-16-5",
@@ -1960,7 +1960,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
+  "body": " [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
 },
 {
   "id": "LTss-16-6",
@@ -1969,7 +1969,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
+  "body": " [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
 },
 {
   "id": "LTss-16-7",
@@ -1978,7 +1978,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
+  "body": " [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
 },
 {
   "id": "LTss-16-8",
@@ -1987,7 +1987,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": " [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
+  "body": " [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
 },
 {
   "id": "LTss-17",
@@ -1996,7 +1996,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Week 12 LTs-C",
-  "body": " Week 12 LTs-C     [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  50    6  71    7  83    9  76    10  55        [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
+  "body": " Week 12 LTs-C     [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  50    6  71    7  83    9  76    10  55        [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
 },
 {
   "id": "LTss-17-2",
@@ -2005,7 +2005,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+  "body": "   [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
 },
 {
   "id": "LTss-17-3-1-2",
@@ -2023,7 +2023,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
+  "body": " [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
 },
 {
   "id": "LTss-17-5",
@@ -2032,7 +2032,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
+  "body": " [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
 },
 {
   "id": "LTss-17-6",
@@ -2041,7 +2041,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
+  "body": " [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
 },
 {
   "id": "LTss-17-7",
@@ -2050,7 +2050,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
+  "body": " [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
 },
 {
   "id": "LTss-17-8",
@@ -2059,7 +2059,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": " [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
+  "body": " [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
 },
 {
   "id": "LTss-18",
@@ -2068,7 +2068,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Week 12 LTs-D",
-  "body": " Week 12 LTs-D     [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  49    6  71    7  83    9  76    10  56        [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
+  "body": " Week 12 LTs-D     [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.       If is the number of $100 bills you spend on advertising and represents the total revenue generated from that advertising in thousands of dollars. The table represents the relationship between the amount spent on advertising and the corresponding revenue.         5  49    6  71    7  83    9  76    10  56        [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.     [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.    [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.    [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.    [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.   "
 },
 {
   "id": "LTss-18-2",
@@ -2077,7 +2077,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   [LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
+  "body": "   [LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning.    [LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate , and find given .    [LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of intercepts, intercepts, and vertex in the context, find and explain its meaning, find given and explain its meaning,and determine what inputs make sense.    [LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application. I can translate between different representations.    "
 },
 {
   "id": "LTss-18-3-1-2",
@@ -2095,7 +2095,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
+  "body": " [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the Standard form, Vertex form, and Factored form.   "
 },
 {
   "id": "LTss-18-5",
@@ -2104,7 +2104,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " [LT15] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
+  "body": " [LT14] Use either one of the equations you obtained from the quadratic regression to calculate , and write a sentence to explain what this value means in the context of the problem.  "
 },
 {
   "id": "LTss-18-6",
@@ -2113,7 +2113,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " [LT16] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
+  "body": " [LT15] Use your graph to identify and explain the meaning of the intercepts, intercepts. Write a sentence to explain what each intercept mean in this context.  "
 },
 {
   "id": "LTss-18-7",
@@ -2122,7 +2122,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
+  "body": " [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.  "
 },
 {
   "id": "LTss-18-8",
@@ -2131,7 +2131,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": " [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
+  "body": " [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.  "
 }
 ]
 
