@@ -4,22 +4,22 @@
 
   <ul>
     <li>
-          <p>[LT15] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
+          <p>[LT14] Given a data set, make a quadratic regression model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning.
 </p>
         </li>
 
         <li>
-          <p>[LT16] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m>.
+          <p>[LT15] Given a quadratic graph, find the equation in 3 different forms, identify the horizontal intercepts, vertical intercept, and vertex, evaluate <m>f(a)</m>, and find <m>x</m> given <m>f(a)</m>.
 </p>
         </li>
 
         <li>
-          <p>[LT17] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.
+          <p>[LT16] Given a quadratic word situation, graph the model on Desmos, identify and explain the meaning of <m>x-</m>intercepts, <m>y-</m>intercepts, and vertex in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m> given <m>f(a)</m> and explain its meaning,and determine what inputs make sense.
 </p>
         </li>
 
         <li>
-          <p>[LT18] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
+          <p>[LT17] I can recognize and identify key characteristics of a quadratic pattern represented in a table, graph, equation or application.  I can translate between different representations.</p>
         </li>
 
 
@@ -68,16 +68,16 @@
     <exercise>
    
         <p>
-           [LT15] Use Desmos to find the best fit quadratic regression model for the given data in the <alert>Standard form, Vertex form, and Factored form.</alert>
+           [LT14] Use Desmos to find the best fit quadratic regression model for the given data in the <alert>Standard form, Vertex form, and Factored form.</alert>
         </p>
     </exercise>
      <exercise>
             <p>
-                [LT15] Use either one of the equations you obtained from the quadratic regression to calculate <m>f(8)</m>, and write a sentence to explain what this value means in the context of the problem.
+                [LT14] Use either one of the equations you obtained from the quadratic regression to calculate <m>f(8)</m>, and write a sentence to explain what this value means in the context of the problem.
             </p>     
     </exercise>
     <exercise>
-            <p>[LT16] Use your graph to identify and explain the meaning of the <m>x-</m>intercepts, <m>y-</m>intercepts. Write a sentence to explain what each intercept  mean in this context.
+            <p>[LT15] Use your graph to identify and explain the meaning of the <m>x-</m>intercepts, <m>y-</m>intercepts. Write a sentence to explain what each intercept  mean in this context.
             </p>
     </exercise>
 
@@ -86,12 +86,12 @@
 
     <exercise>
             <p>
-                [LT17] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.
+                [LT16] How much should you spend on advertising to achieve a revenue of $80,000? Show your algebra work, and verify your answer using the graph.
             </p>
     </exercise>
 <exercise>
             <p>
-                [LT18] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.
+                [LT17] Use your graph to determine how much you need to spend on advertising to achieve the maximum revenue, and how much is that maximum revenue.
             </p>
     </exercise>
 </worksheet>
